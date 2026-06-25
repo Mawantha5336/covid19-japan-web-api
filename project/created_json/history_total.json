@@ -1,0 +1,9442 @@
+[
+  {
+    "date": 20200205,
+    "pcr": 31,
+    "hospitalize": 0,
+    "positive": 10,
+    "severe": 0,
+    "discharge": 0,
+    "death": 0,
+    "symptom_confirming": 0
+  },
+  {
+    "date": 20200206,
+    "pcr": 566,
+    "hospitalize": 9,
+    "positive": 9,
+    "severe": 0,
+    "discharge": 0,
+    "death": 0,
+    "symptom_confirming": 2
+  },
+  {
+    "date": 20200207,
+    "pcr": 839,
+    "hospitalize": 9,
+    "positive": 70,
+    "severe": 0,
+    "discharge": 0,
+    "death": 0,
+    "symptom_confirming": 2
+  },
+  {
+    "date": 20200208,
+    "pcr": 279,
+    "hospitalize": 3,
+    "positive": 64,
+    "severe": 0,
+    "discharge": 0,
+    "death": 0,
+    "symptom_confirming": 0
+  },
+  {
+    "date": 20200209,
+    "pcr": 336,
+    "hospitalize": 3,
+    "positive": 70,
+    "severe": 0,
+    "discharge": 0,
+    "death": 0,
+    "symptom_confirming": 0
+  },
+  {
+    "date": 20200210,
+    "pcr": 1203,
+    "hospitalize": 10,
+    "positive": 145,
+    "severe": 0,
+    "discharge": 0,
+    "death": 0,
+    "symptom_confirming": 3
+  },
+  {
+    "date": 20200211,
+    "pcr": 764,
+    "hospitalize": 3,
+    "positive": 0,
+    "severe": 0,
+    "discharge": 0,
+    "death": 0,
+    "symptom_confirming": 0
+  },
+  {
+    "date": 20200212,
+    "pcr": 764,
+    "hospitalize": 12,
+    "positive": 12,
+    "severe": 0,
+    "discharge": 0,
+    "death": 0,
+    "symptom_confirming": 1
+  },
+  {
+    "date": 20200213,
+    "pcr": 1477,
+    "hospitalize": 12,
+    "positive": 230,
+    "severe": 0,
+    "discharge": 0,
+    "death": 0,
+    "symptom_confirming": 0
+  },
+  {
+    "date": 20200214,
+    "pcr": 764,
+    "hospitalize": 11,
+    "positive": 12,
+    "severe": 0,
+    "discharge": 1,
+    "death": 0,
+    "symptom_confirming": 0
+  },
+  {
+    "date": 20200215,
+    "pcr": 1694,
+    "hospitalize": 0,
+    "positive": 285,
+    "severe": 0,
+    "discharge": 0,
+    "death": 0,
+    "symptom_confirming": 0
+  },
+  {
+    "date": 20200216,
+    "pcr": 1983,
+    "hospitalize": 0,
+    "positive": 355,
+    "severe": 0,
+    "discharge": 0,
+    "death": 0,
+    "symptom_confirming": 0
+  },
+  {
+    "date": 20200217,
+    "pcr": 2487,
+    "hospitalize": 8,
+    "positive": 467,
+    "severe": 0,
+    "discharge": 5,
+    "death": 0,
+    "symptom_confirming": 0
+  },
+  {
+    "date": 20200218,
+    "pcr": 3168,
+    "hospitalize": 7,
+    "positive": 555,
+    "severe": 0,
+    "discharge": 6,
+    "death": 0,
+    "symptom_confirming": 0
+  },
+  {
+    "date": 20200219,
+    "pcr": 3775,
+    "hospitalize": 7,
+    "positive": 634,
+    "severe": 0,
+    "discharge": 6,
+    "death": 0,
+    "symptom_confirming": 0
+  },
+  {
+    "date": 20200220,
+    "pcr": 3892,
+    "hospitalize": 8,
+    "positive": 648,
+    "severe": 0,
+    "discharge": 6,
+    "death": 2,
+    "symptom_confirming": 0
+  },
+  {
+    "date": 20200221,
+    "pcr": 3892,
+    "hospitalize": 7,
+    "positive": 648,
+    "severe": 0,
+    "discharge": 7,
+    "death": 2,
+    "symptom_confirming": 0
+  },
+  {
+    "date": 20200222,
+    "pcr": 829,
+    "hospitalize": 8,
+    "positive": 15,
+    "severe": 0,
+    "discharge": 7,
+    "death": 2,
+    "symptom_confirming": 1
+  },
+  {
+    "date": 20200223,
+    "pcr": 4723,
+    "hospitalize": 8,
+    "positive": 706,
+    "severe": 0,
+    "discharge": 7,
+    "death": 3,
+    "symptom_confirming": 1
+  },
+  {
+    "date": 20200224,
+    "pcr": 4723,
+    "hospitalize": 6,
+    "positive": 706,
+    "severe": 0,
+    "discharge": 9,
+    "death": 3,
+    "symptom_confirming": 1
+  },
+  {
+    "date": 20200225,
+    "pcr": 4723,
+    "hospitalize": 6,
+    "positive": 706,
+    "severe": 0,
+    "discharge": 9,
+    "death": 4,
+    "symptom_confirming": 1
+  },
+  {
+    "date": 20200226,
+    "pcr": 4723,
+    "hospitalize": 6,
+    "positive": 706,
+    "severe": 0,
+    "discharge": 9,
+    "death": 4,
+    "symptom_confirming": 1
+  },
+  {
+    "date": 20200227,
+    "pcr": 4890,
+    "hospitalize": 5,
+    "positive": 720,
+    "severe": 0,
+    "discharge": 10,
+    "death": 4,
+    "symptom_confirming": 1
+  },
+  {
+    "date": 20200228,
+    "pcr": 4890,
+    "hospitalize": 4,
+    "positive": 720,
+    "severe": 0,
+    "discharge": 11,
+    "death": 6,
+    "symptom_confirming": 0
+  },
+  {
+    "date": 20200229,
+    "pcr": 4890,
+    "hospitalize": 4,
+    "positive": 720,
+    "severe": 0,
+    "discharge": 11,
+    "death": 6,
+    "symptom_confirming": 0
+  },
+  {
+    "date": 20200301,
+    "pcr": 4890,
+    "hospitalize": 4,
+    "positive": 720,
+    "severe": 34,
+    "discharge": 111,
+    "death": 6,
+    "symptom_confirming": 525
+  },
+  {
+    "date": 20200302,
+    "pcr": 4890,
+    "hospitalize": 4,
+    "positive": 720,
+    "severe": 0,
+    "discharge": 11,
+    "death": 6,
+    "symptom_confirming": 0
+  },
+  {
+    "date": 20200303,
+    "pcr": 4918,
+    "hospitalize": 4,
+    "positive": 721,
+    "severe": 0,
+    "discharge": 175,
+    "death": 6,
+    "symptom_confirming": 0
+  },
+  {
+    "date": 20200304,
+    "pcr": 4918,
+    "hospitalize": 4,
+    "positive": 703,
+    "severe": 35,
+    "discharge": 192,
+    "death": 6,
+    "symptom_confirming": 426
+  },
+  {
+    "date": 20200305,
+    "pcr": 4447,
+    "hospitalize": 4,
+    "positive": 711,
+    "severe": 35,
+    "discharge": 210,
+    "death": 6,
+    "symptom_confirming": 416
+  },
+  {
+    "date": 20200306,
+    "pcr": 4447,
+    "hospitalize": 2,
+    "positive": 711,
+    "severe": 34,
+    "discharge": 255,
+    "death": 7,
+    "symptom_confirming": 373
+  },
+  {
+    "date": 20200307,
+    "pcr": 4447,
+    "hospitalize": 2,
+    "positive": 711,
+    "severe": 32,
+    "discharge": 258,
+    "death": 7,
+    "symptom_confirming": 372
+  },
+  {
+    "date": 20200308,
+    "pcr": 4447,
+    "hospitalize": 2,
+    "positive": 711,
+    "severe": 29,
+    "discharge": 258,
+    "death": 7,
+    "symptom_confirming": 375
+  },
+  {
+    "date": 20200309,
+    "pcr": 4447,
+    "hospitalize": 2,
+    "positive": 711,
+    "severe": 26,
+    "discharge": 258,
+    "death": 7,
+    "symptom_confirming": 378
+  },
+  {
+    "date": 20200310,
+    "pcr": 4447,
+    "hospitalize": 2,
+    "positive": 711,
+    "severe": 24,
+    "discharge": 338,
+    "death": 7,
+    "symptom_confirming": 300
+  },
+  {
+    "date": 20200311,
+    "pcr": 4447,
+    "hospitalize": 0,
+    "positive": 711,
+    "severe": 19,
+    "discharge": 372,
+    "death": 7,
+    "symptom_confirming": 273
+  },
+  {
+    "date": 20200312,
+    "pcr": 4447,
+    "hospitalize": 0,
+    "positive": 712,
+    "severe": 15,
+    "discharge": 403,
+    "death": 7,
+    "symptom_confirming": 247
+  },
+  {
+    "date": 20200313,
+    "pcr": 4447,
+    "hospitalize": 0,
+    "positive": 712,
+    "severe": 15,
+    "discharge": 405,
+    "death": 7,
+    "symptom_confirming": 245
+  },
+  {
+    "date": 20200314,
+    "pcr": 4447,
+    "hospitalize": 0,
+    "positive": 712,
+    "severe": 15,
+    "discharge": 471,
+    "death": 7,
+    "symptom_confirming": 179
+  },
+  {
+    "date": 20200315,
+    "pcr": 4447,
+    "hospitalize": 0,
+    "positive": 727,
+    "severe": 15,
+    "discharge": 473,
+    "death": 7,
+    "symptom_confirming": 192
+  },
+  {
+    "date": 20200316,
+    "pcr": 4447,
+    "hospitalize": 0,
+    "positive": 727,
+    "severe": 15,
+    "discharge": 473,
+    "death": 7,
+    "symptom_confirming": 192
+  },
+  {
+    "date": 20200317,
+    "pcr": 4447,
+    "hospitalize": 0,
+    "positive": 727,
+    "severe": 15,
+    "discharge": 523,
+    "death": 7,
+    "symptom_confirming": 142
+  },
+  {
+    "date": 20200318,
+    "pcr": 4447,
+    "hospitalize": 0,
+    "positive": 727,
+    "severe": 15,
+    "discharge": 542,
+    "death": 7,
+    "symptom_confirming": 123
+  },
+  {
+    "date": 20200319,
+    "pcr": 4447,
+    "hospitalize": 590,
+    "positive": 1521,
+    "severe": 15,
+    "discharge": 739,
+    "death": 38,
+    "symptom_confirming": 99
+  },
+  {
+    "date": 20200320,
+    "pcr": 4447,
+    "hospitalize": 614,
+    "positive": 1556,
+    "severe": 13,
+    "discharge": 764,
+    "death": 40,
+    "symptom_confirming": 85
+  },
+  {
+    "date": 20200321,
+    "pcr": 4447,
+    "hospitalize": 649,
+    "positive": 1598,
+    "severe": 12,
+    "discharge": 769,
+    "death": 43,
+    "symptom_confirming": 85
+  },
+  {
+    "date": 20200322,
+    "pcr": 5620,
+    "hospitalize": 663,
+    "positive": 1650,
+    "severe": 12,
+    "discharge": 813,
+    "death": 44,
+    "symptom_confirming": 78
+  },
+  {
+    "date": 20200323,
+    "pcr": 5636,
+    "hospitalize": 686,
+    "positive": 1688,
+    "severe": 12,
+    "discharge": 838,
+    "death": 49,
+    "symptom_confirming": 65
+  },
+  {
+    "date": 20200324,
+    "pcr": 27045,
+    "hospitalize": 706,
+    "positive": 1725,
+    "severe": 11,
+    "discharge": 858,
+    "death": 52,
+    "symptom_confirming": 61
+  },
+  {
+    "date": 20200325,
+    "pcr": 26110,
+    "hospitalize": 756,
+    "positive": 1784,
+    "severe": 11,
+    "discharge": 873,
+    "death": 53,
+    "symptom_confirming": 54
+  },
+  {
+    "date": 20200326,
+    "pcr": 27976,
+    "hospitalize": 791,
+    "positive": 1869,
+    "severe": 11,
+    "discharge": 925,
+    "death": 55,
+    "symptom_confirming": 50
+  },
+  {
+    "date": 20200327,
+    "pcr": 29991,
+    "hospitalize": 850,
+    "positive": 1941,
+    "severe": 11,
+    "discharge": 938,
+    "death": 56,
+    "symptom_confirming": 48
+  },
+  {
+    "date": 20200328,
+    "pcr": 31419,
+    "hospitalize": 887,
+    "positive": 2009,
+    "severe": 11,
+    "discharge": 968,
+    "death": 55,
+    "symptom_confirming": 48
+  },
+  {
+    "date": 20200329,
+    "pcr": 31820,
+    "hospitalize": 1217,
+    "positive": 2405,
+    "severe": 11,
+    "discharge": 1027,
+    "death": 62,
+    "symptom_confirming": 48
+  },
+  {
+    "date": 20200330,
+    "pcr": 32018,
+    "hospitalize": 1388,
+    "positive": 2578,
+    "severe": 11,
+    "discharge": 1027,
+    "death": 64,
+    "symptom_confirming": 48
+  },
+  {
+    "date": 20200331,
+    "pcr": 35564,
+    "hospitalize": 1473,
+    "positive": 2665,
+    "severe": 10,
+    "discharge": 1043,
+    "death": 67,
+    "symptom_confirming": 32
+  },
+  {
+    "date": 20200401,
+    "pcr": 37749,
+    "hospitalize": 1649,
+    "positive": 2890,
+    "severe": 10,
+    "discharge": 1091,
+    "death": 68,
+    "symptom_confirming": 32
+  },
+  {
+    "date": 20200402,
+    "pcr": 37751,
+    "hospitalize": 1816,
+    "positive": 3093,
+    "severe": 10,
+    "discharge": 1124,
+    "death": 71,
+    "symptom_confirming": 32
+  },
+  {
+    "date": 20200403,
+    "pcr": 42638,
+    "hospitalize": 2040,
+    "positive": 3329,
+    "severe": 9,
+    "discharge": 1133,
+    "death": 74,
+    "symptom_confirming": 33
+  },
+  {
+    "date": 20200404,
+    "pcr": 46039,
+    "hospitalize": 2044,
+    "positive": 3333,
+    "severe": 9,
+    "discharge": 1133,
+    "death": 74,
+    "symptom_confirming": 33
+  },
+  {
+    "date": 20200405,
+    "pcr": 47793,
+    "hospitalize": 2617,
+    "positive": 3983,
+    "severe": 9,
+    "discharge": 1203,
+    "death": 81,
+    "symptom_confirming": 33
+  },
+  {
+    "date": 20200406,
+    "pcr": 49324,
+    "hospitalize": 2989,
+    "positive": 4366,
+    "severe": 9,
+    "discharge": 1211,
+    "death": 84,
+    "symptom_confirming": 33
+  },
+  {
+    "date": 20200407,
+    "pcr": 58435,
+    "hospitalize": 3204,
+    "positive": 4618,
+    "severe": 9,
+    "discharge": 1242,
+    "death": 91,
+    "symptom_confirming": 32
+  },
+  {
+    "date": 20200408,
+    "pcr": 64593,
+    "hospitalize": 3544,
+    "positive": 4969,
+    "severe": 8,
+    "discharge": 1270,
+    "death": 92,
+    "symptom_confirming": 15
+  },
+  {
+    "date": 20200409,
+    "pcr": 67443,
+    "hospitalize": 3998,
+    "positive": 5480,
+    "severe": 8,
+    "discharge": 1323,
+    "death": 96,
+    "symptom_confirming": 15
+  },
+  {
+    "date": 20200410,
+    "pcr": 71985,
+    "hospitalize": 4545,
+    "positive": 6059,
+    "severe": 8,
+    "discharge": 1353,
+    "death": 99,
+    "symptom_confirming": 14
+  },
+  {
+    "date": 20200411,
+    "pcr": 78373,
+    "hospitalize": 5149,
+    "positive": 6717,
+    "severe": 8,
+    "discharge": 1406,
+    "death": 106,
+    "symptom_confirming": 8
+  },
+  {
+    "date": 20200412,
+    "pcr": 80999,
+    "hospitalize": 5866,
+    "positive": 7460,
+    "severe": 6,
+    "discharge": 1428,
+    "death": 110,
+    "symptom_confirming": 10
+  },
+  {
+    "date": 20200413,
+    "pcr": 82320,
+    "hospitalize": 6354,
+    "positive": 7967,
+    "severe": 6,
+    "discharge": 1443,
+    "death": 114,
+    "symptom_confirming": 10
+  },
+  {
+    "date": 20200414,
+    "pcr": 93169,
+    "hospitalize": 6683,
+    "positive": 8357,
+    "severe": 6,
+    "discharge": 1497,
+    "death": 121,
+    "symptom_confirming": 10
+  },
+  {
+    "date": 20200415,
+    "pcr": 97854,
+    "hospitalize": 7080,
+    "positive": 8812,
+    "severe": 5,
+    "discharge": 1546,
+    "death": 131,
+    "symptom_confirming": 10
+  },
+  {
+    "date": 20200416,
+    "pcr": 104321,
+    "hospitalize": 7511,
+    "positive": 9294,
+    "severe": 4,
+    "discharge": 1580,
+    "death": 149,
+    "symptom_confirming": 10
+  },
+  {
+    "date": 20200417,
+    "pcr": 109990,
+    "hospitalize": 8007,
+    "positive": 9879,
+    "severe": 4,
+    "discharge": 1657,
+    "death": 161,
+    "symptom_confirming": 10
+  },
+  {
+    "date": 20200418,
+    "pcr": 115149,
+    "hospitalize": 8572,
+    "positive": 10507,
+    "severe": 4,
+    "discharge": 1713,
+    "death": 167,
+    "symptom_confirming": 11
+  },
+  {
+    "date": 20200419,
+    "pcr": 116434,
+    "hospitalize": 9041,
+    "positive": 11073,
+    "severe": 4,
+    "discharge": 1803,
+    "death": 174,
+    "symptom_confirming": 11
+  },
+  {
+    "date": 20200420,
+    "pcr": 120347,
+    "hospitalize": 9342,
+    "positive": 11464,
+    "severe": 4,
+    "discharge": 1884,
+    "death": 184,
+    "symptom_confirming": 10
+  },
+  {
+    "date": 20200421,
+    "pcr": 128172,
+    "hospitalize": 9578,
+    "positive": 11832,
+    "severe": 4,
+    "discharge": 2001,
+    "death": 199,
+    "symptom_confirming": 10
+  },
+  {
+    "date": 20200422,
+    "pcr": 134205,
+    "hospitalize": 9869,
+    "positive": 12208,
+    "severe": 4,
+    "discharge": 2069,
+    "death": 216,
+    "symptom_confirming": 10
+  },
+  {
+    "date": 20200423,
+    "pcr": 139662,
+    "hospitalize": 10212,
+    "positive": 12631,
+    "severe": 4,
+    "discharge": 2139,
+    "death": 226,
+    "symptom_confirming": 10
+  },
+  {
+    "date": 20200424,
+    "pcr": 145345,
+    "hospitalize": 10600,
+    "positive": 13100,
+    "severe": 4,
+    "discharge": 2201,
+    "death": 245,
+    "symptom_confirming": 10
+  },
+  {
+    "date": 20200425,
+    "pcr": 151407,
+    "hospitalize": 10932,
+    "positive": 13541,
+    "severe": 4,
+    "discharge": 2299,
+    "death": 260,
+    "symptom_confirming": 6
+  },
+  {
+    "date": 20200426,
+    "pcr": 153315,
+    "hospitalize": 11180,
+    "positive": 13894,
+    "severe": 4,
+    "discharge": 2400,
+    "death": 264,
+    "symptom_confirming": 6
+  },
+  {
+    "date": 20200427,
+    "pcr": 154933,
+    "hospitalize": 11311,
+    "positive": 14097,
+    "severe": 4,
+    "discharge": 2470,
+    "death": 266,
+    "symptom_confirming": 6
+  },
+  {
+    "date": 20200428,
+    "pcr": 164787,
+    "hospitalize": 11389,
+    "positive": 14288,
+    "severe": 4,
+    "discharge": 2571,
+    "death": 280,
+    "symptom_confirming": 4
+  },
+  {
+    "date": 20200429,
+    "pcr": 168496,
+    "hospitalize": 11567,
+    "positive": 14564,
+    "severe": 4,
+    "discharge": 2659,
+    "death": 290,
+    "symptom_confirming": 4
+  },
+  {
+    "date": 20200430,
+    "pcr": 169850,
+    "hospitalize": 11727,
+    "positive": 14800,
+    "severe": 4,
+    "discharge": 2724,
+    "death": 301,
+    "symptom_confirming": 4
+  },
+  {
+    "date": 20200501,
+    "pcr": 177768,
+    "hospitalize": 11568,
+    "positive": 14993,
+    "severe": 4,
+    "discharge": 3058,
+    "death": 319,
+    "symptom_confirming": 4
+  },
+  {
+    "date": 20200502,
+    "pcr": 185145,
+    "hospitalize": 11702,
+    "positive": 15256,
+    "severe": 4,
+    "discharge": 3179,
+    "death": 327,
+    "symptom_confirming": 4
+  },
+  {
+    "date": 20200503,
+    "pcr": 186869,
+    "hospitalize": 11869,
+    "positive": 15551,
+    "severe": 4,
+    "discharge": 3294,
+    "death": 340,
+    "symptom_confirming": 4
+  },
+  {
+    "date": 20200504,
+    "pcr": 188204,
+    "hospitalize": 11968,
+    "positive": 15769,
+    "severe": 4,
+    "discharge": 3385,
+    "death": 368,
+    "symptom_confirming": 4
+  },
+  {
+    "date": 20200505,
+    "pcr": 188896,
+    "hospitalize": 12078,
+    "positive": 15943,
+    "severe": 4,
+    "discharge": 3435,
+    "death": 382,
+    "symptom_confirming": 4
+  },
+  {
+    "date": 20200506,
+    "pcr": 189949,
+    "hospitalize": 11876,
+    "positive": 16066,
+    "severe": 4,
+    "discharge": 3745,
+    "death": 397,
+    "symptom_confirming": 4
+  },
+  {
+    "date": 20200507,
+    "pcr": 191052,
+    "hospitalize": 11784,
+    "positive": 16175,
+    "severe": 4,
+    "discharge": 3940,
+    "death": 403,
+    "symptom_confirming": 4
+  },
+  {
+    "date": 20200508,
+    "pcr": 205631,
+    "hospitalize": 11434,
+    "positive": 16259,
+    "severe": 4,
+    "discharge": 4361,
+    "death": 416,
+    "symptom_confirming": 4
+  },
+  {
+    "date": 20200509,
+    "pcr": 215615,
+    "hospitalize": 6451,
+    "positive": 16361,
+    "severe": 270,
+    "discharge": 8778,
+    "death": 613,
+    "symptom_confirming": 475
+  },
+  {
+    "date": 20200510,
+    "pcr": 217874,
+    "hospitalize": 6399,
+    "positive": 16459,
+    "severe": 271,
+    "discharge": 8944,
+    "death": 626,
+    "symptom_confirming": 446
+  },
+  {
+    "date": 20200511,
+    "pcr": 221822,
+    "hospitalize": 6225,
+    "positive": 16510,
+    "severe": 253,
+    "discharge": 9182,
+    "death": 634,
+    "symptom_confirming": 425
+  },
+  {
+    "date": 20200512,
+    "pcr": 227267,
+    "hospitalize": 6065,
+    "positive": 16586,
+    "severe": 247,
+    "discharge": 9571,
+    "death": 656,
+    "symptom_confirming": 250
+  },
+  {
+    "date": 20200513,
+    "pcr": 227285,
+    "hospitalize": 5315,
+    "positive": 16736,
+    "severe": 263,
+    "discharge": 10519,
+    "death": 681,
+    "symptom_confirming": 177
+  },
+  {
+    "date": 20200514,
+    "pcr": 236762,
+    "hospitalize": 4886,
+    "positive": 16791,
+    "severe": 249,
+    "discharge": 10989,
+    "death": 700,
+    "symptom_confirming": 172
+  },
+  {
+    "date": 20200515,
+    "pcr": 234500,
+    "hospitalize": 4493,
+    "positive": 16905,
+    "severe": 241,
+    "discharge": 11462,
+    "death": 723,
+    "symptom_confirming": 185
+  },
+  {
+    "date": 20200516,
+    "pcr": 243986,
+    "hospitalize": 4179,
+    "positive": 16949,
+    "severe": 236,
+    "discharge": 11806,
+    "death": 738,
+    "symptom_confirming": 184
+  },
+  {
+    "date": 20200517,
+    "pcr": 248070,
+    "hospitalize": 3943,
+    "positive": 16997,
+    "severe": 234,
+    "discharge": 12068,
+    "death": 757,
+    "symptom_confirming": 187
+  },
+  {
+    "date": 20200518,
+    "pcr": 253769,
+    "hospitalize": 3823,
+    "positive": 17017,
+    "severe": 232,
+    "discharge": 12217,
+    "death": 762,
+    "symptom_confirming": 173
+  },
+  {
+    "date": 20200519,
+    "pcr": 259293,
+    "hospitalize": 3556,
+    "positive": 17077,
+    "severe": 217,
+    "discharge": 12536,
+    "death": 776,
+    "symptom_confirming": 303
+  },
+  {
+    "date": 20200520,
+    "pcr": 261895,
+    "hospitalize": 3165,
+    "positive": 17097,
+    "severe": 214,
+    "discharge": 12938,
+    "death": 784,
+    "symptom_confirming": 304
+  },
+  {
+    "date": 20200521,
+    "pcr": 265190,
+    "hospitalize": 2917,
+    "positive": 17136,
+    "severe": 199,
+    "discharge": 13323,
+    "death": 790,
+    "symptom_confirming": 64
+  },
+  {
+    "date": 20200522,
+    "pcr": 269120,
+    "hospitalize": 2652,
+    "positive": 17225,
+    "severe": 180,
+    "discharge": 13656,
+    "death": 809,
+    "symptom_confirming": 66
+  },
+  {
+    "date": 20200523,
+    "pcr": 272095,
+    "hospitalize": 2450,
+    "positive": 17248,
+    "severe": 178,
+    "discharge": 13895,
+    "death": 821,
+    "symptom_confirming": 40
+  },
+  {
+    "date": 20200524,
+    "pcr": 274819,
+    "hospitalize": 2287,
+    "positive": 17261,
+    "severe": 172,
+    "discharge": 14064,
+    "death": 833,
+    "symptom_confirming": 35
+  },
+  {
+    "date": 20200525,
+    "pcr": 276306,
+    "hospitalize": 2121,
+    "positive": 17293,
+    "severe": 166,
+    "discharge": 14262,
+    "death": 843,
+    "symptom_confirming": 24
+  },
+  {
+    "date": 20200526,
+    "pcr": 279788,
+    "hospitalize": 1950,
+    "positive": 17335,
+    "severe": 156,
+    "discharge": 14461,
+    "death": 859,
+    "symptom_confirming": 24
+  },
+  {
+    "date": 20200527,
+    "pcr": 282260,
+    "hospitalize": 1803,
+    "positive": 17363,
+    "severe": 148,
+    "discharge": 14623,
+    "death": 871,
+    "symptom_confirming": 25
+  },
+  {
+    "date": 20200528,
+    "pcr": 284911,
+    "hospitalize": 1654,
+    "positive": 17395,
+    "severe": 137,
+    "discharge": 14797,
+    "death": 880,
+    "symptom_confirming": 23
+  },
+  {
+    "date": 20200529,
+    "pcr": 288381,
+    "hospitalize": 1574,
+    "positive": 17431,
+    "severe": 132,
+    "discharge": 14904,
+    "death": 887,
+    "symptom_confirming": 25
+  },
+  {
+    "date": 20200530,
+    "pcr": 291372,
+    "hospitalize": 1494,
+    "positive": 17516,
+    "severe": 124,
+    "discharge": 15056,
+    "death": 899,
+    "symptom_confirming": 26
+  },
+  {
+    "date": 20200531,
+    "pcr": 294054,
+    "hospitalize": 1484,
+    "positive": 17563,
+    "severe": 120,
+    "discharge": 15109,
+    "death": 904,
+    "symptom_confirming": 25
+  },
+  {
+    "date": 20200601,
+    "pcr": 296187,
+    "hospitalize": 1472,
+    "positive": 17596,
+    "severe": 116,
+    "discharge": 15152,
+    "death": 905,
+    "symptom_confirming": 26
+  },
+  {
+    "date": 20200602,
+    "pcr": 300001,
+    "hospitalize": 1378,
+    "positive": 17642,
+    "severe": 114,
+    "discharge": 15300,
+    "death": 907,
+    "symptom_confirming": 16
+  },
+  {
+    "date": 20200603,
+    "pcr": 303895,
+    "hospitalize": 1308,
+    "positive": 17698,
+    "severe": 102,
+    "discharge": 15420,
+    "death": 913,
+    "symptom_confirming": 16
+  },
+  {
+    "date": 20200604,
+    "pcr": 307251,
+    "hospitalize": 1241,
+    "positive": 17730,
+    "severe": 103,
+    "discharge": 15516,
+    "death": 916,
+    "symptom_confirming": 16
+  },
+  {
+    "date": 20200605,
+    "pcr": 311080,
+    "hospitalize": 1178,
+    "positive": 17776,
+    "severe": 99,
+    "discharge": 15621,
+    "death": 920,
+    "symptom_confirming": 16
+  },
+  {
+    "date": 20200606,
+    "pcr": 315065,
+    "hospitalize": 1103,
+    "positive": 17815,
+    "severe": 100,
+    "discharge": 15728,
+    "death": 927,
+    "symptom_confirming": 16
+  },
+  {
+    "date": 20200607,
+    "pcr": 318101,
+    "hospitalize": 1082,
+    "positive": 17853,
+    "severe": 99,
+    "discharge": 15786,
+    "death": 929,
+    "symptom_confirming": 15
+  },
+  {
+    "date": 20200608,
+    "pcr": 320466,
+    "hospitalize": 1106,
+    "positive": 17886,
+    "severe": 100,
+    "discharge": 15795,
+    "death": 929,
+    "symptom_confirming": 15
+  },
+  {
+    "date": 20200609,
+    "pcr": 324671,
+    "hospitalize": 1074,
+    "positive": 17922,
+    "severe": 93,
+    "discharge": 15863,
+    "death": 929,
+    "symptom_confirming": 16
+  },
+  {
+    "date": 20200610,
+    "pcr": 328293,
+    "hospitalize": 1026,
+    "positive": 17963,
+    "severe": 92,
+    "discharge": 15949,
+    "death": 932,
+    "symptom_confirming": 16
+  },
+  {
+    "date": 20200611,
+    "pcr": 332348,
+    "hospitalize": 981,
+    "positive": 18004,
+    "severe": 89,
+    "discharge": 16034,
+    "death": 933,
+    "symptom_confirming": 16
+  },
+  {
+    "date": 20200612,
+    "pcr": 335825,
+    "hospitalize": 911,
+    "positive": 18044,
+    "severe": 83,
+    "discharge": 16144,
+    "death": 935,
+    "symptom_confirming": 14
+  },
+  {
+    "date": 20200613,
+    "pcr": 339779,
+    "hospitalize": 872,
+    "positive": 18094,
+    "severe": 77,
+    "discharge": 16231,
+    "death": 937,
+    "symptom_confirming": 14
+  },
+  {
+    "date": 20200614,
+    "pcr": 342376,
+    "hospitalize": 859,
+    "positive": 18141,
+    "severe": 74,
+    "discharge": 16294,
+    "death": 938,
+    "symptom_confirming": 10
+  },
+  {
+    "date": 20200615,
+    "pcr": 343353,
+    "hospitalize": 877,
+    "positive": 18200,
+    "severe": 72,
+    "discharge": 16337,
+    "death": 938,
+    "symptom_confirming": 9
+  },
+  {
+    "date": 20200616,
+    "pcr": 348144,
+    "hospitalize": 954,
+    "positive": 18299,
+    "severe": 81,
+    "discharge": 16352,
+    "death": 940,
+    "symptom_confirming": 13
+  },
+  {
+    "date": 20200617,
+    "pcr": 351669,
+    "hospitalize": 845,
+    "positive": 18340,
+    "severe": 71,
+    "discharge": 16501,
+    "death": 944,
+    "symptom_confirming": 10
+  },
+  {
+    "date": 20200618,
+    "pcr": 400051,
+    "hospitalize": 800,
+    "positive": 18380,
+    "severe": 63,
+    "discharge": 16581,
+    "death": 948,
+    "symptom_confirming": 11
+  },
+  {
+    "date": 20200619,
+    "pcr": 406998,
+    "hospitalize": 794,
+    "positive": 18452,
+    "severe": 63,
+    "discharge": 16659,
+    "death": 948,
+    "symptom_confirming": 11
+  },
+  {
+    "date": 20200620,
+    "pcr": 412640,
+    "hospitalize": 767,
+    "positive": 18511,
+    "severe": 62,
+    "discharge": 16731,
+    "death": 965,
+    "symptom_confirming": 11
+  },
+  {
+    "date": 20200621,
+    "pcr": 416287,
+    "hospitalize": 801,
+    "positive": 18576,
+    "severe": 60,
+    "discharge": 16762,
+    "death": 966,
+    "symptom_confirming": 10
+  },
+  {
+    "date": 20200622,
+    "pcr": 421569,
+    "hospitalize": 829,
+    "positive": 18628,
+    "severe": 60,
+    "discharge": 16787,
+    "death": 966,
+    "symptom_confirming": 9
+  },
+  {
+    "date": 20200623,
+    "pcr": 428385,
+    "hospitalize": 798,
+    "positive": 18680,
+    "severe": 63,
+    "discharge": 16866,
+    "death": 968,
+    "symptom_confirming": 11
+  },
+  {
+    "date": 20200624,
+    "pcr": 433099,
+    "hospitalize": 794,
+    "positive": 18736,
+    "severe": 61,
+    "discharge": 16917,
+    "death": 976,
+    "symptom_confirming": 12
+  },
+  {
+    "date": 20200625,
+    "pcr": 439113,
+    "hospitalize": 816,
+    "positive": 18822,
+    "severe": 59,
+    "discharge": 16974,
+    "death": 981,
+    "symptom_confirming": 14
+  },
+  {
+    "date": 20200626,
+    "pcr": 444357,
+    "hospitalize": 833,
+    "positive": 18909,
+    "severe": 52,
+    "discharge": 17046,
+    "death": 982,
+    "symptom_confirming": 11
+  },
+  {
+    "date": 20200627,
+    "pcr": 450207,
+    "hospitalize": 869,
+    "positive": 19009,
+    "severe": 49,
+    "discharge": 17106,
+    "death": 984,
+    "symptom_confirming": 13
+  },
+  {
+    "date": 20200628,
+    "pcr": 455390,
+    "hospitalize": 906,
+    "positive": 19102,
+    "severe": 46,
+    "discharge": 17159,
+    "death": 984,
+    "symptom_confirming": 16
+  },
+  {
+    "date": 20200629,
+    "pcr": 458227,
+    "hospitalize": 939,
+    "positive": 19188,
+    "severe": 44,
+    "discharge": 17211,
+    "death": 985,
+    "symptom_confirming": 16
+  },
+  {
+    "date": 20200630,
+    "pcr": 465064,
+    "hospitalize": 984,
+    "positive": 19305,
+    "severe": 43,
+    "discharge": 17285,
+    "death": 985,
+    "symptom_confirming": 14
+  },
+  {
+    "date": 20200701,
+    "pcr": 471062,
+    "hospitalize": 1016,
+    "positive": 19435,
+    "severe": 41,
+    "discharge": 17384,
+    "death": 987,
+    "symptom_confirming": 11
+  },
+  {
+    "date": 20200702,
+    "pcr": 478926,
+    "hospitalize": 1125,
+    "positive": 19586,
+    "severe": 38,
+    "discharge": 17425,
+    "death": 988,
+    "symptom_confirming": 11
+  },
+  {
+    "date": 20200703,
+    "pcr": 485495,
+    "hospitalize": 1223,
+    "positive": 19780,
+    "severe": 34,
+    "discharge": 17520,
+    "death": 989,
+    "symptom_confirming": 11
+  },
+  {
+    "date": 20200704,
+    "pcr": 493905,
+    "hospitalize": 1344,
+    "positive": 19995,
+    "severe": 33,
+    "discharge": 17613,
+    "death": 990,
+    "symptom_confirming": 11
+  },
+  {
+    "date": 20200705,
+    "pcr": 498782,
+    "hospitalize": 1514,
+    "positive": 20235,
+    "severe": 34,
+    "discharge": 17683,
+    "death": 990,
+    "symptom_confirming": 11
+  },
+  {
+    "date": 20200706,
+    "pcr": 503516,
+    "hospitalize": 1692,
+    "positive": 20489,
+    "severe": 35,
+    "discharge": 17758,
+    "death": 990,
+    "symptom_confirming": 12
+  },
+  {
+    "date": 20200707,
+    "pcr": 513611,
+    "hospitalize": 1806,
+    "positive": 20693,
+    "severe": 37,
+    "discharge": 17848,
+    "death": 991,
+    "symptom_confirming": 11
+  },
+  {
+    "date": 20200708,
+    "pcr": 521828,
+    "hospitalize": 1862,
+    "positive": 20886,
+    "severe": 36,
+    "discharge": 17983,
+    "death": 993,
+    "symptom_confirming": 11
+  },
+  {
+    "date": 20200709,
+    "pcr": 531164,
+    "hospitalize": 1920,
+    "positive": 21083,
+    "severe": 39,
+    "discharge": 18119,
+    "death": 994,
+    "symptom_confirming": 13
+  },
+  {
+    "date": 20200710,
+    "pcr": 544029,
+    "hospitalize": 2078,
+    "positive": 21431,
+    "severe": 32,
+    "discharge": 18305,
+    "death": 995,
+    "symptom_confirming": 16
+  },
+  {
+    "date": 20200711,
+    "pcr": 555282,
+    "hospitalize": 2298,
+    "positive": 21841,
+    "severe": 34,
+    "discharge": 18498,
+    "death": 995,
+    "symptom_confirming": 13
+  },
+  {
+    "date": 20200712,
+    "pcr": 562240,
+    "hospitalize": 2511,
+    "positive": 22214,
+    "severe": 33,
+    "discharge": 18658,
+    "death": 995,
+    "symptom_confirming": 13
+  },
+  {
+    "date": 20200713,
+    "pcr": 564078,
+    "hospitalize": 2759,
+    "positive": 22560,
+    "severe": 35,
+    "discharge": 18758,
+    "death": 995,
+    "symptom_confirming": 11
+  },
+  {
+    "date": 20200714,
+    "pcr": 578050,
+    "hospitalize": 2953,
+    "positive": 22932,
+    "severe": 40,
+    "discharge": 18935,
+    "death": 995,
+    "symptom_confirming": 13
+  },
+  {
+    "date": 20200715,
+    "pcr": 590324,
+    "hospitalize": 2978,
+    "positive": 23220,
+    "severe": 38,
+    "discharge": 19197,
+    "death": 997,
+    "symptom_confirming": 12
+  },
+  {
+    "date": 20200716,
+    "pcr": 602857,
+    "hospitalize": 3088,
+    "positive": 23602,
+    "severe": 37,
+    "discharge": 19468,
+    "death": 998,
+    "symptom_confirming": 12
+  },
+  {
+    "date": 20200717,
+    "pcr": 620667,
+    "hospitalize": 3383,
+    "positive": 24185,
+    "severe": 39,
+    "discharge": 19750,
+    "death": 998,
+    "symptom_confirming": 18
+  },
+  {
+    "date": 20200718,
+    "pcr": 629767,
+    "hospitalize": 3772,
+    "positive": 24844,
+    "severe": 41,
+    "discharge": 20020,
+    "death": 998,
+    "symptom_confirming": 18
+  },
+  {
+    "date": 20200719,
+    "pcr": 638615,
+    "hospitalize": 4089,
+    "positive": 25354,
+    "severe": 43,
+    "discharge": 20224,
+    "death": 998,
+    "symptom_confirming": 7
+  },
+  {
+    "date": 20200720,
+    "pcr": 643439,
+    "hospitalize": 4348,
+    "positive": 25808,
+    "severe": 47,
+    "discharge": 20410,
+    "death": 998,
+    "symptom_confirming": 16
+  },
+  {
+    "date": 20200721,
+    "pcr": 659398,
+    "hospitalize": 4580,
+    "positive": 26437,
+    "severe": 52,
+    "discharge": 20808,
+    "death": 1001,
+    "symptom_confirming": 58
+  },
+  {
+    "date": 20200722,
+    "pcr": 674237,
+    "hospitalize": 4666,
+    "positive": 27015,
+    "severe": 55,
+    "discharge": 21304,
+    "death": 1002,
+    "symptom_confirming": 7
+  },
+  {
+    "date": 20200723,
+    "pcr": 691654,
+    "hospitalize": 5000,
+    "positive": 27741,
+    "severe": 59,
+    "discharge": 21688,
+    "death": 1003,
+    "symptom_confirming": 14
+  },
+  {
+    "date": 20200724,
+    "pcr": 701130,
+    "hospitalize": 5635,
+    "positive": 28668,
+    "severe": 68,
+    "discharge": 21980,
+    "death": 1005,
+    "symptom_confirming": 12
+  },
+  {
+    "date": 20200725,
+    "pcr": 708018,
+    "hospitalize": 6220,
+    "positive": 29498,
+    "severe": 64,
+    "discharge": 22219,
+    "death": 1006,
+    "symptom_confirming": 17
+  },
+  {
+    "date": 20200726,
+    "pcr": 718901,
+    "hospitalize": 6597,
+    "positive": 30094,
+    "severe": 66,
+    "discharge": 22416,
+    "death": 1009,
+    "symptom_confirming": 36
+  },
+  {
+    "date": 20200727,
+    "pcr": 724119,
+    "hospitalize": 6861,
+    "positive": 30701,
+    "severe": 67,
+    "discharge": 22770,
+    "death": 1009,
+    "symptom_confirming": 25
+  },
+  {
+    "date": 20200728,
+    "pcr": 749847,
+    "hospitalize": 7131,
+    "positive": 31673,
+    "severe": 76,
+    "discharge": 23465,
+    "death": 1011,
+    "symptom_confirming": 30
+  },
+  {
+    "date": 20200729,
+    "pcr": 768964,
+    "hospitalize": 7379,
+    "positive": 32613,
+    "severe": 81,
+    "discharge": 24160,
+    "death": 1014,
+    "symptom_confirming": 24
+  },
+  {
+    "date": 20200730,
+    "pcr": 788842,
+    "hospitalize": 7846,
+    "positive": 33761,
+    "severe": 90,
+    "discharge": 24833,
+    "death": 1017,
+    "symptom_confirming": 29
+  },
+  {
+    "date": 20200731,
+    "pcr": 809685,
+    "hospitalize": 8408,
+    "positive": 35084,
+    "severe": 87,
+    "discharge": 25582,
+    "death": 1019,
+    "symptom_confirming": 39
+  },
+  {
+    "date": 20200801,
+    "pcr": 828366,
+    "hospitalize": 9294,
+    "positive": 36548,
+    "severe": 80,
+    "discharge": 26156,
+    "death": 1024,
+    "symptom_confirming": 38
+  },
+  {
+    "date": 20200802,
+    "pcr": 840022,
+    "hospitalize": 9751,
+    "positive": 37401,
+    "severe": 83,
+    "discharge": 26559,
+    "death": 1024,
+    "symptom_confirming": 31
+  },
+  {
+    "date": 20200803,
+    "pcr": 852733,
+    "hospitalize": 10770,
+    "positive": 39399,
+    "severe": 87,
+    "discharge": 27141,
+    "death": 1025,
+    "symptom_confirming": 427
+  },
+  {
+    "date": 20200804,
+    "pcr": 880752,
+    "hospitalize": 11334,
+    "positive": 40570,
+    "severe": 88,
+    "discharge": 27851,
+    "death": 1029,
+    "symptom_confirming": 320
+  },
+  {
+    "date": 20200805,
+    "pcr": 900958,
+    "hospitalize": 12038,
+    "positive": 41841,
+    "severe": 104,
+    "discharge": 28679,
+    "death": 1035,
+    "symptom_confirming": 50
+  },
+  {
+    "date": 20200806,
+    "pcr": 942357,
+    "hospitalize": 12293,
+    "positive": 42975,
+    "severe": 115,
+    "discharge": 29531,
+    "death": 1039,
+    "symptom_confirming": 76
+  },
+  {
+    "date": 20200807,
+    "pcr": 965533,
+    "hospitalize": 12551,
+    "positive": 44527,
+    "severe": 131,
+    "discharge": 30805,
+    "death": 1046,
+    "symptom_confirming": 89
+  },
+  {
+    "date": 20200808,
+    "pcr": 989719,
+    "hospitalize": 12938,
+    "positive": 46151,
+    "severe": 140,
+    "discharge": 31959,
+    "death": 1052,
+    "symptom_confirming": 166
+  },
+  {
+    "date": 20200809,
+    "pcr": 1003395,
+    "hospitalize": 13262,
+    "positive": 47486,
+    "severe": 156,
+    "discharge": 32966,
+    "death": 1053,
+    "symptom_confirming": 169
+  },
+  {
+    "date": 20200810,
+    "pcr": 1019815,
+    "hospitalize": 13671,
+    "positive": 48702,
+    "severe": 161,
+    "discharge": 33705,
+    "death": 1060,
+    "symptom_confirming": 230
+  },
+  {
+    "date": 20200811,
+    "pcr": 1027853,
+    "hospitalize": 13697,
+    "positive": 49640,
+    "severe": 171,
+    "discharge": 34615,
+    "death": 1065,
+    "symptom_confirming": 227
+  },
+  {
+    "date": 20200812,
+    "pcr": 1061782,
+    "hospitalize": 14048,
+    "positive": 50922,
+    "severe": 177,
+    "discharge": 35534,
+    "death": 1072,
+    "symptom_confirming": 232
+  },
+  {
+    "date": 20200813,
+    "pcr": 1088940,
+    "hospitalize": 13724,
+    "positive": 51859,
+    "severe": 203,
+    "discharge": 36773,
+    "death": 1076,
+    "symptom_confirming": 250
+  },
+  {
+    "date": 20200814,
+    "pcr": 1111155,
+    "hospitalize": 13428,
+    "positive": 52929,
+    "severe": 211,
+    "discharge": 38130,
+    "death": 1086,
+    "symptom_confirming": 249
+  },
+  {
+    "date": 20200815,
+    "pcr": 1167647,
+    "hospitalize": 13296,
+    "positive": 54289,
+    "severe": 229,
+    "discharge": 39591,
+    "death": 1098,
+    "symptom_confirming": 268
+  },
+  {
+    "date": 20200816,
+    "pcr": 1180931,
+    "hospitalize": 13279,
+    "positive": 55426,
+    "severe": 232,
+    "discharge": 40734,
+    "death": 1101,
+    "symptom_confirming": 276
+  },
+  {
+    "date": 20200817,
+    "pcr": 1190086,
+    "hospitalize": 13117,
+    "positive": 56379,
+    "severe": 243,
+    "discharge": 41843,
+    "death": 1112,
+    "symptom_confirming": 271
+  },
+  {
+    "date": 20200818,
+    "pcr": 1217763,
+    "hospitalize": 13062,
+    "positive": 57397,
+    "severe": 243,
+    "discharge": 42933,
+    "death": 1128,
+    "symptom_confirming": 238
+  },
+  {
+    "date": 20200819,
+    "pcr": 1239798,
+    "hospitalize": 12357,
+    "positive": 58262,
+    "severe": 239,
+    "discharge": 44479,
+    "death": 1141,
+    "symptom_confirming": 248
+  },
+  {
+    "date": 20200820,
+    "pcr": 1263040,
+    "hospitalize": 11925,
+    "positive": 59213,
+    "severe": 237,
+    "discharge": 45910,
+    "death": 1157,
+    "symptom_confirming": 185
+  },
+  {
+    "date": 20200821,
+    "pcr": 1286311,
+    "hospitalize": 11913,
+    "positive": 60433,
+    "severe": 243,
+    "discharge": 47109,
+    "death": 1168,
+    "symptom_confirming": 207
+  },
+  {
+    "date": 20200822,
+    "pcr": 1309746,
+    "hospitalize": 11764,
+    "positive": 61445,
+    "severe": 243,
+    "discharge": 48268,
+    "death": 1182,
+    "symptom_confirming": 195
+  },
+  {
+    "date": 20200823,
+    "pcr": 1324697,
+    "hospitalize": 11873,
+    "positive": 62459,
+    "severe": 254,
+    "discharge": 49190,
+    "death": 1189,
+    "symptom_confirming": 171
+  },
+  {
+    "date": 20200824,
+    "pcr": 1337502,
+    "hospitalize": 11846,
+    "positive": 63219,
+    "severe": 259,
+    "discharge": 49967,
+    "death": 1194,
+    "symptom_confirming": 176
+  },
+  {
+    "date": 20200825,
+    "pcr": 1361246,
+    "hospitalize": 11330,
+    "positive": 63833,
+    "severe": 252,
+    "discharge": 51072,
+    "death": 1209,
+    "symptom_confirming": 186
+  },
+  {
+    "date": 20200826,
+    "pcr": 1380401,
+    "hospitalize": 10754,
+    "positive": 64534,
+    "severe": 246,
+    "discharge": 52332,
+    "death": 1222,
+    "symptom_confirming": 190
+  },
+  {
+    "date": 20200827,
+    "pcr": 1401018,
+    "hospitalize": 10418,
+    "positive": 65380,
+    "severe": 238,
+    "discharge": 53465,
+    "death": 1239,
+    "symptom_confirming": 222
+  },
+  {
+    "date": 20200828,
+    "pcr": 1424207,
+    "hospitalize": 10153,
+    "positive": 66285,
+    "severe": 227,
+    "discharge": 54635,
+    "death": 1251,
+    "symptom_confirming": 210
+  },
+  {
+    "date": 20200829,
+    "pcr": 1444444,
+    "hospitalize": 9783,
+    "positive": 67135,
+    "severe": 230,
+    "discharge": 55980,
+    "death": 1268,
+    "symptom_confirming": 68
+  },
+  {
+    "date": 20200830,
+    "pcr": 1459228,
+    "hospitalize": 9785,
+    "positive": 67976,
+    "severe": 234,
+    "discharge": 56803,
+    "death": 1277,
+    "symptom_confirming": 75
+  },
+  {
+    "date": 20200831,
+    "pcr": 1470750,
+    "hospitalize": 9736,
+    "positive": 68577,
+    "severe": 236,
+    "discharge": 57446,
+    "death": 1292,
+    "symptom_confirming": 67
+  },
+  {
+    "date": 20200901,
+    "pcr": 1494593,
+    "hospitalize": 9224,
+    "positive": 69104,
+    "severe": 234,
+    "discharge": 58475,
+    "death": 1309,
+    "symptom_confirming": 60
+  },
+  {
+    "date": 20200902,
+    "pcr": 1514080,
+    "hospitalize": 9212,
+    "positive": 69713,
+    "severe": 225,
+    "discharge": 59078,
+    "death": 1320,
+    "symptom_confirming": 67
+  },
+  {
+    "date": 20200903,
+    "pcr": 1539839,
+    "hospitalize": 8701,
+    "positive": 70311,
+    "severe": 218,
+    "discharge": 60176,
+    "death": 1332,
+    "symptom_confirming": 66
+  },
+  {
+    "date": 20200904,
+    "pcr": 1564123,
+    "hospitalize": 8472,
+    "positive": 70980,
+    "severe": 214,
+    "discharge": 61059,
+    "death": 1343,
+    "symptom_confirming": 68
+  },
+  {
+    "date": 20200905,
+    "pcr": 1581062,
+    "hospitalize": 8047,
+    "positive": 71588,
+    "severe": 210,
+    "discharge": 62101,
+    "death": 1362,
+    "symptom_confirming": 70
+  },
+  {
+    "date": 20200906,
+    "pcr": 1594513,
+    "hospitalize": 7964,
+    "positive": 72131,
+    "severe": 211,
+    "discharge": 62722,
+    "death": 1370,
+    "symptom_confirming": 39
+  },
+  {
+    "date": 20200907,
+    "pcr": 1598688,
+    "hospitalize": 7926,
+    "positive": 72564,
+    "severe": 209,
+    "discharge": 63182,
+    "death": 1376,
+    "symptom_confirming": 44
+  },
+  {
+    "date": 20200908,
+    "pcr": 1625767,
+    "hospitalize": 7555,
+    "positive": 72946,
+    "severe": 202,
+    "discharge": 63922,
+    "death": 1390,
+    "symptom_confirming": 43
+  },
+  {
+    "date": 20200909,
+    "pcr": 1641341,
+    "hospitalize": 7215,
+    "positive": 73438,
+    "severe": 202,
+    "discharge": 64742,
+    "death": 1406,
+    "symptom_confirming": 39
+  },
+  {
+    "date": 20200910,
+    "pcr": 1665709,
+    "hospitalize": 6959,
+    "positive": 73933,
+    "severe": 198,
+    "discharge": 65479,
+    "death": 1419,
+    "symptom_confirming": 40
+  },
+  {
+    "date": 20200911,
+    "pcr": 1689329,
+    "hospitalize": 6884,
+    "positive": 74613,
+    "severe": 191,
+    "discharge": 66235,
+    "death": 1425,
+    "symptom_confirming": 33
+  },
+  {
+    "date": 20200912,
+    "pcr": 1707352,
+    "hospitalize": 6814,
+    "positive": 75256,
+    "severe": 190,
+    "discharge": 66928,
+    "death": 1436,
+    "symptom_confirming": 42
+  },
+  {
+    "date": 20200913,
+    "pcr": 1719578,
+    "hospitalize": 6892,
+    "positive": 75930,
+    "severe": 180,
+    "discharge": 67498,
+    "death": 1452,
+    "symptom_confirming": 52
+  },
+  {
+    "date": 20200914,
+    "pcr": 1721673,
+    "hospitalize": 6962,
+    "positive": 76369,
+    "severe": 185,
+    "discharge": 67865,
+    "death": 1455,
+    "symptom_confirming": 51
+  },
+  {
+    "date": 20200915,
+    "pcr": 1748929,
+    "hospitalize": 6673,
+    "positive": 76670,
+    "severe": 174,
+    "discharge": 68454,
+    "death": 1464,
+    "symptom_confirming": 43
+  },
+  {
+    "date": 20200916,
+    "pcr": 1770096,
+    "hospitalize": 6433,
+    "positive": 77160,
+    "severe": 178,
+    "discharge": 69162,
+    "death": 1474,
+    "symptom_confirming": 55
+  },
+  {
+    "date": 20200917,
+    "pcr": 1789960,
+    "hospitalize": 6267,
+    "positive": 77721,
+    "severe": 167,
+    "discharge": 69882,
+    "death": 1486,
+    "symptom_confirming": 50
+  },
+  {
+    "date": 20200918,
+    "pcr": 1815134,
+    "hospitalize": 6115,
+    "positive": 78206,
+    "severe": 170,
+    "discharge": 70524,
+    "death": 1495,
+    "symptom_confirming": 36
+  },
+  {
+    "date": 20200919,
+    "pcr": 1834864,
+    "hospitalize": 6122,
+    "positive": 78785,
+    "severe": 161,
+    "discharge": 71095,
+    "death": 1508,
+    "symptom_confirming": 24
+  },
+  {
+    "date": 20200920,
+    "pcr": 1846124,
+    "hospitalize": 6121,
+    "positive": 79369,
+    "severe": 159,
+    "discharge": 71664,
+    "death": 1513,
+    "symptom_confirming": 35
+  },
+  {
+    "date": 20200921,
+    "pcr": 1854279,
+    "hospitalize": 6230,
+    "positive": 79852,
+    "severe": 163,
+    "discharge": 72037,
+    "death": 1513,
+    "symptom_confirming": 36
+  },
+  {
+    "date": 20200922,
+    "pcr": 1858858,
+    "hospitalize": 6273,
+    "positive": 80150,
+    "severe": 164,
+    "discharge": 72273,
+    "death": 1521,
+    "symptom_confirming": 47
+  },
+  {
+    "date": 20200923,
+    "pcr": 1863311,
+    "hospitalize": 6238,
+    "positive": 80480,
+    "severe": 165,
+    "discharge": 72612,
+    "death": 1525,
+    "symptom_confirming": 69
+  },
+  {
+    "date": 20200924,
+    "pcr": 1891774,
+    "hospitalize": 5989,
+    "positive": 80753,
+    "severe": 166,
+    "discharge": 73181,
+    "death": 1534,
+    "symptom_confirming": 29
+  },
+  {
+    "date": 20200925,
+    "pcr": 1912325,
+    "hospitalize": 5465,
+    "positive": 81209,
+    "severe": 163,
+    "discharge": 74123,
+    "death": 1545,
+    "symptom_confirming": 40
+  },
+  {
+    "date": 20200926,
+    "pcr": 1942445,
+    "hospitalize": 5349,
+    "positive": 81767,
+    "severe": 156,
+    "discharge": 74791,
+    "death": 1553,
+    "symptom_confirming": 38
+  },
+  {
+    "date": 20200927,
+    "pcr": 1954867,
+    "hospitalize": 5520,
+    "positive": 82402,
+    "severe": 160,
+    "discharge": 75247,
+    "death": 1558,
+    "symptom_confirming": 41
+  },
+  {
+    "date": 20200928,
+    "pcr": 1961591,
+    "hospitalize": 5579,
+    "positive": 82843,
+    "severe": 159,
+    "discharge": 75629,
+    "death": 1561,
+    "symptom_confirming": 38
+  },
+  {
+    "date": 20200929,
+    "pcr": 1983547,
+    "hospitalize": 5459,
+    "positive": 83206,
+    "severe": 161,
+    "discharge": 76097,
+    "death": 1570,
+    "symptom_confirming": 44
+  },
+  {
+    "date": 20200930,
+    "pcr": 2088512,
+    "hospitalize": 5409,
+    "positive": 83722,
+    "severe": 151,
+    "discharge": 76657,
+    "death": 1577,
+    "symptom_confirming": 42
+  },
+  {
+    "date": 20201001,
+    "pcr": 2109581,
+    "hospitalize": 5381,
+    "positive": 84275,
+    "severe": 151,
+    "discharge": 77226,
+    "death": 1584,
+    "symptom_confirming": 48
+  },
+  {
+    "date": 20201002,
+    "pcr": 2129380,
+    "hospitalize": 5406,
+    "positive": 84927,
+    "severe": 145,
+    "discharge": 77855,
+    "death": 1591,
+    "symptom_confirming": 39
+  },
+  {
+    "date": 20201003,
+    "pcr": 2153702,
+    "hospitalize": 5365,
+    "positive": 85480,
+    "severe": 137,
+    "discharge": 78444,
+    "death": 1603,
+    "symptom_confirming": 32
+  },
+  {
+    "date": 20201004,
+    "pcr": 2169749,
+    "hospitalize": 5411,
+    "positive": 86051,
+    "severe": 133,
+    "discharge": 78952,
+    "death": 1610,
+    "symptom_confirming": 42
+  },
+  {
+    "date": 20201005,
+    "pcr": 2176653,
+    "hospitalize": 5495,
+    "positive": 86451,
+    "severe": 131,
+    "discharge": 79251,
+    "death": 1612,
+    "symptom_confirming": 57
+  },
+  {
+    "date": 20201006,
+    "pcr": 2200449,
+    "hospitalize": 5351,
+    "positive": 86759,
+    "severe": 140,
+    "discharge": 79703,
+    "death": 1615,
+    "symptom_confirming": 54
+  },
+  {
+    "date": 20201007,
+    "pcr": 2222271,
+    "hospitalize": 5225,
+    "positive": 87255,
+    "severe": 141,
+    "discharge": 80321,
+    "death": 1618,
+    "symptom_confirming": 55
+  },
+  {
+    "date": 20201008,
+    "pcr": 2245247,
+    "hospitalize": 5157,
+    "positive": 87732,
+    "severe": 143,
+    "discharge": 80871,
+    "death": 1626,
+    "symptom_confirming": 42
+  },
+  {
+    "date": 20201009,
+    "pcr": 2268301,
+    "hospitalize": 5266,
+    "positive": 88351,
+    "severe": 141,
+    "discharge": 81375,
+    "death": 1629,
+    "symptom_confirming": 45
+  },
+  {
+    "date": 20201010,
+    "pcr": 2289688,
+    "hospitalize": 5230,
+    "positive": 88945,
+    "severe": 147,
+    "discharge": 81985,
+    "death": 1637,
+    "symptom_confirming": 57
+  },
+  {
+    "date": 20201011,
+    "pcr": 2302663,
+    "hospitalize": 5414,
+    "positive": 89624,
+    "severe": 145,
+    "discharge": 82464,
+    "death": 1640,
+    "symptom_confirming": 70
+  },
+  {
+    "date": 20201012,
+    "pcr": 2309651,
+    "hospitalize": 5570,
+    "positive": 90059,
+    "severe": 146,
+    "discharge": 82752,
+    "death": 1642,
+    "symptom_confirming": 59
+  },
+  {
+    "date": 20201013,
+    "pcr": 2334629,
+    "hospitalize": 5377,
+    "positive": 90385,
+    "severe": 148,
+    "discharge": 83255,
+    "death": 1647,
+    "symptom_confirming": 70
+  },
+  {
+    "date": 20201014,
+    "pcr": 2355849,
+    "hospitalize": 5296,
+    "positive": 90852,
+    "severe": 150,
+    "discharge": 83791,
+    "death": 1651,
+    "symptom_confirming": 74
+  },
+  {
+    "date": 20201015,
+    "pcr": 2379545,
+    "hospitalize": 5188,
+    "positive": 91422,
+    "severe": 146,
+    "discharge": 84475,
+    "death": 1659,
+    "symptom_confirming": 64
+  },
+  {
+    "date": 20201016,
+    "pcr": 2402026,
+    "hospitalize": 5310,
+    "positive": 92143,
+    "severe": 148,
+    "discharge": 85088,
+    "death": 1663,
+    "symptom_confirming": 46
+  },
+  {
+    "date": 20201017,
+    "pcr": 2424661,
+    "hospitalize": 5346,
+    "positive": 92775,
+    "severe": 148,
+    "discharge": 85671,
+    "death": 1674,
+    "symptom_confirming": 48
+  },
+  {
+    "date": 20201018,
+    "pcr": 2437283,
+    "hospitalize": 5471,
+    "positive": 93368,
+    "severe": 145,
+    "discharge": 86125,
+    "death": 1683,
+    "symptom_confirming": 53
+  },
+  {
+    "date": 20201019,
+    "pcr": 2444768,
+    "hospitalize": 5498,
+    "positive": 93839,
+    "severe": 144,
+    "discharge": 86560,
+    "death": 1687,
+    "symptom_confirming": 58
+  },
+  {
+    "date": 20201020,
+    "pcr": 2469131,
+    "hospitalize": 5285,
+    "positive": 94192,
+    "severe": 143,
+    "discharge": 87132,
+    "death": 1689,
+    "symptom_confirming": 50
+  },
+  {
+    "date": 20201021,
+    "pcr": 2486103,
+    "hospitalize": 5137,
+    "positive": 94645,
+    "severe": 150,
+    "discharge": 87725,
+    "death": 1692,
+    "symptom_confirming": 55
+  },
+  {
+    "date": 20201022,
+    "pcr": 2510014,
+    "hospitalize": 5137,
+    "positive": 95236,
+    "severe": 150,
+    "discharge": 88301,
+    "death": 1698,
+    "symptom_confirming": 64
+  },
+  {
+    "date": 20201023,
+    "pcr": 2535589,
+    "hospitalize": 5172,
+    "positive": 95850,
+    "severe": 151,
+    "discharge": 88879,
+    "death": 1707,
+    "symptom_confirming": 56
+  },
+  {
+    "date": 20201024,
+    "pcr": 2560832,
+    "hospitalize": 5322,
+    "positive": 96547,
+    "severe": 155,
+    "discharge": 89421,
+    "death": 1719,
+    "symptom_confirming": 49
+  },
+  {
+    "date": 20201025,
+    "pcr": 2574043,
+    "hospitalize": 5542,
+    "positive": 97233,
+    "severe": 159,
+    "discharge": 89893,
+    "death": 1724,
+    "symptom_confirming": 38
+  },
+  {
+    "date": 20201026,
+    "pcr": 2585074,
+    "hospitalize": 5601,
+    "positive": 97786,
+    "severe": 162,
+    "discharge": 90340,
+    "death": 1731,
+    "symptom_confirming": 78
+  },
+  {
+    "date": 20201027,
+    "pcr": 2609817,
+    "hospitalize": 5600,
+    "positive": 98210,
+    "severe": 165,
+    "discharge": 90783,
+    "death": 1738,
+    "symptom_confirming": 53
+  },
+  {
+    "date": 20201028,
+    "pcr": 2637221,
+    "hospitalize": 5542,
+    "positive": 98828,
+    "severe": 166,
+    "discharge": 91443,
+    "death": 1743,
+    "symptom_confirming": 64
+  },
+  {
+    "date": 20201029,
+    "pcr": 2662204,
+    "hospitalize": 5735,
+    "positive": 99564,
+    "severe": 161,
+    "discharge": 91958,
+    "death": 1746,
+    "symptom_confirming": 89
+  },
+  {
+    "date": 20201030,
+    "pcr": 2685285,
+    "hospitalize": 5937,
+    "positive": 100334,
+    "severe": 156,
+    "discharge": 92530,
+    "death": 1757,
+    "symptom_confirming": 74
+  },
+  {
+    "date": 20201031,
+    "pcr": 2709786,
+    "hospitalize": 6106,
+    "positive": 101104,
+    "severe": 161,
+    "discharge": 93114,
+    "death": 1768,
+    "symptom_confirming": 80
+  },
+  {
+    "date": 20201101,
+    "pcr": 2724923,
+    "hospitalize": 6349,
+    "positive": 101858,
+    "severe": 160,
+    "discharge": 93598,
+    "death": 1779,
+    "symptom_confirming": 96
+  },
+  {
+    "date": 20201102,
+    "pcr": 2734142,
+    "hospitalize": 6585,
+    "positive": 102525,
+    "severe": 163,
+    "discharge": 94019,
+    "death": 1787,
+    "symptom_confirming": 98
+  },
+  {
+    "date": 20201103,
+    "pcr": 2759064,
+    "hospitalize": 6576,
+    "positive": 102993,
+    "severe": 163,
+    "discharge": 94475,
+    "death": 1793,
+    "symptom_confirming": 101
+  },
+  {
+    "date": 20201104,
+    "pcr": 2767710,
+    "hospitalize": 6737,
+    "positive": 103612,
+    "severe": 165,
+    "discharge": 94926,
+    "death": 1799,
+    "symptom_confirming": 114
+  },
+  {
+    "date": 20201105,
+    "pcr": 2791161,
+    "hospitalize": 6815,
+    "positive": 104550,
+    "severe": 183,
+    "discharge": 95750,
+    "death": 1807,
+    "symptom_confirming": 142
+  },
+  {
+    "date": 20201106,
+    "pcr": 2822301,
+    "hospitalize": 7179,
+    "positive": 105494,
+    "severe": 189,
+    "discharge": 96401,
+    "death": 1819,
+    "symptom_confirming": 59
+  },
+  {
+    "date": 20201107,
+    "pcr": 2849986,
+    "hospitalize": 7601,
+    "positive": 106626,
+    "severe": 194,
+    "discharge": 97104,
+    "death": 1822,
+    "symptom_confirming": 63
+  },
+  {
+    "date": 20201108,
+    "pcr": 2865166,
+    "hospitalize": 8022,
+    "positive": 107798,
+    "severe": 196,
+    "discharge": 97840,
+    "death": 1825,
+    "symptom_confirming": 75
+  },
+  {
+    "date": 20201109,
+    "pcr": 2874744,
+    "hospitalize": 8480,
+    "positive": 108796,
+    "severe": 204,
+    "discharge": 98289,
+    "death": 1831,
+    "symptom_confirming": 160
+  },
+  {
+    "date": 20201110,
+    "pcr": 2902039,
+    "hospitalize": 8828,
+    "positive": 109695,
+    "severe": 208,
+    "discharge": 98909,
+    "death": 1842,
+    "symptom_confirming": 80
+  },
+  {
+    "date": 20201111,
+    "pcr": 2928173,
+    "hospitalize": 9162,
+    "positive": 110868,
+    "severe": 204,
+    "discharge": 99742,
+    "death": 1854,
+    "symptom_confirming": 74
+  },
+  {
+    "date": 20201112,
+    "pcr": 2963192,
+    "hospitalize": 9791,
+    "positive": 112423,
+    "severe": 226,
+    "discharge": 100641,
+    "death": 1864,
+    "symptom_confirming": 91
+  },
+  {
+    "date": 20201113,
+    "pcr": 2994682,
+    "hospitalize": 10376,
+    "positive": 114010,
+    "severe": 231,
+    "discharge": 101654,
+    "death": 1880,
+    "symptom_confirming": 64
+  },
+  {
+    "date": 20201114,
+    "pcr": 3019963,
+    "hospitalize": 11056,
+    "positive": 115695,
+    "severe": 234,
+    "discharge": 102624,
+    "death": 1893,
+    "symptom_confirming": 86
+  },
+  {
+    "date": 20201115,
+    "pcr": 3038942,
+    "hospitalize": 11903,
+    "positive": 117389,
+    "severe": 243,
+    "discharge": 103466,
+    "death": 1896,
+    "symptom_confirming": 88
+  },
+  {
+    "date": 20201116,
+    "pcr": 3049542,
+    "hospitalize": 12499,
+    "positive": 118848,
+    "severe": 251,
+    "discharge": 104304,
+    "death": 1898,
+    "symptom_confirming": 111
+  },
+  {
+    "date": 20201117,
+    "pcr": 3081317,
+    "hospitalize": 12698,
+    "positive": 120038,
+    "severe": 272,
+    "discharge": 105268,
+    "death": 1916,
+    "symptom_confirming": 120
+  },
+  {
+    "date": 20201118,
+    "pcr": 3110177,
+    "hospitalize": 13118,
+    "positive": 121527,
+    "severe": 276,
+    "discharge": 106327,
+    "death": 1926,
+    "symptom_confirming": 120
+  },
+  {
+    "date": 20201119,
+    "pcr": 3144807,
+    "hospitalize": 13973,
+    "positive": 123666,
+    "severe": 280,
+    "discharge": 107565,
+    "death": 1935,
+    "symptom_confirming": 157
+  },
+  {
+    "date": 20201120,
+    "pcr": 3185822,
+    "hospitalize": 14832,
+    "positive": 125979,
+    "severe": 291,
+    "discharge": 109065,
+    "death": 1956,
+    "symptom_confirming": 90
+  },
+  {
+    "date": 20201121,
+    "pcr": 3229285,
+    "hospitalize": 15751,
+    "positive": 128377,
+    "severe": 313,
+    "discharge": 110528,
+    "death": 1976,
+    "symptom_confirming": 86
+  },
+  {
+    "date": 20201122,
+    "pcr": 3256141,
+    "hospitalize": 16957,
+    "positive": 130891,
+    "severe": 323,
+    "discharge": 111797,
+    "death": 1987,
+    "symptom_confirming": 114
+  },
+  {
+    "date": 20201123,
+    "pcr": 3278272,
+    "hospitalize": 18019,
+    "positive": 133070,
+    "severe": 331,
+    "discharge": 112900,
+    "death": 1994,
+    "symptom_confirming": 121
+  },
+  {
+    "date": 20201124,
+    "pcr": 3289941,
+    "hospitalize": 18513,
+    "positive": 134641,
+    "severe": 345,
+    "discharge": 113965,
+    "death": 2002,
+    "symptom_confirming": 125
+  },
+  {
+    "date": 20201125,
+    "pcr": 3335010,
+    "hospitalize": 18517,
+    "positive": 136112,
+    "severe": 376,
+    "discharge": 115365,
+    "death": 2014,
+    "symptom_confirming": 180
+  },
+  {
+    "date": 20201126,
+    "pcr": 3377681,
+    "hospitalize": 18692,
+    "positive": 137973,
+    "severe": 410,
+    "discharge": 117011,
+    "death": 2035,
+    "symptom_confirming": 199
+  },
+  {
+    "date": 20201127,
+    "pcr": 3422138,
+    "hospitalize": 19227,
+    "positive": 140203,
+    "severe": 435,
+    "discharge": 118757,
+    "death": 2064,
+    "symptom_confirming": 119
+  },
+  {
+    "date": 20201128,
+    "pcr": 3467290,
+    "hospitalize": 19646,
+    "positive": 142780,
+    "severe": 440,
+    "discharge": 120891,
+    "death": 2087,
+    "symptom_confirming": 120
+  },
+  {
+    "date": 20201129,
+    "pcr": 3489597,
+    "hospitalize": 21130,
+    "positive": 145351,
+    "severe": 462,
+    "discharge": 121940,
+    "death": 2119,
+    "symptom_confirming": 126
+  },
+  {
+    "date": 20201130,
+    "pcr": 3501572,
+    "hospitalize": 21052,
+    "positive": 147443,
+    "severe": 472,
+    "discharge": 124061,
+    "death": 2132,
+    "symptom_confirming": 162
+  },
+  {
+    "date": 20201201,
+    "pcr": 3549534,
+    "hospitalize": 21056,
+    "positive": 149406,
+    "severe": 493,
+    "discharge": 126001,
+    "death": 2152,
+    "symptom_confirming": 161
+  },
+  {
+    "date": 20201202,
+    "pcr": 3595215,
+    "hospitalize": 20742,
+    "positive": 151098,
+    "severe": 488,
+    "discharge": 127935,
+    "death": 2185,
+    "symptom_confirming": 200
+  },
+  {
+    "date": 20201203,
+    "pcr": 3640130,
+    "hospitalize": 21180,
+    "positive": 153539,
+    "severe": 497,
+    "discharge": 129876,
+    "death": 2226,
+    "symptom_confirming": 221
+  },
+  {
+    "date": 20201204,
+    "pcr": 3678862,
+    "hospitalize": 21704,
+    "positive": 155944,
+    "severe": 505,
+    "discharge": 131809,
+    "death": 2253,
+    "symptom_confirming": 142
+  },
+  {
+    "date": 20201205,
+    "pcr": 3718748,
+    "hospitalize": 21871,
+    "positive": 158386,
+    "severe": 520,
+    "discharge": 134075,
+    "death": 2296,
+    "symptom_confirming": 108
+  },
+  {
+    "date": 20201206,
+    "pcr": 3743764,
+    "hospitalize": 22389,
+    "positive": 160810,
+    "severe": 519,
+    "discharge": 135912,
+    "death": 2328,
+    "symptom_confirming": 145
+  },
+  {
+    "date": 20201207,
+    "pcr": 3763923,
+    "hospitalize": 22680,
+    "positive": 162779,
+    "severe": 530,
+    "discharge": 137534,
+    "death": 2348,
+    "symptom_confirming": 181
+  },
+  {
+    "date": 20201208,
+    "pcr": 3804307,
+    "hospitalize": 22339,
+    "positive": 164641,
+    "severe": 536,
+    "discharge": 139626,
+    "death": 2395,
+    "symptom_confirming": 245
+  },
+  {
+    "date": 20201209,
+    "pcr": 3846142,
+    "hospitalize": 22550,
+    "positive": 166552,
+    "severe": 555,
+    "discharge": 141248,
+    "death": 2433,
+    "symptom_confirming": 285
+  },
+  {
+    "date": 20201210,
+    "pcr": 3902587,
+    "hospitalize": 22815,
+    "positive": 169285,
+    "severe": 543,
+    "discharge": 143629,
+    "death": 2478,
+    "symptom_confirming": 327
+  },
+  {
+    "date": 20201211,
+    "pcr": 3949448,
+    "hospitalize": 23774,
+    "positive": 172254,
+    "severe": 554,
+    "discharge": 145633,
+    "death": 2515,
+    "symptom_confirming": 296
+  },
+  {
+    "date": 20201212,
+    "pcr": 4005172,
+    "hospitalize": 23990,
+    "positive": 175011,
+    "severe": 578,
+    "discharge": 148141,
+    "death": 2547,
+    "symptom_confirming": 297
+  },
+  {
+    "date": 20201213,
+    "pcr": 4036434,
+    "hospitalize": 25113,
+    "positive": 177999,
+    "severe": 583,
+    "discharge": 149898,
+    "death": 2575,
+    "symptom_confirming": 377
+  },
+  {
+    "date": 20201214,
+    "pcr": 4052328,
+    "hospitalize": 25672,
+    "positive": 180365,
+    "severe": 588,
+    "discharge": 151552,
+    "death": 2598,
+    "symptom_confirming": 507
+  },
+  {
+    "date": 20201215,
+    "pcr": 4109266,
+    "hospitalize": 25230,
+    "positive": 182582,
+    "severe": 592,
+    "discharge": 154094,
+    "death": 2656,
+    "symptom_confirming": 566
+  },
+  {
+    "date": 20201216,
+    "pcr": 4157207,
+    "hospitalize": 25281,
+    "positive": 184754,
+    "severe": 618,
+    "discharge": 156095,
+    "death": 2701,
+    "symptom_confirming": 641
+  },
+  {
+    "date": 20201217,
+    "pcr": 4213414,
+    "hospitalize": 25411,
+    "positive": 187815,
+    "severe": 605,
+    "discharge": 158725,
+    "death": 2752,
+    "symptom_confirming": 891
+  },
+  {
+    "date": 20201218,
+    "pcr": 4278251,
+    "hospitalize": 25741,
+    "positive": 190850,
+    "severe": 609,
+    "discharge": 161320,
+    "death": 2796,
+    "symptom_confirming": 957
+  },
+  {
+    "date": 20201219,
+    "pcr": 4336635,
+    "hospitalize": 26169,
+    "positive": 193743,
+    "severe": 598,
+    "discharge": 163864,
+    "death": 2841,
+    "symptom_confirming": 833
+  },
+  {
+    "date": 20201220,
+    "pcr": 4366504,
+    "hospitalize": 26852,
+    "positive": 196592,
+    "severe": 593,
+    "discharge": 165879,
+    "death": 2886,
+    "symptom_confirming": 939
+  },
+  {
+    "date": 20201221,
+    "pcr": 4382685,
+    "hospitalize": 26941,
+    "positive": 199235,
+    "severe": 603,
+    "discharge": 168112,
+    "death": 2913,
+    "symptom_confirming": 1233
+  },
+  {
+    "date": 20201222,
+    "pcr": 4442891,
+    "hospitalize": 27291,
+    "positive": 201370,
+    "severe": 620,
+    "discharge": 169907,
+    "death": 2957,
+    "symptom_confirming": 1179
+  },
+  {
+    "date": 20201223,
+    "pcr": 4476874,
+    "hospitalize": 27017,
+    "positive": 203825,
+    "severe": 619,
+    "discharge": 172614,
+    "death": 3007,
+    "symptom_confirming": 1151
+  },
+  {
+    "date": 20201224,
+    "pcr": 4551397,
+    "hospitalize": 27224,
+    "positive": 206851,
+    "severe": 644,
+    "discharge": 175380,
+    "death": 3063,
+    "symptom_confirming": 1148
+  },
+  {
+    "date": 20201225,
+    "pcr": 4617557,
+    "hospitalize": 28295,
+    "positive": 210692,
+    "severe": 644,
+    "discharge": 178331,
+    "death": 3118,
+    "symptom_confirming": 912
+  },
+  {
+    "date": 20201226,
+    "pcr": 4680122,
+    "hospitalize": 29413,
+    "positive": 214259,
+    "severe": 654,
+    "discharge": 180705,
+    "death": 3168,
+    "symptom_confirming": 937
+  },
+  {
+    "date": 20201227,
+    "pcr": 4715469,
+    "hospitalize": 30505,
+    "positive": 218024,
+    "severe": 659,
+    "discharge": 183159,
+    "death": 3226,
+    "symptom_confirming": 1098
+  },
+  {
+    "date": 20201228,
+    "pcr": 4729584,
+    "hospitalize": 31244,
+    "positive": 220948,
+    "severe": 661,
+    "discharge": 185215,
+    "death": 3265,
+    "symptom_confirming": 1188
+  },
+  {
+    "date": 20201229,
+    "pcr": 4805857,
+    "hospitalize": 31844,
+    "positive": 223832,
+    "severe": 675,
+    "discharge": 187463,
+    "death": 3319,
+    "symptom_confirming": 1170
+  },
+  {
+    "date": 20201230,
+    "pcr": 4832687,
+    "hospitalize": 32629,
+    "positive": 227308,
+    "severe": 668,
+    "discharge": 189994,
+    "death": 3362,
+    "symptom_confirming": 1287
+  },
+  {
+    "date": 20201231,
+    "pcr": 4855555,
+    "hospitalize": 34166,
+    "positive": 231016,
+    "severe": 681,
+    "discharge": 192010,
+    "death": 3427,
+    "symptom_confirming": 1377
+  },
+  {
+    "date": 20210101,
+    "pcr": 4896936,
+    "hospitalize": 36186,
+    "positive": 235107,
+    "severe": 716,
+    "discharge": 194081,
+    "death": 3473,
+    "symptom_confirming": 1331
+  },
+  {
+    "date": 20210102,
+    "pcr": 4923515,
+    "hospitalize": 37324,
+    "positive": 238724,
+    "severe": 711,
+    "discharge": 196776,
+    "death": 3527,
+    "symptom_confirming": 1061
+  },
+  {
+    "date": 20210103,
+    "pcr": 4933653,
+    "hospitalize": 38159,
+    "positive": 241666,
+    "severe": 714,
+    "discharge": 198854,
+    "death": 3561,
+    "symptom_confirming": 1056
+  },
+  {
+    "date": 20210104,
+    "pcr": 4956622,
+    "hospitalize": 38871,
+    "positive": 244559,
+    "severe": 731,
+    "discharge": 201039,
+    "death": 3612,
+    "symptom_confirming": 1001
+  },
+  {
+    "date": 20210105,
+    "pcr": 5043450,
+    "hospitalize": 40052,
+    "positive": 248672,
+    "severe": 771,
+    "discharge": 203971,
+    "death": 3668,
+    "symptom_confirming": 945
+  },
+  {
+    "date": 20210106,
+    "pcr": 5133230,
+    "hospitalize": 41054,
+    "positive": 253029,
+    "severe": 784,
+    "discharge": 207496,
+    "death": 3732,
+    "symptom_confirming": 711
+  },
+  {
+    "date": 20210107,
+    "pcr": 5208911,
+    "hospitalize": 43573,
+    "positive": 259105,
+    "severe": 796,
+    "discharge": 210865,
+    "death": 3804,
+    "symptom_confirming": 827
+  },
+  {
+    "date": 20210108,
+    "pcr": 5292173,
+    "hospitalize": 46934,
+    "positive": 266011,
+    "severe": 826,
+    "discharge": 214243,
+    "death": 3870,
+    "symptom_confirming": 928
+  },
+  {
+    "date": 20210109,
+    "pcr": 5357246,
+    "hospitalize": 51281,
+    "positive": 273866,
+    "severe": 827,
+    "discharge": 217857,
+    "death": 3945,
+    "symptom_confirming": 747
+  },
+  {
+    "date": 20210110,
+    "pcr": 5394604,
+    "hospitalize": 55390,
+    "positive": 281487,
+    "severe": 852,
+    "discharge": 221079,
+    "death": 4009,
+    "symptom_confirming": 973
+  },
+  {
+    "date": 20210111,
+    "pcr": 5422704,
+    "hospitalize": 58769,
+    "positive": 287464,
+    "severe": 864,
+    "discharge": 223501,
+    "death": 4057,
+    "symptom_confirming": 1101
+  },
+  {
+    "date": 20210112,
+    "pcr": 5445933,
+    "hospitalize": 61598,
+    "positive": 292924,
+    "severe": 881,
+    "discharge": 225927,
+    "death": 4107,
+    "symptom_confirming": 1256
+  },
+  {
+    "date": 20210113,
+    "pcr": 5534923,
+    "hospitalize": 63073,
+    "positive": 298027,
+    "severe": 900,
+    "discharge": 229595,
+    "death": 4158,
+    "symptom_confirming": 1165
+  },
+  {
+    "date": 20210114,
+    "pcr": 5618874,
+    "hospitalize": 63779,
+    "positive": 303335,
+    "severe": 920,
+    "discharge": 234078,
+    "death": 4246,
+    "symptom_confirming": 1196
+  },
+  {
+    "date": 20210115,
+    "pcr": 5722512,
+    "hospitalize": 65250,
+    "positive": 309926,
+    "severe": 934,
+    "discharge": 238983,
+    "death": 4328,
+    "symptom_confirming": 1329
+  },
+  {
+    "date": 20210116,
+    "pcr": 5796265,
+    "hospitalize": 66761,
+    "positive": 316622,
+    "severe": 965,
+    "discharge": 244480,
+    "death": 4393,
+    "symptom_confirming": 952
+  },
+  {
+    "date": 20210117,
+    "pcr": 5844632,
+    "hospitalize": 68447,
+    "positive": 323008,
+    "severe": 972,
+    "discharge": 249003,
+    "death": 4459,
+    "symptom_confirming": 1063
+  },
+  {
+    "date": 20210118,
+    "pcr": 5864108,
+    "hospitalize": 70114,
+    "positive": 329006,
+    "severe": 973,
+    "discharge": 253310,
+    "death": 4514,
+    "symptom_confirming": 1032
+  },
+  {
+    "date": 20210119,
+    "pcr": 5949310,
+    "hospitalize": 71270,
+    "positive": 335040,
+    "severe": 1001,
+    "discharge": 258140,
+    "death": 4561,
+    "symptom_confirming": 1033
+  },
+  {
+    "date": 20210120,
+    "pcr": 6057098,
+    "hospitalize": 69504,
+    "positive": 340486,
+    "severe": 1014,
+    "discharge": 265324,
+    "death": 4660,
+    "symptom_confirming": 962
+  },
+  {
+    "date": 20210121,
+    "pcr": 6148827,
+    "hospitalize": 66579,
+    "positive": 345933,
+    "severe": 1014,
+    "discharge": 273591,
+    "death": 4756,
+    "symptom_confirming": 971
+  },
+  {
+    "date": 20210122,
+    "pcr": 6239672,
+    "hospitalize": 66239,
+    "positive": 351732,
+    "severe": 1011,
+    "discharge": 279573,
+    "death": 4843,
+    "symptom_confirming": 1041
+  },
+  {
+    "date": 20210123,
+    "pcr": 6342214,
+    "hospitalize": 65280,
+    "positive": 356786,
+    "severe": 1009,
+    "discharge": 285866,
+    "death": 4948,
+    "symptom_confirming": 656
+  },
+  {
+    "date": 20210124,
+    "pcr": 6381117,
+    "hospitalize": 64662,
+    "positive": 361373,
+    "severe": 1007,
+    "discharge": 290960,
+    "death": 5032,
+    "symptom_confirming": 683
+  },
+  {
+    "date": 20210125,
+    "pcr": 6401158,
+    "hospitalize": 63793,
+    "positive": 365525,
+    "severe": 1017,
+    "discharge": 295862,
+    "death": 5097,
+    "symptom_confirming": 737
+  },
+  {
+    "date": 20210126,
+    "pcr": 6485137,
+    "hospitalize": 61047,
+    "positive": 368855,
+    "severe": 996,
+    "discharge": 301980,
+    "death": 5171,
+    "symptom_confirming": 621
+  },
+  {
+    "date": 20210127,
+    "pcr": 6552351,
+    "hospitalize": 58102,
+    "positive": 372392,
+    "severe": 1043,
+    "discharge": 308504,
+    "death": 5265,
+    "symptom_confirming": 485
+  },
+  {
+    "date": 20210128,
+    "pcr": 6644584,
+    "hospitalize": 55612,
+    "positive": 376319,
+    "severe": 1032,
+    "discharge": 314855,
+    "death": 5374,
+    "symptom_confirming": 442
+  },
+  {
+    "date": 20210129,
+    "pcr": 6710011,
+    "hospitalize": 53624,
+    "positive": 380228,
+    "severe": 1014,
+    "discharge": 320672,
+    "death": 5465,
+    "symptom_confirming": 431
+  },
+  {
+    "date": 20210130,
+    "pcr": 6793549,
+    "hospitalize": 51844,
+    "positive": 383795,
+    "severe": 974,
+    "discharge": 326065,
+    "death": 5559,
+    "symptom_confirming": 291
+  },
+  {
+    "date": 20210131,
+    "pcr": 6835765,
+    "hospitalize": 50506,
+    "positive": 387454,
+    "severe": 973,
+    "discharge": 330947,
+    "death": 5667,
+    "symptom_confirming": 298
+  },
+  {
+    "date": 20210201,
+    "pcr": 6855048,
+    "hospitalize": 49512,
+    "positive": 390230,
+    "severe": 975,
+    "discharge": 334638,
+    "death": 5735,
+    "symptom_confirming": 309
+  },
+  {
+    "date": 20210202,
+    "pcr": 6924741,
+    "hospitalize": 46404,
+    "positive": 392338,
+    "severe": 937,
+    "discharge": 339841,
+    "death": 5807,
+    "symptom_confirming": 250
+  },
+  {
+    "date": 20210203,
+    "pcr": 6984887,
+    "hospitalize": 43820,
+    "positive": 394548,
+    "severe": 897,
+    "discharge": 344530,
+    "death": 5925,
+    "symptom_confirming": 237
+  },
+  {
+    "date": 20210204,
+    "pcr": 7055103,
+    "hospitalize": 41102,
+    "positive": 397141,
+    "severe": 892,
+    "discharge": 349740,
+    "death": 6033,
+    "symptom_confirming": 230
+  },
+  {
+    "date": 20210205,
+    "pcr": 7118139,
+    "hospitalize": 38401,
+    "positive": 399760,
+    "severe": 877,
+    "discharge": 354955,
+    "death": 6148,
+    "symptom_confirming": 220
+  },
+  {
+    "date": 20210206,
+    "pcr": 7190498,
+    "hospitalize": 36343,
+    "positive": 402067,
+    "severe": 815,
+    "discharge": 359318,
+    "death": 6256,
+    "symptom_confirming": 114
+  },
+  {
+    "date": 20210207,
+    "pcr": 7225282,
+    "hospitalize": 34930,
+    "positive": 404147,
+    "severe": 795,
+    "discharge": 362718,
+    "death": 6351,
+    "symptom_confirming": 112
+  },
+  {
+    "date": 20210208,
+    "pcr": 7244832,
+    "hospitalize": 33451,
+    "positive": 405702,
+    "severe": 773,
+    "discharge": 365702,
+    "death": 6408,
+    "symptom_confirming": 105
+  },
+  {
+    "date": 20210209,
+    "pcr": 7305227,
+    "hospitalize": 31583,
+    "positive": 407478,
+    "severe": 759,
+    "discharge": 369249,
+    "death": 6489,
+    "symptom_confirming": 121
+  },
+  {
+    "date": 20210210,
+    "pcr": 7384206,
+    "hospitalize": 29243,
+    "positive": 408898,
+    "severe": 736,
+    "discharge": 372919,
+    "death": 6570,
+    "symptom_confirming": 130
+  },
+  {
+    "date": 20210211,
+    "pcr": 7450888,
+    "hospitalize": 27932,
+    "positive": 410724,
+    "severe": 713,
+    "discharge": 375905,
+    "death": 6691,
+    "symptom_confirming": 160
+  },
+  {
+    "date": 20210212,
+    "pcr": 7484995,
+    "hospitalize": 27026,
+    "positive": 412463,
+    "severe": 701,
+    "discharge": 378474,
+    "death": 6787,
+    "symptom_confirming": 140
+  },
+  {
+    "date": 20210213,
+    "pcr": 7543021,
+    "hospitalize": 25410,
+    "positive": 413866,
+    "severe": 693,
+    "discharge": 381043,
+    "death": 6862,
+    "symptom_confirming": 515
+  },
+  {
+    "date": 20210214,
+    "pcr": 7574723,
+    "hospitalize": 24528,
+    "positive": 415184,
+    "severe": 668,
+    "discharge": 383183,
+    "death": 6925,
+    "symptom_confirming": 512
+  },
+  {
+    "date": 20210215,
+    "pcr": 7590654,
+    "hospitalize": 23412,
+    "positive": 416494,
+    "severe": 658,
+    "discharge": 385536,
+    "death": 6965,
+    "symptom_confirming": 545
+  },
+  {
+    "date": 20210216,
+    "pcr": 7650749,
+    "hospitalize": 22649,
+    "positive": 418477,
+    "severe": 644,
+    "discharge": 388239,
+    "death": 7028,
+    "symptom_confirming": 525
+  },
+  {
+    "date": 20210217,
+    "pcr": 7711404,
+    "hospitalize": 20364,
+    "positive": 419727,
+    "severe": 607,
+    "discharge": 391674,
+    "death": 7115,
+    "symptom_confirming": 538
+  },
+  {
+    "date": 20210218,
+    "pcr": 7773824,
+    "hospitalize": 19302,
+    "positive": 421120,
+    "severe": 564,
+    "discharge": 393998,
+    "death": 7209,
+    "symptom_confirming": 575
+  },
+  {
+    "date": 20210219,
+    "pcr": 7829429,
+    "hospitalize": 18899,
+    "positive": 422679,
+    "severe": 547,
+    "discharge": 395927,
+    "death": 7287,
+    "symptom_confirming": 530
+  },
+  {
+    "date": 20210220,
+    "pcr": 7905540,
+    "hospitalize": 18364,
+    "positive": 424023,
+    "severe": 526,
+    "discharge": 397793,
+    "death": 7346,
+    "symptom_confirming": 484
+  },
+  {
+    "date": 20210221,
+    "pcr": 7938981,
+    "hospitalize": 17870,
+    "positive": 425219,
+    "severe": 511,
+    "discharge": 399399,
+    "death": 7430,
+    "symptom_confirming": 484
+  },
+  {
+    "date": 20210222,
+    "pcr": 7955195,
+    "hospitalize": 17516,
+    "positive": 426309,
+    "severe": 510,
+    "discharge": 400752,
+    "death": 7487,
+    "symptom_confirming": 518
+  },
+  {
+    "date": 20210223,
+    "pcr": 8011457,
+    "hospitalize": 16809,
+    "positive": 427168,
+    "severe": 491,
+    "discharge": 402301,
+    "death": 7542,
+    "symptom_confirming": 479
+  },
+  {
+    "date": 20210224,
+    "pcr": 8030617,
+    "hospitalize": 16140,
+    "positive": 428179,
+    "severe": 487,
+    "discharge": 403905,
+    "death": 7597,
+    "symptom_confirming": 501
+  },
+  {
+    "date": 20210225,
+    "pcr": 8086848,
+    "hospitalize": 15341,
+    "positive": 429265,
+    "severe": 472,
+    "discharge": 405733,
+    "death": 7660,
+    "symptom_confirming": 495
+  },
+  {
+    "date": 20210226,
+    "pcr": 8147542,
+    "hospitalize": 14944,
+    "positive": 430184,
+    "severe": 457,
+    "discharge": 406984,
+    "death": 7735,
+    "symptom_confirming": 485
+  },
+  {
+    "date": 20210227,
+    "pcr": 8206903,
+    "hospitalize": 14497,
+    "positive": 431251,
+    "severe": 440,
+    "discharge": 408426,
+    "death": 7820,
+    "symptom_confirming": 472
+  },
+  {
+    "date": 20210228,
+    "pcr": 8238600,
+    "hospitalize": 14363,
+    "positive": 432452,
+    "severe": 434,
+    "discharge": 409714,
+    "death": 7873,
+    "symptom_confirming": 466
+  },
+  {
+    "date": 20210301,
+    "pcr": 8260220,
+    "hospitalize": 14054,
+    "positive": 433485,
+    "severe": 436,
+    "discharge": 411024,
+    "death": 7900,
+    "symptom_confirming": 471
+  },
+  {
+    "date": 20210302,
+    "pcr": 8323310,
+    "hospitalize": 13188,
+    "positive": 434216,
+    "severe": 413,
+    "discharge": 412570,
+    "death": 7946,
+    "symptom_confirming": 476
+  },
+  {
+    "date": 20210303,
+    "pcr": 8406994,
+    "hospitalize": 12789,
+    "positive": 435068,
+    "severe": 407,
+    "discharge": 413773,
+    "death": 7997,
+    "symptom_confirming": 473
+  },
+  {
+    "date": 20210304,
+    "pcr": 8438926,
+    "hospitalize": 12434,
+    "positive": 436260,
+    "severe": 398,
+    "discharge": 415237,
+    "death": 8065,
+    "symptom_confirming": 488
+  },
+  {
+    "date": 20210305,
+    "pcr": 8509493,
+    "hospitalize": 12296,
+    "positive": 437440,
+    "severe": 388,
+    "discharge": 416475,
+    "death": 8132,
+    "symptom_confirming": 501
+  },
+  {
+    "date": 20210306,
+    "pcr": 8556431,
+    "hospitalize": 12173,
+    "positive": 438604,
+    "severe": 375,
+    "discharge": 417740,
+    "death": 8191,
+    "symptom_confirming": 464
+  },
+  {
+    "date": 20210307,
+    "pcr": 8589769,
+    "hospitalize": 12211,
+    "positive": 439668,
+    "severe": 373,
+    "discharge": 418709,
+    "death": 8240,
+    "symptom_confirming": 472
+  },
+  {
+    "date": 20210308,
+    "pcr": 8606187,
+    "hospitalize": 12213,
+    "positive": 440704,
+    "severe": 380,
+    "discharge": 419676,
+    "death": 8266,
+    "symptom_confirming": 513
+  },
+  {
+    "date": 20210309,
+    "pcr": 8676719,
+    "hospitalize": 11791,
+    "positive": 441383,
+    "severe": 381,
+    "discharge": 420727,
+    "death": 8312,
+    "symptom_confirming": 517
+  },
+  {
+    "date": 20210310,
+    "pcr": 8718233,
+    "hospitalize": 11634,
+    "positive": 442441,
+    "severe": 364,
+    "discharge": 421894,
+    "death": 8366,
+    "symptom_confirming": 511
+  },
+  {
+    "date": 20210311,
+    "pcr": 8779859,
+    "hospitalize": 11703,
+    "positive": 443713,
+    "severe": 354,
+    "discharge": 423018,
+    "death": 8415,
+    "symptom_confirming": 541
+  },
+  {
+    "date": 20210312,
+    "pcr": 8838417,
+    "hospitalize": 11862,
+    "positive": 445001,
+    "severe": 354,
+    "discharge": 424097,
+    "death": 8464,
+    "symptom_confirming": 542
+  },
+  {
+    "date": 20210313,
+    "pcr": 8895863,
+    "hospitalize": 12110,
+    "positive": 446297,
+    "severe": 337,
+    "discharge": 425157,
+    "death": 8522,
+    "symptom_confirming": 472
+  },
+  {
+    "date": 20210314,
+    "pcr": 8929914,
+    "hospitalize": 12364,
+    "positive": 447585,
+    "severe": 328,
+    "discharge": 426137,
+    "death": 8573,
+    "symptom_confirming": 475
+  },
+  {
+    "date": 20210315,
+    "pcr": 8949865,
+    "hospitalize": 12336,
+    "positive": 448618,
+    "severe": 327,
+    "discharge": 427162,
+    "death": 8603,
+    "symptom_confirming": 481
+  },
+  {
+    "date": 20210316,
+    "pcr": 9003711,
+    "hospitalize": 12187,
+    "positive": 449400,
+    "severe": 337,
+    "discharge": 428060,
+    "death": 8635,
+    "symptom_confirming": 482
+  },
+  {
+    "date": 20210317,
+    "pcr": 9053771,
+    "hospitalize": 12022,
+    "positive": 450425,
+    "severe": 335,
+    "discharge": 429189,
+    "death": 8691,
+    "symptom_confirming": 487
+  },
+  {
+    "date": 20210318,
+    "pcr": 9140915,
+    "hospitalize": 12285,
+    "positive": 451898,
+    "severe": 325,
+    "discharge": 430378,
+    "death": 8730,
+    "symptom_confirming": 469
+  },
+  {
+    "date": 20210319,
+    "pcr": 9198005,
+    "hospitalize": 12643,
+    "positive": 453414,
+    "severe": 330,
+    "discharge": 431425,
+    "death": 8771,
+    "symptom_confirming": 539
+  },
+  {
+    "date": 20210320,
+    "pcr": 9271484,
+    "hospitalize": 12924,
+    "positive": 454870,
+    "severe": 332,
+    "discharge": 432622,
+    "death": 8803,
+    "symptom_confirming": 485
+  },
+  {
+    "date": 20210321,
+    "pcr": 9304939,
+    "hospitalize": 13383,
+    "positive": 456350,
+    "severe": 324,
+    "discharge": 433639,
+    "death": 8825,
+    "symptom_confirming": 467
+  },
+  {
+    "date": 20210322,
+    "pcr": 9324246,
+    "hospitalize": 13355,
+    "positive": 457493,
+    "severe": 324,
+    "discharge": 434770,
+    "death": 8848,
+    "symptom_confirming": 484
+  },
+  {
+    "date": 20210323,
+    "pcr": 9378463,
+    "hospitalize": 13215,
+    "positive": 458466,
+    "severe": 320,
+    "discharge": 435848,
+    "death": 8874,
+    "symptom_confirming": 493
+  },
+  {
+    "date": 20210324,
+    "pcr": 9432731,
+    "hospitalize": 13407,
+    "positive": 459755,
+    "severe": 328,
+    "discharge": 436911,
+    "death": 8921,
+    "symptom_confirming": 480
+  },
+  {
+    "date": 20210325,
+    "pcr": 9494319,
+    "hospitalize": 13916,
+    "positive": 461609,
+    "severe": 325,
+    "discharge": 438201,
+    "death": 8951,
+    "symptom_confirming": 505
+  },
+  {
+    "date": 20210326,
+    "pcr": 9558667,
+    "hospitalize": 14656,
+    "positive": 463552,
+    "severe": 323,
+    "discharge": 439380,
+    "death": 8980,
+    "symptom_confirming": 500
+  },
+  {
+    "date": 20210327,
+    "pcr": 9627695,
+    "hospitalize": 15322,
+    "positive": 465578,
+    "severe": 331,
+    "discharge": 440716,
+    "death": 9011,
+    "symptom_confirming": 493
+  },
+  {
+    "date": 20210328,
+    "pcr": 9669651,
+    "hospitalize": 16256,
+    "positive": 467561,
+    "severe": 341,
+    "discharge": 441745,
+    "death": 9044,
+    "symptom_confirming": 480
+  },
+  {
+    "date": 20210329,
+    "pcr": 9688538,
+    "hospitalize": 16832,
+    "positive": 469321,
+    "severe": 342,
+    "discharge": 442878,
+    "death": 9074,
+    "symptom_confirming": 501
+  },
+  {
+    "date": 20210330,
+    "pcr": 9765749,
+    "hospitalize": 17153,
+    "positive": 470887,
+    "severe": 368,
+    "discharge": 444122,
+    "death": 9099,
+    "symptom_confirming": 474
+  },
+  {
+    "date": 20210331,
+    "pcr": 9808443,
+    "hospitalize": 17642,
+    "positive": 472824,
+    "severe": 382,
+    "discharge": 445504,
+    "death": 9126,
+    "symptom_confirming": 516
+  },
+  {
+    "date": 20210401,
+    "pcr": 9875878,
+    "hospitalize": 18776,
+    "positive": 475477,
+    "severe": 380,
+    "discharge": 446918,
+    "death": 9175,
+    "symptom_confirming": 572
+  },
+  {
+    "date": 20210402,
+    "pcr": 9945256,
+    "hospitalize": 20216,
+    "positive": 478170,
+    "severe": 394,
+    "discharge": 448172,
+    "death": 9198,
+    "symptom_confirming": 542
+  },
+  {
+    "date": 20210403,
+    "pcr": 10008625,
+    "hospitalize": 21524,
+    "positive": 480877,
+    "severe": 408,
+    "discharge": 449581,
+    "death": 9226,
+    "symptom_confirming": 510
+  },
+  {
+    "date": 20210404,
+    "pcr": 10052731,
+    "hospitalize": 22619,
+    "positive": 483579,
+    "severe": 431,
+    "discharge": 451124,
+    "death": 9234,
+    "symptom_confirming": 566
+  },
+  {
+    "date": 20210405,
+    "pcr": 10071664,
+    "hospitalize": 23478,
+    "positive": 486037,
+    "severe": 445,
+    "discharge": 452660,
+    "death": 9244,
+    "symptom_confirming": 619
+  },
+  {
+    "date": 20210406,
+    "pcr": 10134242,
+    "hospitalize": 23832,
+    "positive": 488257,
+    "severe": 451,
+    "discharge": 454522,
+    "death": 9262,
+    "symptom_confirming": 605
+  },
+  {
+    "date": 20210407,
+    "pcr": 10188632,
+    "hospitalize": 24496,
+    "positive": 490288,
+    "severe": 456,
+    "discharge": 455851,
+    "death": 9292,
+    "symptom_confirming": 613
+  },
+  {
+    "date": 20210408,
+    "pcr": 10248470,
+    "hospitalize": 25976,
+    "positive": 493587,
+    "severe": 464,
+    "discharge": 457562,
+    "death": 9314,
+    "symptom_confirming": 699
+  },
+  {
+    "date": 20210409,
+    "pcr": 10321380,
+    "hospitalize": 27489,
+    "positive": 496918,
+    "severe": 483,
+    "discharge": 459340,
+    "death": 9347,
+    "symptom_confirming": 706
+  },
+  {
+    "date": 20210410,
+    "pcr": 10390750,
+    "hospitalize": 28881,
+    "positive": 500505,
+    "severe": 511,
+    "discharge": 461486,
+    "death": 9366,
+    "symptom_confirming": 736
+  },
+  {
+    "date": 20210411,
+    "pcr": 10434037,
+    "hospitalize": 29715,
+    "positive": 504115,
+    "severe": 520,
+    "discharge": 464219,
+    "death": 9395,
+    "symptom_confirming": 750
+  },
+  {
+    "date": 20210412,
+    "pcr": 10458351,
+    "hospitalize": 30467,
+    "positive": 506998,
+    "severe": 563,
+    "discharge": 466331,
+    "death": 9413,
+    "symptom_confirming": 751
+  },
+  {
+    "date": 20210413,
+    "pcr": 10533252,
+    "hospitalize": 30038,
+    "positive": 509514,
+    "severe": 596,
+    "discharge": 469233,
+    "death": 9438,
+    "symptom_confirming": 769
+  },
+  {
+    "date": 20210414,
+    "pcr": 10599617,
+    "hospitalize": 31073,
+    "positive": 512881,
+    "severe": 608,
+    "discharge": 471462,
+    "death": 9482,
+    "symptom_confirming": 828
+  },
+  {
+    "date": 20210415,
+    "pcr": 10673845,
+    "hospitalize": 32347,
+    "positive": 516833,
+    "severe": 631,
+    "discharge": 474050,
+    "death": 9513,
+    "symptom_confirming": 887
+  },
+  {
+    "date": 20210416,
+    "pcr": 10757903,
+    "hospitalize": 34689,
+    "positive": 521457,
+    "severe": 670,
+    "discharge": 476238,
+    "death": 9551,
+    "symptom_confirming": 943
+  },
+  {
+    "date": 20210417,
+    "pcr": 10837514,
+    "hospitalize": 36649,
+    "positive": 525930,
+    "severe": 702,
+    "discharge": 478853,
+    "death": 9597,
+    "symptom_confirming": 795
+  },
+  {
+    "date": 20210418,
+    "pcr": 10890366,
+    "hospitalize": 38759,
+    "positive": 530541,
+    "severe": 723,
+    "discharge": 481241,
+    "death": 9635,
+    "symptom_confirming": 870
+  },
+  {
+    "date": 20210419,
+    "pcr": 10922565,
+    "hospitalize": 40588,
+    "positive": 534764,
+    "severe": 738,
+    "discharge": 483534,
+    "death": 9654,
+    "symptom_confirming": 952
+  },
+  {
+    "date": 20210420,
+    "pcr": 11009261,
+    "hospitalize": 40877,
+    "positive": 538014,
+    "severe": 769,
+    "discharge": 486482,
+    "death": 9684,
+    "symptom_confirming": 935
+  },
+  {
+    "date": 20210421,
+    "pcr": 11083220,
+    "hospitalize": 42054,
+    "positive": 542208,
+    "severe": 791,
+    "discharge": 489400,
+    "death": 9723,
+    "symptom_confirming": 995
+  },
+  {
+    "date": 20210422,
+    "pcr": 11180795,
+    "hospitalize": 44187,
+    "positive": 547137,
+    "severe": 805,
+    "discharge": 492100,
+    "death": 9777,
+    "symptom_confirming": 1037
+  },
+  {
+    "date": 20210423,
+    "pcr": 11276750,
+    "hospitalize": 46261,
+    "positive": 552610,
+    "severe": 816,
+    "discharge": 495341,
+    "death": 9813,
+    "symptom_confirming": 1159
+  },
+  {
+    "date": 20210424,
+    "pcr": 11369609,
+    "hospitalize": 48197,
+    "positive": 557711,
+    "severe": 837,
+    "discharge": 498693,
+    "death": 9867,
+    "symptom_confirming": 918
+  },
+  {
+    "date": 20210425,
+    "pcr": 11430006,
+    "hospitalize": 49806,
+    "positive": 562853,
+    "severe": 864,
+    "discharge": 502045,
+    "death": 9926,
+    "symptom_confirming": 1040
+  },
+  {
+    "date": 20210426,
+    "pcr": 11467756,
+    "hospitalize": 51302,
+    "positive": 567575,
+    "severe": 898,
+    "discharge": 505159,
+    "death": 9985,
+    "symptom_confirming": 1096
+  },
+  {
+    "date": 20210427,
+    "pcr": 11554212,
+    "hospitalize": 51733,
+    "positive": 571752,
+    "severe": 916,
+    "discharge": 508808,
+    "death": 10017,
+    "symptom_confirming": 1158
+  },
+  {
+    "date": 20210428,
+    "pcr": 11636330,
+    "hospitalize": 52543,
+    "positive": 576275,
+    "severe": 953,
+    "discharge": 512474,
+    "death": 10068,
+    "symptom_confirming": 1154
+  },
+  {
+    "date": 20210429,
+    "pcr": 11705804,
+    "hospitalize": 54200,
+    "positive": 581700,
+    "severe": 951,
+    "discharge": 515968,
+    "death": 10120,
+    "symptom_confirming": 1376
+  },
+  {
+    "date": 20210430,
+    "pcr": 11799562,
+    "hospitalize": 56281,
+    "positive": 587494,
+    "severe": 978,
+    "discharge": 519477,
+    "death": 10207,
+    "symptom_confirming": 1493
+  },
+  {
+    "date": 20210501,
+    "pcr": 11901409,
+    "hospitalize": 57235,
+    "positive": 592314,
+    "severe": 1020,
+    "discharge": 523626,
+    "death": 10242,
+    "symptom_confirming": 1175
+  },
+  {
+    "date": 20210502,
+    "pcr": 11972067,
+    "hospitalize": 58853,
+    "positive": 597937,
+    "severe": 1050,
+    "discharge": 527570,
+    "death": 10309,
+    "symptom_confirming": 1169
+  },
+  {
+    "date": 20210503,
+    "pcr": 12010625,
+    "hospitalize": 60297,
+    "positive": 603574,
+    "severe": 1084,
+    "discharge": 531338,
+    "death": 10374,
+    "symptom_confirming": 1529
+  },
+  {
+    "date": 20210504,
+    "pcr": 12057327,
+    "hospitalize": 61425,
+    "positive": 608338,
+    "severe": 1083,
+    "discharge": 535024,
+    "death": 10433,
+    "symptom_confirming": 1420
+  },
+  {
+    "date": 20210505,
+    "pcr": 12086036,
+    "hospitalize": 61843,
+    "positive": 613072,
+    "severe": 1114,
+    "discharge": 539096,
+    "death": 10483,
+    "symptom_confirming": 1614
+  },
+  {
+    "date": 20210506,
+    "pcr": 12154340,
+    "hospitalize": 61855,
+    "positive": 616835,
+    "severe": 1098,
+    "discharge": 542665,
+    "death": 10530,
+    "symptom_confirming": 1749
+  },
+  {
+    "date": 20210507,
+    "pcr": 12245617,
+    "hospitalize": 62614,
+    "positive": 621706,
+    "severe": 1131,
+    "discharge": 546465,
+    "death": 10602,
+    "symptom_confirming": 1989
+  },
+  {
+    "date": 20210508,
+    "pcr": 12356952,
+    "hospitalize": 63478,
+    "positive": 627234,
+    "severe": 1131,
+    "discharge": 551642,
+    "death": 10715,
+    "symptom_confirming": 1363
+  },
+  {
+    "date": 20210509,
+    "pcr": 12429940,
+    "hospitalize": 65131,
+    "positive": 633739,
+    "severe": 1144,
+    "discharge": 555840,
+    "death": 10836,
+    "symptom_confirming": 1896
+  },
+  {
+    "date": 20210510,
+    "pcr": 12473171,
+    "hospitalize": 67198,
+    "positive": 640756,
+    "severe": 1152,
+    "discharge": 559994,
+    "death": 10889,
+    "symptom_confirming": 2639
+  },
+  {
+    "date": 20210511,
+    "pcr": 12606411,
+    "hospitalize": 68228,
+    "positive": 646529,
+    "severe": 1176,
+    "discharge": 564562,
+    "death": 10954,
+    "symptom_confirming": 2749
+  },
+  {
+    "date": 20210512,
+    "pcr": 12704556,
+    "hospitalize": 69420,
+    "positive": 652414,
+    "severe": 1189,
+    "discharge": 568990,
+    "death": 11077,
+    "symptom_confirming": 2891
+  },
+  {
+    "date": 20210513,
+    "pcr": 12793329,
+    "hospitalize": 70250,
+    "positive": 659341,
+    "severe": 1214,
+    "discharge": 574345,
+    "death": 11178,
+    "symptom_confirming": 3532
+  },
+  {
+    "date": 20210514,
+    "pcr": 12917572,
+    "hospitalize": 71289,
+    "positive": 666259,
+    "severe": 1209,
+    "discharge": 579863,
+    "death": 11268,
+    "symptom_confirming": 3803
+  },
+  {
+    "date": 20210515,
+    "pcr": 13018862,
+    "hospitalize": 72903,
+    "positive": 672553,
+    "severe": 1231,
+    "discharge": 585184,
+    "death": 11378,
+    "symptom_confirming": 3052
+  },
+  {
+    "date": 20210516,
+    "pcr": 13088041,
+    "hospitalize": 73562,
+    "positive": 678700,
+    "severe": 1223,
+    "discharge": 590454,
+    "death": 11476,
+    "symptom_confirming": 3172
+  },
+  {
+    "date": 20210517,
+    "pcr": 13126087,
+    "hospitalize": 73388,
+    "positive": 683887,
+    "severe": 1227,
+    "discharge": 595574,
+    "death": 11521,
+    "symptom_confirming": 3368
+  },
+  {
+    "date": 20210518,
+    "pcr": 13223917,
+    "hospitalize": 70709,
+    "positive": 688537,
+    "severe": 1235,
+    "discharge": 602758,
+    "death": 11604,
+    "symptom_confirming": 3430
+  },
+  {
+    "date": 20210519,
+    "pcr": 13311292,
+    "hospitalize": 68363,
+    "positive": 693414,
+    "severe": 1293,
+    "discharge": 609351,
+    "death": 11864,
+    "symptom_confirming": 3800
+  },
+  {
+    "date": 20210520,
+    "pcr": 13461785,
+    "hospitalize": 66925,
+    "positive": 698966,
+    "severe": 1288,
+    "discharge": 615757,
+    "death": 11953,
+    "symptom_confirming": 4295
+  },
+  {
+    "date": 20210521,
+    "pcr": 13560594,
+    "hospitalize": 66809,
+    "positive": 704871,
+    "severe": 1294,
+    "discharge": 621993,
+    "death": 12059,
+    "symptom_confirming": 3974
+  },
+  {
+    "date": 20210522,
+    "pcr": 13679252,
+    "hospitalize": 65829,
+    "positive": 710239,
+    "severe": 1303,
+    "discharge": 628896,
+    "death": 12165,
+    "symptom_confirming": 3313
+  },
+  {
+    "date": 20210523,
+    "pcr": 13747910,
+    "hospitalize": 64845,
+    "positive": 714986,
+    "severe": 1304,
+    "discharge": 634506,
+    "death": 12249,
+    "symptom_confirming": 3350
+  },
+  {
+    "date": 20210524,
+    "pcr": 13785018,
+    "hospitalize": 64058,
+    "positive": 719576,
+    "severe": 1300,
+    "discharge": 640216,
+    "death": 12325,
+    "symptom_confirming": 2941
+  },
+  {
+    "date": 20210525,
+    "pcr": 13879221,
+    "hospitalize": 61627,
+    "positive": 722624,
+    "severe": 1294,
+    "discharge": 645510,
+    "death": 12411,
+    "symptom_confirming": 3040
+  },
+  {
+    "date": 20210526,
+    "pcr": 13950365,
+    "hospitalize": 60349,
+    "positive": 726248,
+    "severe": 1413,
+    "discharge": 650462,
+    "death": 12510,
+    "symptom_confirming": 2891
+  },
+  {
+    "date": 20210527,
+    "pcr": 14038826,
+    "hospitalize": 59279,
+    "positive": 730565,
+    "severe": 1371,
+    "discharge": 655579,
+    "death": 12614,
+    "symptom_confirming": 3057
+  },
+  {
+    "date": 20210528,
+    "pcr": 14157325,
+    "hospitalize": 58591,
+    "positive": 734599,
+    "severe": 1375,
+    "discharge": 660090,
+    "death": 12727,
+    "symptom_confirming": 3155
+  },
+  {
+    "date": 20210529,
+    "pcr": 14277645,
+    "hospitalize": 56091,
+    "positive": 738757,
+    "severe": 1383,
+    "discharge": 667288,
+    "death": 12832,
+    "symptom_confirming": 2510
+  },
+  {
+    "date": 20210530,
+    "pcr": 14337232,
+    "hospitalize": 55510,
+    "positive": 742386,
+    "severe": 1347,
+    "discharge": 671634,
+    "death": 12933,
+    "symptom_confirming": 2273
+  },
+  {
+    "date": 20210531,
+    "pcr": 14369520,
+    "hospitalize": 53748,
+    "positive": 745199,
+    "severe": 1349,
+    "discharge": 676162,
+    "death": 12980,
+    "symptom_confirming": 2273
+  },
+  {
+    "date": 20210601,
+    "pcr": 14456763,
+    "hospitalize": 51590,
+    "positive": 747425,
+    "severe": 1323,
+    "discharge": 680784,
+    "death": 13061,
+    "symptom_confirming": 1954
+  },
+  {
+    "date": 20210602,
+    "pcr": 14525865,
+    "hospitalize": 49471,
+    "positive": 749842,
+    "severe": 1284,
+    "discharge": 685212,
+    "death": 13153,
+    "symptom_confirming": 1970
+  },
+  {
+    "date": 20210603,
+    "pcr": 14604179,
+    "hospitalize": 46968,
+    "positive": 752903,
+    "severe": 1227,
+    "discharge": 690723,
+    "death": 13258,
+    "symptom_confirming": 1918
+  },
+  {
+    "date": 20210604,
+    "pcr": 14782442,
+    "hospitalize": 45491,
+    "positive": 755777,
+    "severe": 1198,
+    "discharge": 695022,
+    "death": 13377,
+    "symptom_confirming": 1851
+  },
+  {
+    "date": 20210605,
+    "pcr": 14882948,
+    "hospitalize": 43288,
+    "positive": 758375,
+    "severe": 1157,
+    "discharge": 699998,
+    "death": 13462,
+    "symptom_confirming": 1591
+  },
+  {
+    "date": 20210606,
+    "pcr": 14939687,
+    "hospitalize": 42129,
+    "positive": 761035,
+    "severe": 1131,
+    "discharge": 703690,
+    "death": 13536,
+    "symptom_confirming": 1644
+  },
+  {
+    "date": 20210607,
+    "pcr": 14968340,
+    "hospitalize": 41063,
+    "positive": 763113,
+    "severe": 1120,
+    "discharge": 706808,
+    "death": 13587,
+    "symptom_confirming": 1619
+  },
+  {
+    "date": 20210608,
+    "pcr": 15043474,
+    "hospitalize": 39076,
+    "positive": 764601,
+    "severe": 1099,
+    "discharge": 710369,
+    "death": 13658,
+    "symptom_confirming": 1462
+  },
+  {
+    "date": 20210609,
+    "pcr": 15110144,
+    "hospitalize": 37134,
+    "positive": 766331,
+    "severe": 1055,
+    "discharge": 713967,
+    "death": 13756,
+    "symptom_confirming": 1430
+  },
+  {
+    "date": 20210610,
+    "pcr": 15174885,
+    "hospitalize": 35331,
+    "positive": 768520,
+    "severe": 1015,
+    "discharge": 717858,
+    "death": 13854,
+    "symptom_confirming": 1441
+  },
+  {
+    "date": 20210611,
+    "pcr": 15251422,
+    "hospitalize": 34005,
+    "positive": 770632,
+    "severe": 942,
+    "discharge": 721298,
+    "death": 13920,
+    "symptom_confirming": 1373
+  },
+  {
+    "date": 20210612,
+    "pcr": 15353305,
+    "hospitalize": 32291,
+    "positive": 772552,
+    "severe": 890,
+    "discharge": 724974,
+    "death": 13990,
+    "symptom_confirming": 1261
+  },
+  {
+    "date": 20210613,
+    "pcr": 15407440,
+    "hospitalize": 31308,
+    "positive": 774534,
+    "severe": 852,
+    "discharge": 728001,
+    "death": 14046,
+    "symptom_confirming": 1143
+  },
+  {
+    "date": 20210614,
+    "pcr": 15434938,
+    "hospitalize": 30590,
+    "positive": 775943,
+    "severe": 849,
+    "discharge": 730093,
+    "death": 14084,
+    "symptom_confirming": 1140
+  },
+  {
+    "date": 20210615,
+    "pcr": 15498599,
+    "hospitalize": 28289,
+    "positive": 777019,
+    "severe": 827,
+    "discharge": 733459,
+    "death": 14139,
+    "symptom_confirming": 1096
+  },
+  {
+    "date": 20210616,
+    "pcr": 15561427,
+    "hospitalize": 25867,
+    "positive": 778355,
+    "severe": 803,
+    "discharge": 737161,
+    "death": 14200,
+    "symptom_confirming": 1091
+  },
+  {
+    "date": 20210617,
+    "pcr": 15629362,
+    "hospitalize": 24382,
+    "positive": 780050,
+    "severe": 763,
+    "discharge": 740257,
+    "death": 14282,
+    "symptom_confirming": 1093
+  },
+  {
+    "date": 20210618,
+    "pcr": 15701963,
+    "hospitalize": 23041,
+    "positive": 781610,
+    "severe": 775,
+    "discharge": 743111,
+    "death": 14333,
+    "symptom_confirming": 1089
+  },
+  {
+    "date": 20210619,
+    "pcr": 15773325,
+    "hospitalize": 21210,
+    "positive": 783203,
+    "severe": 740,
+    "discharge": 746555,
+    "death": 14378,
+    "symptom_confirming": 1024
+  },
+  {
+    "date": 20210620,
+    "pcr": 15819288,
+    "hospitalize": 20343,
+    "positive": 784712,
+    "severe": 714,
+    "discharge": 748861,
+    "death": 14413,
+    "symptom_confirming": 1059
+  },
+  {
+    "date": 20210621,
+    "pcr": 15852994,
+    "hospitalize": 19866,
+    "positive": 785999,
+    "severe": 721,
+    "discharge": 750564,
+    "death": 14436,
+    "symptom_confirming": 1097
+  },
+  {
+    "date": 20210622,
+    "pcr": 15905922,
+    "hospitalize": 18814,
+    "positive": 787010,
+    "severe": 697,
+    "discharge": 752701,
+    "death": 14467,
+    "symptom_confirming": 992
+  },
+  {
+    "date": 20210623,
+    "pcr": 15959950,
+    "hospitalize": 18210,
+    "positive": 788362,
+    "severe": 646,
+    "discharge": 754581,
+    "death": 14509,
+    "symptom_confirming": 1026
+  },
+  {
+    "date": 20210624,
+    "pcr": 16023999,
+    "hospitalize": 17996,
+    "positive": 790152,
+    "severe": 629,
+    "discharge": 756556,
+    "death": 14566,
+    "symptom_confirming": 998
+  },
+  {
+    "date": 20210625,
+    "pcr": 16086420,
+    "hospitalize": 18004,
+    "positive": 791794,
+    "severe": 590,
+    "discharge": 758146,
+    "death": 14611,
+    "symptom_confirming": 997
+  },
+  {
+    "date": 20210626,
+    "pcr": 16178460,
+    "hospitalize": 17425,
+    "positive": 793544,
+    "severe": 577,
+    "discharge": 760458,
+    "death": 14639,
+    "symptom_confirming": 986
+  },
+  {
+    "date": 20210627,
+    "pcr": 16224916,
+    "hospitalize": 17291,
+    "positive": 795169,
+    "severe": 567,
+    "discharge": 762179,
+    "death": 14670,
+    "symptom_confirming": 993
+  },
+  {
+    "date": 20210628,
+    "pcr": 16248773,
+    "hospitalize": 17102,
+    "positive": 796468,
+    "severe": 564,
+    "discharge": 763676,
+    "death": 14682,
+    "symptom_confirming": 972
+  },
+  {
+    "date": 20210629,
+    "pcr": 16315580,
+    "hospitalize": 16620,
+    "positive": 797541,
+    "severe": 552,
+    "discharge": 765225,
+    "death": 14718,
+    "symptom_confirming": 942
+  },
+  {
+    "date": 20210630,
+    "pcr": 16379426,
+    "hospitalize": 16240,
+    "positive": 798871,
+    "severe": 523,
+    "discharge": 766885,
+    "death": 14753,
+    "symptom_confirming": 957
+  },
+  {
+    "date": 20210701,
+    "pcr": 16449167,
+    "hospitalize": 16359,
+    "positive": 800690,
+    "severe": 517,
+    "discharge": 768508,
+    "death": 14794,
+    "symptom_confirming": 993
+  },
+  {
+    "date": 20210702,
+    "pcr": 16529154,
+    "hospitalize": 16333,
+    "positive": 802433,
+    "severe": 511,
+    "discharge": 770285,
+    "death": 14815,
+    "symptom_confirming": 964
+  },
+  {
+    "date": 20210703,
+    "pcr": 16599690,
+    "hospitalize": 16284,
+    "positive": 804204,
+    "severe": 501,
+    "discharge": 772076,
+    "death": 14837,
+    "symptom_confirming": 971
+  },
+  {
+    "date": 20210704,
+    "pcr": 16641621,
+    "hospitalize": 16452,
+    "positive": 806088,
+    "severe": 496,
+    "discharge": 773769,
+    "death": 14855,
+    "symptom_confirming": 976
+  },
+  {
+    "date": 20210705,
+    "pcr": 16661771,
+    "hospitalize": 16309,
+    "positive": 807546,
+    "severe": 491,
+    "discharge": 775368,
+    "death": 14861,
+    "symptom_confirming": 972
+  },
+  {
+    "date": 20210706,
+    "pcr": 16724671,
+    "hospitalize": 15847,
+    "positive": 808663,
+    "severe": 481,
+    "discharge": 776964,
+    "death": 14875,
+    "symptom_confirming": 941
+  },
+  {
+    "date": 20210707,
+    "pcr": 16781059,
+    "hospitalize": 15534,
+    "positive": 810265,
+    "severe": 480,
+    "discharge": 778821,
+    "death": 14897,
+    "symptom_confirming": 977
+  },
+  {
+    "date": 20210708,
+    "pcr": 16849971,
+    "hospitalize": 16234,
+    "positive": 812424,
+    "severe": 464,
+    "discharge": 780270,
+    "death": 14910,
+    "symptom_confirming": 974
+  },
+  {
+    "date": 20210709,
+    "pcr": 16913479,
+    "hospitalize": 16741,
+    "positive": 814688,
+    "severe": 441,
+    "discharge": 781973,
+    "death": 14930,
+    "symptom_confirming": 1008
+  },
+  {
+    "date": 20210710,
+    "pcr": 16988022,
+    "hospitalize": 17142,
+    "positive": 816954,
+    "severe": 428,
+    "discharge": 783795,
+    "death": 14946,
+    "symptom_confirming": 1035
+  },
+  {
+    "date": 20210711,
+    "pcr": 17036039,
+    "hospitalize": 18021,
+    "positive": 819402,
+    "severe": 425,
+    "discharge": 785353,
+    "death": 14961,
+    "symptom_confirming": 1031
+  },
+  {
+    "date": 20210712,
+    "pcr": 17065706,
+    "hospitalize": 18457,
+    "positive": 821427,
+    "severe": 432,
+    "discharge": 786943,
+    "death": 14968,
+    "symptom_confirming": 1023
+  },
+  {
+    "date": 20210713,
+    "pcr": 17134660,
+    "hospitalize": 18486,
+    "positive": 822992,
+    "severe": 424,
+    "discharge": 788492,
+    "death": 14972,
+    "symptom_confirming": 1006
+  },
+  {
+    "date": 20210714,
+    "pcr": 17241623,
+    "hospitalize": 19004,
+    "positive": 825301,
+    "severe": 412,
+    "discharge": 790263,
+    "death": 14984,
+    "symptom_confirming": 1014
+  },
+  {
+    "date": 20210715,
+    "pcr": 17309639,
+    "hospitalize": 20193,
+    "positive": 828484,
+    "severe": 396,
+    "discharge": 792115,
+    "death": 15003,
+    "symptom_confirming": 1137
+  },
+  {
+    "date": 20210716,
+    "pcr": 17381027,
+    "hospitalize": 21696,
+    "positive": 831905,
+    "severe": 376,
+    "discharge": 794010,
+    "death": 15027,
+    "symptom_confirming": 1136
+  },
+  {
+    "date": 20210717,
+    "pcr": 17461854,
+    "hospitalize": 23393,
+    "positive": 835330,
+    "severe": 382,
+    "discharge": 795762,
+    "death": 15040,
+    "symptom_confirming": 1099
+  },
+  {
+    "date": 20210718,
+    "pcr": 17510453,
+    "hospitalize": 25282,
+    "positive": 839144,
+    "severe": 378,
+    "discharge": 797573,
+    "death": 15053,
+    "symptom_confirming": 1200
+  },
+  {
+    "date": 20210719,
+    "pcr": 17542178,
+    "hospitalize": 26486,
+    "positive": 842249,
+    "severe": 392,
+    "discharge": 799426,
+    "death": 15061,
+    "symptom_confirming": 1240
+  },
+  {
+    "date": 20210720,
+    "pcr": 17618497,
+    "hospitalize": 26774,
+    "positive": 844726,
+    "severe": 406,
+    "discharge": 801712,
+    "death": 15073,
+    "symptom_confirming": 1131
+  },
+  {
+    "date": 20210721,
+    "pcr": 17689543,
+    "hospitalize": 27953,
+    "positive": 848326,
+    "severe": 390,
+    "discharge": 804055,
+    "death": 15092,
+    "symptom_confirming": 1190
+  },
+  {
+    "date": 20210722,
+    "pcr": 17764158,
+    "hospitalize": 30128,
+    "positive": 853229,
+    "severe": 392,
+    "discharge": 806578,
+    "death": 15110,
+    "symptom_confirming": 1377
+  },
+  {
+    "date": 20210723,
+    "pcr": 17806909,
+    "hospitalize": 33165,
+    "positive": 858511,
+    "severe": 431,
+    "discharge": 808772,
+    "death": 15119,
+    "symptom_confirming": 1419
+  },
+  {
+    "date": 20210724,
+    "pcr": 17861262,
+    "hospitalize": 35162,
+    "positive": 862860,
+    "severe": 436,
+    "discharge": 811225,
+    "death": 15129,
+    "symptom_confirming": 1308
+  },
+  {
+    "date": 20210725,
+    "pcr": 17897076,
+    "hospitalize": 35581,
+    "positive": 866378,
+    "severe": 448,
+    "discharge": 814331,
+    "death": 15137,
+    "symptom_confirming": 1292
+  },
+  {
+    "date": 20210726,
+    "pcr": 17917829,
+    "hospitalize": 37378,
+    "positive": 871157,
+    "severe": 466,
+    "discharge": 817156,
+    "death": 15142,
+    "symptom_confirming": 1445
+  },
+  {
+    "date": 20210727,
+    "pcr": 18016984,
+    "hospitalize": 38967,
+    "positive": 876218,
+    "severe": 514,
+    "discharge": 820515,
+    "death": 15150,
+    "symptom_confirming": 1550
+  },
+  {
+    "date": 20210728,
+    "pcr": 18112709,
+    "hospitalize": 42438,
+    "positive": 883535,
+    "severe": 522,
+    "discharge": 824285,
+    "death": 15165,
+    "symptom_confirming": 1611
+  },
+  {
+    "date": 20210729,
+    "pcr": 18202206,
+    "hospitalize": 47991,
+    "positive": 893005,
+    "severe": 539,
+    "discharge": 827780,
+    "death": 15173,
+    "symptom_confirming": 2025
+  },
+  {
+    "date": 20210730,
+    "pcr": 18294391,
+    "hospitalize": 54572,
+    "positive": 903430,
+    "severe": 626,
+    "discharge": 831503,
+    "death": 15186,
+    "symptom_confirming": 2133
+  },
+  {
+    "date": 20210731,
+    "pcr": 18386582,
+    "hospitalize": 61686,
+    "positive": 914467,
+    "severe": 667,
+    "discharge": 835389,
+    "death": 15197,
+    "symptom_confirming": 2159
+  },
+  {
+    "date": 20210801,
+    "pcr": 18477422,
+    "hospitalize": 69362,
+    "positive": 926535,
+    "severe": 691,
+    "discharge": 839656,
+    "death": 15205,
+    "symptom_confirming": 2276
+  },
+  {
+    "date": 20210802,
+    "pcr": 18517231,
+    "hospitalize": 75824,
+    "positive": 936598,
+    "severe": 704,
+    "discharge": 843192,
+    "death": 15210,
+    "symptom_confirming": 2336
+  },
+  {
+    "date": 20210803,
+    "pcr": 18626794,
+    "hospitalize": 79754,
+    "positive": 945475,
+    "severe": 754,
+    "discharge": 848275,
+    "death": 15217,
+    "symptom_confirming": 2193
+  },
+  {
+    "date": 20210804,
+    "pcr": 18712736,
+    "hospitalize": 86317,
+    "positive": 957119,
+    "severe": 777,
+    "discharge": 853027,
+    "death": 15232,
+    "symptom_confirming": 2507
+  },
+  {
+    "date": 20210805,
+    "pcr": 18816110,
+    "hospitalize": 93858,
+    "positive": 971172,
+    "severe": 823,
+    "discharge": 858885,
+    "death": 15241,
+    "symptom_confirming": 3152
+  },
+  {
+    "date": 20210806,
+    "pcr": 18933826,
+    "hospitalize": 102733,
+    "positive": 986402,
+    "severe": 1020,
+    "discharge": 865205,
+    "death": 15253,
+    "symptom_confirming": 3175
+  },
+  {
+    "date": 20210807,
+    "pcr": 19049345,
+    "hospitalize": 109877,
+    "positive": 1001993,
+    "severe": 1068,
+    "discharge": 873958,
+    "death": 15268,
+    "symptom_confirming": 2854
+  },
+  {
+    "date": 20210808,
+    "pcr": 19123855,
+    "hospitalize": 117219,
+    "positive": 1017493,
+    "severe": 1138,
+    "discharge": 882032,
+    "death": 15286,
+    "symptom_confirming": 2920
+  },
+  {
+    "date": 20210809,
+    "pcr": 19168348,
+    "hospitalize": 123229,
+    "positive": 1032008,
+    "severe": 1190,
+    "discharge": 890320,
+    "death": 15293,
+    "symptom_confirming": 3130
+  },
+  {
+    "date": 20210810,
+    "pcr": 19200366,
+    "hospitalize": 126445,
+    "positive": 1044337,
+    "severe": 1230,
+    "discharge": 899508,
+    "death": 15310,
+    "symptom_confirming": 3038
+  },
+  {
+    "date": 20210811,
+    "pcr": 19329862,
+    "hospitalize": 126857,
+    "positive": 1055203,
+    "severe": 1332,
+    "discharge": 910162,
+    "death": 15324,
+    "symptom_confirming": 2824
+  },
+  {
+    "date": 20210812,
+    "pcr": 19461364,
+    "hospitalize": 130149,
+    "positive": 1070266,
+    "severe": 1404,
+    "discharge": 921295,
+    "death": 15343,
+    "symptom_confirming": 3443
+  },
+  {
+    "date": 20210813,
+    "pcr": 19574694,
+    "hospitalize": 137443,
+    "positive": 1088491,
+    "severe": 1478,
+    "discharge": 931227,
+    "death": 15371,
+    "symptom_confirming": 4414
+  },
+  {
+    "date": 20210814,
+    "pcr": 19712036,
+    "hospitalize": 145871,
+    "positive": 1108981,
+    "severe": 1521,
+    "discharge": 943714,
+    "death": 15396,
+    "symptom_confirming": 3964
+  },
+  {
+    "date": 20210815,
+    "pcr": 19796087,
+    "hospitalize": 153837,
+    "positive": 1129094,
+    "severe": 1563,
+    "discharge": 955716,
+    "death": 15413,
+    "symptom_confirming": 4092
+  },
+  {
+    "date": 20210816,
+    "pcr": 19861281,
+    "hospitalize": 156619,
+    "positive": 1145258,
+    "severe": 1603,
+    "discharge": 968851,
+    "death": 15421,
+    "symptom_confirming": 4331
+  },
+  {
+    "date": 20210817,
+    "pcr": 19968797,
+    "hospitalize": 157956,
+    "positive": 1160657,
+    "severe": 1646,
+    "discharge": 983083,
+    "death": 15444,
+    "symptom_confirming": 4138
+  },
+  {
+    "date": 20210818,
+    "pcr": 20089220,
+    "hospitalize": 161876,
+    "positive": 1179888,
+    "severe": 1716,
+    "discharge": 997749,
+    "death": 15480,
+    "symptom_confirming": 4747
+  },
+  {
+    "date": 20210819,
+    "pcr": 20223653,
+    "hospitalize": 168863,
+    "positive": 1202724,
+    "severe": 1765,
+    "discharge": 1012331,
+    "death": 15514,
+    "symptom_confirming": 5980
+  },
+  {
+    "date": 20210820,
+    "pcr": 20459767,
+    "hospitalize": 181260,
+    "positive": 1228052,
+    "severe": 1816,
+    "discharge": 1024785,
+    "death": 15547,
+    "symptom_confirming": 6424
+  },
+  {
+    "date": 20210821,
+    "pcr": 20493130,
+    "hospitalize": 193513,
+    "positive": 1253007,
+    "severe": 1888,
+    "discharge": 1037965,
+    "death": 15576,
+    "symptom_confirming": 5917
+  },
+  {
+    "date": 20210822,
+    "pcr": 20610916,
+    "hospitalize": 203716,
+    "positive": 1278151,
+    "severe": 1891,
+    "discharge": 1052624,
+    "death": 15609,
+    "symptom_confirming": 6166
+  },
+  {
+    "date": 20210823,
+    "pcr": 20669886,
+    "hospitalize": 211881,
+    "positive": 1301065,
+    "severe": 1898,
+    "discharge": 1066612,
+    "death": 15644,
+    "symptom_confirming": 6892
+  },
+  {
+    "date": 20210824,
+    "pcr": 20806839,
+    "hospitalize": 209734,
+    "positive": 1319058,
+    "severe": 1935,
+    "discharge": 1087623,
+    "death": 15676,
+    "symptom_confirming": 5989
+  },
+  {
+    "date": 20210825,
+    "pcr": 20971245,
+    "hospitalize": 212729,
+    "positive": 1339827,
+    "severe": 1964,
+    "discharge": 1103317,
+    "death": 15706,
+    "symptom_confirming": 8039
+  },
+  {
+    "date": 20210826,
+    "pcr": 21118755,
+    "hospitalize": 218130,
+    "positive": 1363525,
+    "severe": 1974,
+    "discharge": 1118931,
+    "death": 15750,
+    "symptom_confirming": 10678
+  },
+  {
+    "date": 20210827,
+    "pcr": 21266639,
+    "hospitalize": 225553,
+    "positive": 1389575,
+    "severe": 2000,
+    "discharge": 1136230,
+    "death": 15810,
+    "symptom_confirming": 11946
+  },
+  {
+    "date": 20210828,
+    "pcr": 21443370,
+    "hospitalize": 229780,
+    "positive": 1412155,
+    "severe": 2060,
+    "discharge": 1154284,
+    "death": 15864,
+    "symptom_confirming": 12191
+  },
+  {
+    "date": 20210829,
+    "pcr": 21542807,
+    "hospitalize": 231530,
+    "positive": 1435082,
+    "severe": 2070,
+    "discharge": 1173495,
+    "death": 15909,
+    "symptom_confirming": 14112
+  },
+  {
+    "date": 20210830,
+    "pcr": 21611783,
+    "hospitalize": 231772,
+    "positive": 1455076,
+    "severe": 2075,
+    "discharge": 1191367,
+    "death": 15959,
+    "symptom_confirming": 15942
+  },
+  {
+    "date": 20210831,
+    "pcr": 21771854,
+    "hospitalize": 215783,
+    "positive": 1470039,
+    "severe": 2110,
+    "discharge": 1231725,
+    "death": 16007,
+    "symptom_confirming": 6488
+  },
+  {
+    "date": 20210901,
+    "pcr": 21889058,
+    "hospitalize": 208667,
+    "positive": 1486865,
+    "severe": 2092,
+    "discharge": 1254884,
+    "death": 16054,
+    "symptom_confirming": 7224
+  },
+  {
+    "date": 20210902,
+    "pcr": 22040264,
+    "hospitalize": 205727,
+    "positive": 1507935,
+    "severe": 2158,
+    "discharge": 1278131,
+    "death": 16136,
+    "symptom_confirming": 7905
+  },
+  {
+    "date": 20210903,
+    "pcr": 22164550,
+    "hospitalize": 204462,
+    "positive": 1525390,
+    "severe": 2221,
+    "discharge": 1296935,
+    "death": 16197,
+    "symptom_confirming": 7761
+  },
+  {
+    "date": 20210904,
+    "pcr": 22367904,
+    "hospitalize": 200129,
+    "positive": 1542240,
+    "severe": 2223,
+    "discharge": 1319439,
+    "death": 16260,
+    "symptom_confirming": 6376
+  },
+  {
+    "date": 20210905,
+    "pcr": 22458421,
+    "hospitalize": 191159,
+    "positive": 1557710,
+    "severe": 2207,
+    "discharge": 1343763,
+    "death": 16326,
+    "symptom_confirming": 6426
+  },
+  {
+    "date": 20210906,
+    "pcr": 22526133,
+    "hospitalize": 184732,
+    "positive": 1572084,
+    "severe": 2198,
+    "discharge": 1364540,
+    "death": 16367,
+    "symptom_confirming": 6409
+  },
+  {
+    "date": 20210907,
+    "pcr": 22657697,
+    "hospitalize": 177535,
+    "positive": 1581229,
+    "severe": 2209,
+    "discharge": 1381013,
+    "death": 16400,
+    "symptom_confirming": 6245
+  },
+  {
+    "date": 20210908,
+    "pcr": 22776080,
+    "hospitalize": 165372,
+    "positive": 1591706,
+    "severe": 2211,
+    "discharge": 1404392,
+    "death": 16449,
+    "symptom_confirming": 5457
+  },
+  {
+    "date": 20210909,
+    "pcr": 22911854,
+    "hospitalize": 157883,
+    "positive": 1603824,
+    "severe": 2173,
+    "discharge": 1423899,
+    "death": 16538,
+    "symptom_confirming": 5468
+  },
+  {
+    "date": 20210910,
+    "pcr": 23034944,
+    "hospitalize": 150173,
+    "positive": 1614553,
+    "severe": 2125,
+    "discharge": 1442563,
+    "death": 16616,
+    "symptom_confirming": 5165
+  },
+  {
+    "date": 20210911,
+    "pcr": 23182959,
+    "hospitalize": 141109,
+    "positive": 1623731,
+    "severe": 2057,
+    "discharge": 1461540,
+    "death": 16703,
+    "symptom_confirming": 4343
+  },
+  {
+    "date": 20210912,
+    "pcr": 23263783,
+    "hospitalize": 133672,
+    "positive": 1632803,
+    "severe": 2010,
+    "discharge": 1478191,
+    "death": 16755,
+    "symptom_confirming": 4149
+  },
+  {
+    "date": 20210913,
+    "pcr": 23309945,
+    "hospitalize": 123929,
+    "positive": 1640257,
+    "severe": 1975,
+    "discharge": 1495509,
+    "death": 16810,
+    "symptom_confirming": 3973
+  },
+  {
+    "date": 20210914,
+    "pcr": 23432053,
+    "hospitalize": 112321,
+    "positive": 1645155,
+    "severe": 1905,
+    "discharge": 1512189,
+    "death": 16859,
+    "symptom_confirming": 3750
+  },
+  {
+    "date": 20210915,
+    "pcr": 23533588,
+    "hospitalize": 104191,
+    "positive": 1651030,
+    "severe": 1834,
+    "discharge": 1525897,
+    "death": 16907,
+    "symptom_confirming": 3999
+  },
+  {
+    "date": 20210916,
+    "pcr": 23642490,
+    "hospitalize": 96735,
+    "positive": 1657716,
+    "severe": 1743,
+    "discharge": 1539943,
+    "death": 16972,
+    "symptom_confirming": 4030
+  },
+  {
+    "date": 20210917,
+    "pcr": 23741760,
+    "hospitalize": 90745,
+    "positive": 1663736,
+    "severe": 1615,
+    "discharge": 1551854,
+    "death": 17043,
+    "symptom_confirming": 4058
+  },
+  {
+    "date": 20210918,
+    "pcr": 23913025,
+    "hospitalize": 84010,
+    "positive": 1668848,
+    "severe": 1559,
+    "discharge": 1564151,
+    "death": 17110,
+    "symptom_confirming": 3541
+  },
+  {
+    "date": 20210919,
+    "pcr": 23974875,
+    "hospitalize": 77336,
+    "positive": 1673856,
+    "severe": 1496,
+    "discharge": 1575943,
+    "death": 17169,
+    "symptom_confirming": 3372
+  },
+  {
+    "date": 20210920,
+    "pcr": 24016402,
+    "hospitalize": 70764,
+    "positive": 1677423,
+    "severe": 1454,
+    "discharge": 1586176,
+    "death": 17217,
+    "symptom_confirming": 3230
+  },
+  {
+    "date": 20210921,
+    "pcr": 24044678,
+    "hospitalize": 65287,
+    "positive": 1679828,
+    "severe": 1429,
+    "discharge": 1594108,
+    "death": 17246,
+    "symptom_confirming": 3151
+  },
+  {
+    "date": 20210922,
+    "pcr": 24132986,
+    "hospitalize": 58294,
+    "positive": 1681832,
+    "severe": 1383,
+    "discharge": 1603676,
+    "death": 17289,
+    "symptom_confirming": 2537
+  },
+  {
+    "date": 20210923,
+    "pcr": 24228314,
+    "hospitalize": 51785,
+    "positive": 1684677,
+    "severe": 1273,
+    "discharge": 1612875,
+    "death": 17332,
+    "symptom_confirming": 2649
+  },
+  {
+    "date": 20210924,
+    "pcr": 24278592,
+    "hospitalize": 47676,
+    "positive": 1688134,
+    "severe": 1228,
+    "discharge": 1620265,
+    "death": 17388,
+    "symptom_confirming": 2769
+  },
+  {
+    "date": 20210925,
+    "pcr": 24416607,
+    "hospitalize": 43010,
+    "positive": 1690611,
+    "severe": 1185,
+    "discharge": 1627713,
+    "death": 17434,
+    "symptom_confirming": 2418
+  },
+  {
+    "date": 20210926,
+    "pcr": 24474592,
+    "hospitalize": 39504,
+    "positive": 1693099,
+    "severe": 1133,
+    "discharge": 1633718,
+    "death": 17466,
+    "symptom_confirming": 2375
+  },
+  {
+    "date": 20210927,
+    "pcr": 24504309,
+    "hospitalize": 36804,
+    "positive": 1695387,
+    "severe": 1106,
+    "discharge": 1638629,
+    "death": 17495,
+    "symptom_confirming": 2423
+  },
+  {
+    "date": 20210928,
+    "pcr": 24587715,
+    "hospitalize": 33981,
+    "positive": 1696773,
+    "severe": 1062,
+    "discharge": 1642898,
+    "death": 17524,
+    "symptom_confirming": 2334
+  },
+  {
+    "date": 20210929,
+    "pcr": 24667719,
+    "hospitalize": 31048,
+    "positive": 1698343,
+    "severe": 998,
+    "discharge": 1647362,
+    "death": 17564,
+    "symptom_confirming": 2333
+  },
+  {
+    "date": 20210930,
+    "pcr": 24754733,
+    "hospitalize": 28074,
+    "positive": 1700348,
+    "severe": 932,
+    "discharge": 1652276,
+    "death": 17618,
+    "symptom_confirming": 2344
+  },
+  {
+    "date": 20211001,
+    "pcr": 24825320,
+    "hospitalize": 25647,
+    "positive": 1702021,
+    "severe": 778,
+    "discharge": 1656278,
+    "death": 17661,
+    "symptom_confirming": 2399
+  },
+  {
+    "date": 20211002,
+    "pcr": 24909856,
+    "hospitalize": 23589,
+    "positive": 1703531,
+    "severe": 719,
+    "discharge": 1659892,
+    "death": 17696,
+    "symptom_confirming": 2318
+  },
+  {
+    "date": 20211003,
+    "pcr": 24966795,
+    "hospitalize": 21167,
+    "positive": 1704795,
+    "severe": 696,
+    "discharge": 1663590,
+    "death": 17729,
+    "symptom_confirming": 2273
+  },
+  {
+    "date": 20211004,
+    "pcr": 24991615,
+    "hospitalize": 18996,
+    "positive": 1705758,
+    "severe": 693,
+    "discharge": 1666713,
+    "death": 17743,
+    "symptom_confirming": 2270
+  },
+  {
+    "date": 20211005,
+    "pcr": 25059823,
+    "hospitalize": 17594,
+    "positive": 1706490,
+    "severe": 655,
+    "discharge": 1668880,
+    "death": 17769,
+    "symptom_confirming": 2211
+  },
+  {
+    "date": 20211006,
+    "pcr": 25123823,
+    "hospitalize": 15690,
+    "positive": 1707387,
+    "severe": 612,
+    "discharge": 1671649,
+    "death": 17802,
+    "symptom_confirming": 2210
+  },
+  {
+    "date": 20211007,
+    "pcr": 25193944,
+    "hospitalize": 14263,
+    "positive": 1708464,
+    "severe": 595,
+    "discharge": 1674118,
+    "death": 17832,
+    "symptom_confirming": 2215
+  },
+  {
+    "date": 20211008,
+    "pcr": 25256004,
+    "hospitalize": 12948,
+    "positive": 1709454,
+    "severe": 526,
+    "discharge": 1676448,
+    "death": 17869,
+    "symptom_confirming": 2153
+  },
+  {
+    "date": 20211009,
+    "pcr": 25326285,
+    "hospitalize": 12035,
+    "positive": 1710321,
+    "severe": 501,
+    "discharge": 1678278,
+    "death": 17915,
+    "symptom_confirming": 2057
+  },
+  {
+    "date": 20211010,
+    "pcr": 25377801,
+    "hospitalize": 10991,
+    "positive": 1711106,
+    "severe": 483,
+    "discharge": 1680086,
+    "death": 17940,
+    "symptom_confirming": 2053
+  },
+  {
+    "date": 20211011,
+    "pcr": 25403935,
+    "hospitalize": 10469,
+    "positive": 1711685,
+    "severe": 478,
+    "discharge": 1681168,
+    "death": 17954,
+    "symptom_confirming": 2058
+  },
+  {
+    "date": 20211012,
+    "pcr": 25465748,
+    "hospitalize": 9654,
+    "positive": 1712103,
+    "severe": 444,
+    "discharge": 1682414,
+    "death": 17972,
+    "symptom_confirming": 2027
+  },
+  {
+    "date": 20211013,
+    "pcr": 25525374,
+    "hospitalize": 8719,
+    "positive": 1712647,
+    "severe": 413,
+    "discharge": 1683877,
+    "death": 17999,
+    "symptom_confirming": 2016
+  },
+  {
+    "date": 20211014,
+    "pcr": 25585211,
+    "hospitalize": 8156,
+    "positive": 1713361,
+    "severe": 381,
+    "discharge": 1685103,
+    "death": 18033,
+    "symptom_confirming": 2033
+  },
+  {
+    "date": 20211015,
+    "pcr": 25662181,
+    "hospitalize": 7685,
+    "positive": 1713980,
+    "severe": 357,
+    "discharge": 1686178,
+    "death": 18064,
+    "symptom_confirming": 2017
+  },
+  {
+    "date": 20211016,
+    "pcr": 25729584,
+    "hospitalize": 7217,
+    "positive": 1714514,
+    "severe": 335,
+    "discharge": 1687256,
+    "death": 18091,
+    "symptom_confirming": 1914
+  },
+  {
+    "date": 20211017,
+    "pcr": 25774573,
+    "hospitalize": 6726,
+    "positive": 1715020,
+    "severe": 317,
+    "discharge": 1688257,
+    "death": 18105,
+    "symptom_confirming": 1896
+  },
+  {
+    "date": 20211018,
+    "pcr": 25795865,
+    "hospitalize": 6436,
+    "positive": 1715432,
+    "severe": 312,
+    "discharge": 1688916,
+    "death": 18116,
+    "symptom_confirming": 1928
+  },
+  {
+    "date": 20211019,
+    "pcr": 25851704,
+    "hospitalize": 6031,
+    "positive": 1715729,
+    "severe": 294,
+    "discharge": 1689651,
+    "death": 18134,
+    "symptom_confirming": 1877
+  },
+  {
+    "date": 20211020,
+    "pcr": 25905192,
+    "hospitalize": 5583,
+    "positive": 1716076,
+    "severe": 276,
+    "discharge": 1690425,
+    "death": 18159,
+    "symptom_confirming": 1873
+  },
+  {
+    "date": 20211021,
+    "pcr": 25974847,
+    "hospitalize": 5166,
+    "positive": 1716449,
+    "severe": 260,
+    "discharge": 1691272,
+    "death": 18170,
+    "symptom_confirming": 1805
+  },
+  {
+    "date": 20211022,
+    "pcr": 26025511,
+    "hospitalize": 4871,
+    "positive": 1716800,
+    "severe": 217,
+    "discharge": 1691902,
+    "death": 18186,
+    "symptom_confirming": 1805
+  },
+  {
+    "date": 20211023,
+    "pcr": 26056136,
+    "hospitalize": 4471,
+    "positive": 1717105,
+    "severe": 208,
+    "discharge": 1692656,
+    "death": 18196,
+    "symptom_confirming": 1746
+  },
+  {
+    "date": 20211024,
+    "pcr": 26101922,
+    "hospitalize": 4189,
+    "positive": 1717404,
+    "severe": 208,
+    "discharge": 1693236,
+    "death": 18204,
+    "symptom_confirming": 1739
+  },
+  {
+    "date": 20211025,
+    "pcr": 26124094,
+    "hospitalize": 4010,
+    "positive": 1717650,
+    "severe": 202,
+    "discharge": 1693644,
+    "death": 18212,
+    "symptom_confirming": 1748
+  },
+  {
+    "date": 20211026,
+    "pcr": 26186905,
+    "hospitalize": 3782,
+    "positive": 1717816,
+    "severe": 197,
+    "discharge": 1694033,
+    "death": 18220,
+    "symptom_confirming": 1745
+  },
+  {
+    "date": 20211027,
+    "pcr": 26242337,
+    "hospitalize": 3405,
+    "positive": 1718079,
+    "severe": 184,
+    "discharge": 1694669,
+    "death": 18234,
+    "symptom_confirming": 1735
+  },
+  {
+    "date": 20211028,
+    "pcr": 26301058,
+    "hospitalize": 3252,
+    "positive": 1718421,
+    "severe": 177,
+    "discharge": 1695145,
+    "death": 18241,
+    "symptom_confirming": 1747
+  },
+  {
+    "date": 20211029,
+    "pcr": 26359624,
+    "hospitalize": 3104,
+    "positive": 1718692,
+    "severe": 145,
+    "discharge": 1695569,
+    "death": 18250,
+    "symptom_confirming": 1733
+  },
+  {
+    "date": 20211030,
+    "pcr": 26425255,
+    "hospitalize": 2913,
+    "positive": 1723037,
+    "severe": 134,
+    "discharge": 1700090,
+    "death": 18266,
+    "symptom_confirming": 1732
+  },
+  {
+    "date": 20211031,
+    "pcr": 26470606,
+    "hospitalize": 2832,
+    "positive": 1723322,
+    "severe": 124,
+    "discharge": 1700425,
+    "death": 18274,
+    "symptom_confirming": 1755
+  },
+  {
+    "date": 20211101,
+    "pcr": 26490283,
+    "hospitalize": 2844,
+    "positive": 1723576,
+    "severe": 122,
+    "discharge": 1700673,
+    "death": 18281,
+    "symptom_confirming": 1742
+  },
+  {
+    "date": 20211102,
+    "pcr": 26543980,
+    "hospitalize": 2652,
+    "positive": 1723678,
+    "severe": 120,
+    "discharge": 1700968,
+    "death": 18288,
+    "symptom_confirming": 1734
+  },
+  {
+    "date": 20211103,
+    "pcr": 26603384,
+    "hospitalize": 2479,
+    "positive": 1723874,
+    "severe": 115,
+    "discharge": 1701318,
+    "death": 18295,
+    "symptom_confirming": 1746
+  },
+  {
+    "date": 20211104,
+    "pcr": 26628308,
+    "hospitalize": 2394,
+    "positive": 1724107,
+    "severe": 109,
+    "discharge": 1701622,
+    "death": 18303,
+    "symptom_confirming": 1752
+  },
+  {
+    "date": 20211105,
+    "pcr": 26690230,
+    "hospitalize": 2348,
+    "positive": 1724311,
+    "severe": 103,
+    "discharge": 1701880,
+    "death": 18309,
+    "symptom_confirming": 1738
+  },
+  {
+    "date": 20211106,
+    "pcr": 26752465,
+    "hospitalize": 2227,
+    "positive": 1724511,
+    "severe": 100,
+    "discharge": 1702232,
+    "death": 18319,
+    "symptom_confirming": 1697
+  },
+  {
+    "date": 20211107,
+    "pcr": 26790286,
+    "hospitalize": 2186,
+    "positive": 1724749,
+    "severe": 100,
+    "discharge": 1702486,
+    "death": 18322,
+    "symptom_confirming": 1719
+  },
+  {
+    "date": 20211108,
+    "pcr": 26810516,
+    "hospitalize": 2204,
+    "positive": 1724912,
+    "severe": 101,
+    "discharge": 1702658,
+    "death": 18323,
+    "symptom_confirming": 1691
+  },
+  {
+    "date": 20211109,
+    "pcr": 26867505,
+    "hospitalize": 2099,
+    "positive": 1725031,
+    "severe": 99,
+    "discharge": 1702891,
+    "death": 18326,
+    "symptom_confirming": 1679
+  },
+  {
+    "date": 20211110,
+    "pcr": 26920270,
+    "hospitalize": 1959,
+    "positive": 1725226,
+    "severe": 96,
+    "discharge": 1704604,
+    "death": 18329,
+    "symptom_confirming": 298
+  },
+  {
+    "date": 20211111,
+    "pcr": 26988983,
+    "hospitalize": 1934,
+    "positive": 1725430,
+    "severe": 92,
+    "discharge": 1704824,
+    "death": 18331,
+    "symptom_confirming": 305
+  },
+  {
+    "date": 20211112,
+    "pcr": 27043249,
+    "hospitalize": 1936,
+    "positive": 1725650,
+    "severe": 87,
+    "discharge": 1705044,
+    "death": 18336,
+    "symptom_confirming": 298
+  },
+  {
+    "date": 20211113,
+    "pcr": 27113289,
+    "hospitalize": 1904,
+    "positive": 1725833,
+    "severe": 83,
+    "discharge": 1705321,
+    "death": 18336,
+    "symptom_confirming": 236
+  },
+  {
+    "date": 20211114,
+    "pcr": 27152089,
+    "hospitalize": 1870,
+    "positive": 1726032,
+    "severe": 85,
+    "discharge": 1705539,
+    "death": 18338,
+    "symptom_confirming": 249
+  },
+  {
+    "date": 20211115,
+    "pcr": 27174684,
+    "hospitalize": 1860,
+    "positive": 1726178,
+    "severe": 85,
+    "discharge": 1705697,
+    "death": 18340,
+    "symptom_confirming": 245
+  },
+  {
+    "date": 20211116,
+    "pcr": 27227542,
+    "hospitalize": 1791,
+    "positive": 1726273,
+    "severe": 82,
+    "discharge": 1705877,
+    "death": 18340,
+    "symptom_confirming": 229
+  },
+  {
+    "date": 20211117,
+    "pcr": 27278246,
+    "hospitalize": 1611,
+    "positive": 1726408,
+    "severe": 78,
+    "discharge": 1706152,
+    "death": 18344,
+    "symptom_confirming": 265
+  },
+  {
+    "date": 20211118,
+    "pcr": 27337113,
+    "hospitalize": 1597,
+    "positive": 1726613,
+    "severe": 76,
+    "discharge": 1706336,
+    "death": 18349,
+    "symptom_confirming": 295
+  },
+  {
+    "date": 20211119,
+    "pcr": 27390634,
+    "hospitalize": 1577,
+    "positive": 1726775,
+    "severe": 62,
+    "discharge": 1706522,
+    "death": 18355,
+    "symptom_confirming": 285
+  },
+  {
+    "date": 20211120,
+    "pcr": 27452513,
+    "hospitalize": 1552,
+    "positive": 1726931,
+    "severe": 62,
+    "discharge": 1706775,
+    "death": 18355,
+    "symptom_confirming": 213
+  },
+  {
+    "date": 20211121,
+    "pcr": 27488125,
+    "hospitalize": 1472,
+    "positive": 1727045,
+    "severe": 62,
+    "discharge": 1706951,
+    "death": 18360,
+    "symptom_confirming": 226
+  },
+  {
+    "date": 20211122,
+    "pcr": 27507263,
+    "hospitalize": 1469,
+    "positive": 1727186,
+    "severe": 63,
+    "discharge": 1707084,
+    "death": 18360,
+    "symptom_confirming": 237
+  },
+  {
+    "date": 20211123,
+    "pcr": 27555553,
+    "hospitalize": 1420,
+    "positive": 1727239,
+    "severe": 60,
+    "discharge": 1707206,
+    "death": 18362,
+    "symptom_confirming": 215
+  },
+  {
+    "date": 20211124,
+    "pcr": 27582926,
+    "hospitalize": 1315,
+    "positive": 1727336,
+    "severe": 58,
+    "discharge": 1707394,
+    "death": 18364,
+    "symptom_confirming": 227
+  },
+  {
+    "date": 20211125,
+    "pcr": 27640696,
+    "hospitalize": 1286,
+    "positive": 1727417,
+    "severe": 58,
+    "discharge": 1707506,
+    "death": 18365,
+    "symptom_confirming": 224
+  },
+  {
+    "date": 20211126,
+    "pcr": 27687222,
+    "hospitalize": 1262,
+    "positive": 1727528,
+    "severe": 51,
+    "discharge": 1707629,
+    "death": 18366,
+    "symptom_confirming": 235
+  },
+  {
+    "date": 20211127,
+    "pcr": 27755833,
+    "hospitalize": 1207,
+    "positive": 1727656,
+    "severe": 50,
+    "discharge": 1707841,
+    "death": 18370,
+    "symptom_confirming": 202
+  },
+  {
+    "date": 20211128,
+    "pcr": 27798581,
+    "hospitalize": 1197,
+    "positive": 1727774,
+    "severe": 43,
+    "discharge": 1707968,
+    "death": 18371,
+    "symptom_confirming": 202
+  },
+  {
+    "date": 20211129,
+    "pcr": 27825454,
+    "hospitalize": 1143,
+    "positive": 1727855,
+    "severe": 43,
+    "discharge": 1708109,
+    "death": 18371,
+    "symptom_confirming": 196
+  },
+  {
+    "date": 20211130,
+    "pcr": 27877949,
+    "hospitalize": 1110,
+    "positive": 1727933,
+    "severe": 41,
+    "discharge": 1708219,
+    "death": 18372,
+    "symptom_confirming": 196
+  },
+  {
+    "date": 20211201,
+    "pcr": 27930137,
+    "hospitalize": 1117,
+    "positive": 1728016,
+    "severe": 43,
+    "discharge": 1708288,
+    "death": 18373,
+    "symptom_confirming": 202
+  },
+  {
+    "date": 20211202,
+    "pcr": 27986762,
+    "hospitalize": 1114,
+    "positive": 1728142,
+    "severe": 38,
+    "discharge": 1708407,
+    "death": 18375,
+    "symptom_confirming": 210
+  },
+  {
+    "date": 20211203,
+    "pcr": 28044130,
+    "hospitalize": 1088,
+    "positive": 1728272,
+    "severe": 32,
+    "discharge": 1708551,
+    "death": 18376,
+    "symptom_confirming": 221
+  },
+  {
+    "date": 20211204,
+    "pcr": 28104930,
+    "hospitalize": 1076,
+    "positive": 1728413,
+    "severe": 28,
+    "discharge": 1708716,
+    "death": 18377,
+    "symptom_confirming": 208
+  },
+  {
+    "date": 20211205,
+    "pcr": 28136488,
+    "hospitalize": 1094,
+    "positive": 1728540,
+    "severe": 29,
+    "discharge": 1708844,
+    "death": 18377,
+    "symptom_confirming": 189
+  },
+  {
+    "date": 20211206,
+    "pcr": 28155083,
+    "hospitalize": 1137,
+    "positive": 1728654,
+    "severe": 29,
+    "discharge": 1708921,
+    "death": 18377,
+    "symptom_confirming": 183
+  },
+  {
+    "date": 20211207,
+    "pcr": 28208525,
+    "hospitalize": 1097,
+    "positive": 1728727,
+    "severe": 28,
+    "discharge": 1709029,
+    "death": 18378,
+    "symptom_confirming": 187
+  },
+  {
+    "date": 20211208,
+    "pcr": 28261210,
+    "hospitalize": 1090,
+    "positive": 1728825,
+    "severe": 27,
+    "discharge": 1709131,
+    "death": 18380,
+    "symptom_confirming": 188
+  },
+  {
+    "date": 20211209,
+    "pcr": 28315575,
+    "hospitalize": 1120,
+    "positive": 1728949,
+    "severe": 26,
+    "discharge": 1709220,
+    "death": 18382,
+    "symptom_confirming": 191
+  },
+  {
+    "date": 20211210,
+    "pcr": 28368252,
+    "hospitalize": 1152,
+    "positive": 1729122,
+    "severe": 27,
+    "discharge": 1709338,
+    "death": 18384,
+    "symptom_confirming": 212
+  },
+  {
+    "date": 20211211,
+    "pcr": 28435356,
+    "hospitalize": 1169,
+    "positive": 1729260,
+    "severe": 25,
+    "discharge": 1709474,
+    "death": 18385,
+    "symptom_confirming": 196
+  },
+  {
+    "date": 20211212,
+    "pcr": 28439607,
+    "hospitalize": 1172,
+    "positive": 1729276,
+    "severe": 25,
+    "discharge": 1709487,
+    "death": 18385,
+    "symptom_confirming": 196
+  },
+  {
+    "date": 20211213,
+    "pcr": 28495991,
+    "hospitalize": 1211,
+    "positive": 1729532,
+    "severe": 26,
+    "discharge": 1709703,
+    "death": 18386,
+    "symptom_confirming": 196
+  },
+  {
+    "date": 20211214,
+    "pcr": 28555655,
+    "hospitalize": 1174,
+    "positive": 1729618,
+    "severe": 27,
+    "discharge": 1709822,
+    "death": 18387,
+    "symptom_confirming": 199
+  },
+  {
+    "date": 20211215,
+    "pcr": 28607550,
+    "hospitalize": 1202,
+    "positive": 1729747,
+    "severe": 27,
+    "discharge": 1709928,
+    "death": 18388,
+    "symptom_confirming": 193
+  },
+  {
+    "date": 20211216,
+    "pcr": 28659481,
+    "hospitalize": 1243,
+    "positive": 1729920,
+    "severe": 27,
+    "discharge": 1710056,
+    "death": 18389,
+    "symptom_confirming": 196
+  },
+  {
+    "date": 20211217,
+    "pcr": 28713590,
+    "hospitalize": 1298,
+    "positive": 1730113,
+    "severe": 26,
+    "discharge": 1710185,
+    "death": 18391,
+    "symptom_confirming": 203
+  },
+  {
+    "date": 20211218,
+    "pcr": 28777330,
+    "hospitalize": 1370,
+    "positive": 1730294,
+    "severe": 26,
+    "discharge": 1710305,
+    "death": 18392,
+    "symptom_confirming": 191
+  },
+  {
+    "date": 20211219,
+    "pcr": 28811019,
+    "hospitalize": 1428,
+    "positive": 1730489,
+    "severe": 27,
+    "discharge": 1710417,
+    "death": 18392,
+    "symptom_confirming": 216
+  },
+  {
+    "date": 20211220,
+    "pcr": 28830789,
+    "hospitalize": 1502,
+    "positive": 1730676,
+    "severe": 27,
+    "discharge": 1710534,
+    "death": 18392,
+    "symptom_confirming": 212
+  },
+  {
+    "date": 20211221,
+    "pcr": 28881324,
+    "hospitalize": 1566,
+    "positive": 1730824,
+    "severe": 28,
+    "discharge": 1710632,
+    "death": 18392,
+    "symptom_confirming": 198
+  },
+  {
+    "date": 20211222,
+    "pcr": 28935515,
+    "hospitalize": 1617,
+    "positive": 1731047,
+    "severe": 26,
+    "discharge": 1710801,
+    "death": 18394,
+    "symptom_confirming": 199
+  },
+  {
+    "date": 20211223,
+    "pcr": 28990775,
+    "hospitalize": 1748,
+    "positive": 1731314,
+    "severe": 28,
+    "discharge": 1710898,
+    "death": 18396,
+    "symptom_confirming": 236
+  },
+  {
+    "date": 20211224,
+    "pcr": 29041769,
+    "hospitalize": 1916,
+    "positive": 1731617,
+    "severe": 34,
+    "discharge": 1711029,
+    "death": 18399,
+    "symptom_confirming": 237
+  },
+  {
+    "date": 20211225,
+    "pcr": 29096292,
+    "hospitalize": 2095,
+    "positive": 1731911,
+    "severe": 37,
+    "discharge": 1711163,
+    "death": 18399,
+    "symptom_confirming": 218
+  },
+  {
+    "date": 20211226,
+    "pcr": 29135946,
+    "hospitalize": 2275,
+    "positive": 1732227,
+    "severe": 38,
+    "discharge": 1711287,
+    "death": 18400,
+    "symptom_confirming": 229
+  },
+  {
+    "date": 20211227,
+    "pcr": 29157520,
+    "hospitalize": 2424,
+    "positive": 1732501,
+    "severe": 44,
+    "discharge": 1711433,
+    "death": 18400,
+    "symptom_confirming": 208
+  },
+  {
+    "date": 20211228,
+    "pcr": 29212915,
+    "hospitalize": 2444,
+    "positive": 1732719,
+    "severe": 46,
+    "discharge": 1711646,
+    "death": 18400,
+    "symptom_confirming": 193
+  },
+  {
+    "date": 20211229,
+    "pcr": 29275516,
+    "hospitalize": 2581,
+    "positive": 1733081,
+    "severe": 49,
+    "discharge": 1711851,
+    "death": 18402,
+    "symptom_confirming": 211
+  },
+  {
+    "date": 20211230,
+    "pcr": 29315707,
+    "hospitalize": 2829,
+    "positive": 1733547,
+    "severe": 46,
+    "discharge": 1712027,
+    "death": 18406,
+    "symptom_confirming": 249
+  },
+  {
+    "date": 20211231,
+    "pcr": 29344220,
+    "hospitalize": 3163,
+    "positive": 1734037,
+    "severe": 49,
+    "discharge": 1712188,
+    "death": 18406,
+    "symptom_confirming": 244
+  },
+  {
+    "date": 20220101,
+    "pcr": 29378005,
+    "hospitalize": 3500,
+    "positive": 1734500,
+    "severe": 51,
+    "discharge": 1712330,
+    "death": 18406,
+    "symptom_confirming": 228
+  },
+  {
+    "date": 20220102,
+    "pcr": 29387069,
+    "hospitalize": 3822,
+    "positive": 1735004,
+    "severe": 53,
+    "discharge": 1712498,
+    "death": 18406,
+    "symptom_confirming": 242
+  },
+  {
+    "date": 20220103,
+    "pcr": 29400692,
+    "hospitalize": 4156,
+    "positive": 1735520,
+    "severe": 52,
+    "discharge": 1712683,
+    "death": 18408,
+    "symptom_confirming": 237
+  },
+  {
+    "date": 20220104,
+    "pcr": 29409088,
+    "hospitalize": 4729,
+    "positive": 1736303,
+    "severe": 54,
+    "discharge": 1712855,
+    "death": 18409,
+    "symptom_confirming": 274
+  },
+  {
+    "date": 20220105,
+    "pcr": 29498594,
+    "hospitalize": 5640,
+    "positive": 1737559,
+    "severe": 60,
+    "discharge": 1713172,
+    "death": 18410,
+    "symptom_confirming": 302
+  },
+  {
+    "date": 20220106,
+    "pcr": 29586969,
+    "hospitalize": 7763,
+    "positive": 1740065,
+    "severe": 64,
+    "discharge": 1713374,
+    "death": 18411,
+    "symptom_confirming": 481
+  },
+  {
+    "date": 20220107,
+    "pcr": 29655984,
+    "hospitalize": 11305,
+    "positive": 1744259,
+    "severe": 91,
+    "discharge": 1713811,
+    "death": 18411,
+    "symptom_confirming": 696
+  },
+  {
+    "date": 20220108,
+    "pcr": 29756801,
+    "hospitalize": 16555,
+    "positive": 1750242,
+    "severe": 89,
+    "discharge": 1714225,
+    "death": 18413,
+    "symptom_confirming": 1013
+  },
+  {
+    "date": 20220109,
+    "pcr": 29816231,
+    "hospitalize": 23582,
+    "positive": 1758172,
+    "severe": 90,
+    "discharge": 1714741,
+    "death": 18415,
+    "symptom_confirming": 1398
+  },
+  {
+    "date": 20220110,
+    "pcr": 29853424,
+    "hospitalize": 30758,
+    "positive": 1766316,
+    "severe": 90,
+    "discharge": 1715542,
+    "death": 18416,
+    "symptom_confirming": 1564
+  },
+  {
+    "date": 20220111,
+    "pcr": 29890115,
+    "hospitalize": 36470,
+    "positive": 1772710,
+    "severe": 100,
+    "discharge": 1716218,
+    "death": 18418,
+    "symptom_confirming": 1568
+  },
+  {
+    "date": 20220112,
+    "pcr": 30003647,
+    "hospitalize": 42419,
+    "positive": 1779539,
+    "severe": 105,
+    "discharge": 1717245,
+    "death": 18420,
+    "symptom_confirming": 1419
+  },
+  {
+    "date": 20220113,
+    "pcr": 30134331,
+    "hospitalize": 52169,
+    "positive": 1791782,
+    "severe": 125,
+    "discharge": 1718476,
+    "death": 18425,
+    "symptom_confirming": 2676
+  },
+  {
+    "date": 20220114,
+    "pcr": 30285349,
+    "hospitalize": 66616,
+    "positive": 1809722,
+    "severe": 221,
+    "discharge": 1720740,
+    "death": 18427,
+    "symptom_confirming": 3903
+  },
+  {
+    "date": 20220115,
+    "pcr": 30422563,
+    "hospitalize": 83855,
+    "positive": 1830963,
+    "severe": 233,
+    "discharge": 1724071,
+    "death": 18438,
+    "symptom_confirming": 4563
+  },
+  {
+    "date": 20220116,
+    "pcr": 30519160,
+    "hospitalize": 101976,
+    "positive": 1853670,
+    "severe": 235,
+    "discharge": 1727673,
+    "death": 18444,
+    "symptom_confirming": 5541
+  },
+  {
+    "date": 20220117,
+    "pcr": 30584248,
+    "hospitalize": 119234,
+    "positive": 1880551,
+    "severe": 243,
+    "discharge": 1736043,
+    "death": 18446,
+    "symptom_confirming": 6792
+  },
+  {
+    "date": 20220118,
+    "pcr": 30780547,
+    "hospitalize": 136809,
+    "positive": 1903902,
+    "severe": 261,
+    "discharge": 1743429,
+    "death": 18447,
+    "symptom_confirming": 5181
+  },
+  {
+    "date": 20220119,
+    "pcr": 30928225,
+    "hospitalize": 156794,
+    "positive": 1933764,
+    "severe": 281,
+    "discharge": 1750910,
+    "death": 18457,
+    "symptom_confirming": 7567
+  },
+  {
+    "date": 20220120,
+    "pcr": 31151709,
+    "hospitalize": 185751,
+    "positive": 1973605,
+    "severe": 287,
+    "discharge": 1759210,
+    "death": 18470,
+    "symptom_confirming": 10138
+  },
+  {
+    "date": 20220121,
+    "pcr": 31345192,
+    "hospitalize": 219663,
+    "positive": 2018243,
+    "severe": 404,
+    "discharge": 1768841,
+    "death": 18482,
+    "symptom_confirming": 11221
+  },
+  {
+    "date": 20220122,
+    "pcr": 31581135,
+    "hospitalize": 255578,
+    "positive": 2067774,
+    "severe": 424,
+    "discharge": 1781770,
+    "death": 18491,
+    "symptom_confirming": 11899
+  },
+  {
+    "date": 20220123,
+    "pcr": 31747531,
+    "hospitalize": 293577,
+    "positive": 2121954,
+    "severe": 430,
+    "discharge": 1796970,
+    "death": 18503,
+    "symptom_confirming": 12868
+  },
+  {
+    "date": 20220124,
+    "pcr": 31833872,
+    "hospitalize": 325103,
+    "positive": 2170365,
+    "severe": 439,
+    "discharge": 1813888,
+    "death": 18519,
+    "symptom_confirming": 12819
+  },
+  {
+    "date": 20220125,
+    "pcr": 32083152,
+    "hospitalize": 347164,
+    "positive": 2217541,
+    "severe": 444,
+    "discharge": 1839153,
+    "death": 18536,
+    "symptom_confirming": 12652
+  },
+  {
+    "date": 20220126,
+    "pcr": 32308513,
+    "hospitalize": 378899,
+    "positive": 2278474,
+    "severe": 470,
+    "discharge": 1864589,
+    "death": 18572,
+    "symptom_confirming": 16378
+  },
+  {
+    "date": 20220127,
+    "pcr": 32599071,
+    "hospitalize": 418961,
+    "positive": 2348210,
+    "severe": 537,
+    "discharge": 1892301,
+    "death": 18612,
+    "symptom_confirming": 18300
+  },
+  {
+    "date": 20220128,
+    "pcr": 32816362,
+    "hospitalize": 463219,
+    "positive": 2422155,
+    "severe": 697,
+    "discharge": 1919460,
+    "death": 18655,
+    "symptom_confirming": 20785
+  },
+  {
+    "date": 20220129,
+    "pcr": 33092670,
+    "hospitalize": 506294,
+    "positive": 2503149,
+    "severe": 734,
+    "discharge": 1959349,
+    "death": 18699,
+    "symptom_confirming": 18771
+  },
+  {
+    "date": 20220130,
+    "pcr": 33269842,
+    "hospitalize": 542556,
+    "positive": 2585308,
+    "severe": 767,
+    "discharge": 2002907,
+    "death": 18742,
+    "symptom_confirming": 21067
+  },
+  {
+    "date": 20220131,
+    "pcr": 33391351,
+    "hospitalize": 583603,
+    "positive": 2670350,
+    "severe": 783,
+    "discharge": 2045178,
+    "death": 18777,
+    "symptom_confirming": 22756
+  },
+  {
+    "date": 20220201,
+    "pcr": 33644521,
+    "hospitalize": 598606,
+    "positive": 2731540,
+    "severe": 804,
+    "discharge": 2095721,
+    "death": 18805,
+    "symptom_confirming": 18372
+  },
+  {
+    "date": 20220202,
+    "pcr": 33899964,
+    "hospitalize": 624145,
+    "positive": 2811762,
+    "severe": 886,
+    "discharge": 2144803,
+    "death": 18884,
+    "symptom_confirming": 23894
+  },
+  {
+    "date": 20220203,
+    "pcr": 34166843,
+    "hospitalize": 665363,
+    "positive": 2905150,
+    "severe": 911,
+    "discharge": 2195245,
+    "death": 18962,
+    "symptom_confirming": 25544
+  },
+  {
+    "date": 20220204,
+    "pcr": 34434962,
+    "hospitalize": 716660,
+    "positive": 3008188,
+    "severe": 1042,
+    "discharge": 2244902,
+    "death": 19052,
+    "symptom_confirming": 27538
+  },
+  {
+    "date": 20220205,
+    "pcr": 34674301,
+    "hospitalize": 742325,
+    "positive": 3102619,
+    "severe": 1099,
+    "discharge": 2314276,
+    "death": 19144,
+    "symptom_confirming": 26838
+  },
+  {
+    "date": 20220206,
+    "pcr": 34845157,
+    "hospitalize": 781979,
+    "positive": 3208436,
+    "severe": 1134,
+    "discharge": 2378859,
+    "death": 19270,
+    "symptom_confirming": 28292
+  },
+  {
+    "date": 20220207,
+    "pcr": 34933672,
+    "hospitalize": 803006,
+    "positive": 3301301,
+    "severe": 1143,
+    "discharge": 2450305,
+    "death": 19337,
+    "symptom_confirming": 28617
+  },
+  {
+    "date": 20220208,
+    "pcr": 35253844,
+    "hospitalize": 806191,
+    "positive": 3373009,
+    "severe": 1141,
+    "discharge": 2524850,
+    "death": 19459,
+    "symptom_confirming": 22473
+  },
+  {
+    "date": 20220209,
+    "pcr": 35471928,
+    "hospitalize": 821843,
+    "positive": 3468954,
+    "severe": 1212,
+    "discharge": 2599913,
+    "death": 19600,
+    "symptom_confirming": 27562
+  },
+  {
+    "date": 20220210,
+    "pcr": 35730739,
+    "hospitalize": 839756,
+    "positive": 3566900,
+    "severe": 1270,
+    "discharge": 2674427,
+    "death": 19755,
+    "symptom_confirming": 32926
+  },
+  {
+    "date": 20220211,
+    "pcr": 35943689,
+    "hospitalize": 864372,
+    "positive": 3666997,
+    "severe": 1340,
+    "discharge": 2751345,
+    "death": 19930,
+    "symptom_confirming": 31314
+  },
+  {
+    "date": 20220212,
+    "pcr": 36120074,
+    "hospitalize": 875258,
+    "positive": 3765170,
+    "severe": 1352,
+    "discharge": 2844405,
+    "death": 20072,
+    "symptom_confirming": 25399
+  },
+  {
+    "date": 20220213,
+    "pcr": 36229053,
+    "hospitalize": 871216,
+    "positive": 3832676,
+    "severe": 1366,
+    "discharge": 2918565,
+    "death": 20215,
+    "symptom_confirming": 22644
+  },
+  {
+    "date": 20220214,
+    "pcr": 36301955,
+    "hospitalize": 857673,
+    "positive": 3912910,
+    "severe": 1393,
+    "discharge": 3009193,
+    "death": 20372,
+    "symptom_confirming": 25636
+  },
+  {
+    "date": 20220215,
+    "pcr": 36515809,
+    "hospitalize": 840578,
+    "positive": 3976491,
+    "severe": 1403,
+    "discharge": 3096024,
+    "death": 20507,
+    "symptom_confirming": 19346
+  },
+  {
+    "date": 20220216,
+    "pcr": 36695256,
+    "hospitalize": 834662,
+    "positive": 4056387,
+    "severe": 1444,
+    "discharge": 3176850,
+    "death": 20714,
+    "symptom_confirming": 24125
+  },
+  {
+    "date": 20220217,
+    "pcr": 36925717,
+    "hospitalize": 840120,
+    "positive": 4146909,
+    "severe": 1469,
+    "discharge": 3259444,
+    "death": 20967,
+    "symptom_confirming": 26342
+  },
+  {
+    "date": 20220218,
+    "pcr": 37135198,
+    "hospitalize": 841715,
+    "positive": 4242512,
+    "severe": 1482,
+    "discharge": 3350425,
+    "death": 21211,
+    "symptom_confirming": 29125
+  },
+  {
+    "date": 20220219,
+    "pcr": 37385411,
+    "hospitalize": 840107,
+    "positive": 4335451,
+    "severe": 1480,
+    "discharge": 3453821,
+    "death": 21446,
+    "symptom_confirming": 20041
+  },
+  {
+    "date": 20220220,
+    "pcr": 37523247,
+    "hospitalize": 830873,
+    "positive": 4412604,
+    "severe": 1477,
+    "discharge": 3538145,
+    "death": 21649,
+    "symptom_confirming": 21901
+  },
+  {
+    "date": 20220221,
+    "pcr": 37614891,
+    "hospitalize": 829061,
+    "positive": 4485465,
+    "severe": 1495,
+    "discharge": 3611774,
+    "death": 21834,
+    "symptom_confirming": 22760
+  },
+  {
+    "date": 20220222,
+    "pcr": 37797005,
+    "hospitalize": 805295,
+    "positive": 4541368,
+    "severe": 1504,
+    "discharge": 3697127,
+    "death": 22013,
+    "symptom_confirming": 16897
+  },
+  {
+    "date": 20220223,
+    "pcr": 38019707,
+    "hospitalize": 783880,
+    "positive": 4607741,
+    "severe": 1489,
+    "discharge": 3781074,
+    "death": 22285,
+    "symptom_confirming": 20466
+  },
+  {
+    "date": 20220224,
+    "pcr": 38141460,
+    "hospitalize": 784489,
+    "positive": 4685551,
+    "severe": 1474,
+    "discharge": 3854176,
+    "death": 22542,
+    "symptom_confirming": 24308
+  },
+  {
+    "date": 20220225,
+    "pcr": 38329412,
+    "hospitalize": 763059,
+    "positive": 4751208,
+    "severe": 1503,
+    "discharge": 3944606,
+    "death": 22768,
+    "symptom_confirming": 20739
+  },
+  {
+    "date": 20220226,
+    "pcr": 38577455,
+    "hospitalize": 739522,
+    "positive": 4816404,
+    "severe": 1507,
+    "discharge": 4035709,
+    "death": 23024,
+    "symptom_confirming": 18113
+  },
+  {
+    "date": 20220227,
+    "pcr": 38720790,
+    "hospitalize": 729353,
+    "positive": 4886065,
+    "severe": 1482,
+    "discharge": 4112508,
+    "death": 23283,
+    "symptom_confirming": 20885
+  },
+  {
+    "date": 20220228,
+    "pcr": 38796091,
+    "hospitalize": 716683,
+    "positive": 4951361,
+    "severe": 1461,
+    "discharge": 4188599,
+    "death": 23459,
+    "symptom_confirming": 22584
+  },
+  {
+    "date": 20220301,
+    "pcr": 38996953,
+    "hospitalize": 703651,
+    "positive": 5006604,
+    "severe": 1456,
+    "discharge": 4261460,
+    "death": 23646,
+    "symptom_confirming": 17811
+  },
+  {
+    "date": 20220302,
+    "pcr": 39167645,
+    "hospitalize": 682358,
+    "positive": 5068447,
+    "severe": 1452,
+    "discharge": 4342057,
+    "death": 23873,
+    "symptom_confirming": 20123
+  },
+  {
+    "date": 20220303,
+    "pcr": 39388979,
+    "hospitalize": 675733,
+    "positive": 5140017,
+    "severe": 1418,
+    "discharge": 4417320,
+    "death": 24105,
+    "symptom_confirming": 22823
+  },
+  {
+    "date": 20220304,
+    "pcr": 39536268,
+    "hospitalize": 665305,
+    "positive": 5210975,
+    "severe": 1419,
+    "discharge": 4497636,
+    "death": 24362,
+    "symptom_confirming": 23636
+  },
+  {
+    "date": 20220305,
+    "pcr": 39750929,
+    "hospitalize": 655416,
+    "positive": 5275308,
+    "severe": 1399,
+    "discharge": 4576651,
+    "death": 24617,
+    "symptom_confirming": 18588
+  },
+  {
+    "date": 20220306,
+    "pcr": 39876094,
+    "hospitalize": 643171,
+    "positive": 5338828,
+    "severe": 1362,
+    "discharge": 4650762,
+    "death": 24802,
+    "symptom_confirming": 20057
+  },
+  {
+    "date": 20220307,
+    "pcr": 39952005,
+    "hospitalize": 638790,
+    "positive": 5394245,
+    "severe": 1354,
+    "discharge": 4709788,
+    "death": 24948,
+    "symptom_confirming": 20683
+  },
+  {
+    "date": 20220308,
+    "pcr": 40110034,
+    "hospitalize": 611684,
+    "positive": 5434820,
+    "severe": 1348,
+    "discharge": 4782235,
+    "death": 25062,
+    "symptom_confirming": 15803
+  },
+  {
+    "date": 20220309,
+    "pcr": 40279222,
+    "hospitalize": 593179,
+    "positive": 5484236,
+    "severe": 1321,
+    "discharge": 4846939,
+    "death": 25294,
+    "symptom_confirming": 18788
+  },
+  {
+    "date": 20220310,
+    "pcr": 40487976,
+    "hospitalize": 590936,
+    "positive": 5546983,
+    "severe": 1322,
+    "discharge": 4909350,
+    "death": 25499,
+    "symptom_confirming": 21162
+  },
+  {
+    "date": 20220311,
+    "pcr": 40659334,
+    "hospitalize": 593168,
+    "positive": 5609808,
+    "severe": 1252,
+    "discharge": 4969059,
+    "death": 25710,
+    "symptom_confirming": 21835
+  },
+  {
+    "date": 20220312,
+    "pcr": 40842264,
+    "hospitalize": 578965,
+    "positive": 5666348,
+    "severe": 1204,
+    "discharge": 5043972,
+    "death": 25873,
+    "symptom_confirming": 17502
+  },
+  {
+    "date": 20220313,
+    "pcr": 40962419,
+    "hospitalize": 570678,
+    "positive": 5721106,
+    "severe": 1175,
+    "discharge": 5105778,
+    "death": 26042,
+    "symptom_confirming": 18572
+  },
+  {
+    "date": 20220314,
+    "pcr": 41034726,
+    "hospitalize": 562263,
+    "positive": 5773108,
+    "severe": 1175,
+    "discharge": 5165418,
+    "death": 26167,
+    "symptom_confirming": 19224
+  },
+  {
+    "date": 20220315,
+    "pcr": 41192721,
+    "hospitalize": 542907,
+    "positive": 5808954,
+    "severe": 1170,
+    "discharge": 5224577,
+    "death": 26275,
+    "symptom_confirming": 15159
+  },
+  {
+    "date": 20220316,
+    "pcr": 41337656,
+    "hospitalize": 529706,
+    "positive": 5855952,
+    "severe": 1140,
+    "discharge": 5282036,
+    "death": 26455,
+    "symptom_confirming": 17719
+  },
+  {
+    "date": 20220317,
+    "pcr": 41513095,
+    "hospitalize": 523095,
+    "positive": 5912525,
+    "severe": 1090,
+    "discharge": 5342608,
+    "death": 26613,
+    "symptom_confirming": 20173
+  },
+  {
+    "date": 20220318,
+    "pcr": 41676605,
+    "hospitalize": 521816,
+    "positive": 5967672,
+    "severe": 991,
+    "discharge": 5399170,
+    "death": 26777,
+    "symptom_confirming": 19873
+  },
+  {
+    "date": 20220319,
+    "pcr": 41859477,
+    "hospitalize": 516103,
+    "positive": 6016918,
+    "severe": 983,
+    "discharge": 5457569,
+    "death": 26932,
+    "symptom_confirming": 16278
+  },
+  {
+    "date": 20220320,
+    "pcr": 41961341,
+    "hospitalize": 504621,
+    "positive": 6062651,
+    "severe": 955,
+    "discharge": 5514064,
+    "death": 27058,
+    "symptom_confirming": 16872
+  },
+  {
+    "date": 20220321,
+    "pcr": 42020940,
+    "hospitalize": 493123,
+    "positive": 6102846,
+    "severe": 951,
+    "discharge": 5565348,
+    "death": 27132,
+    "symptom_confirming": 17207
+  },
+  {
+    "date": 20220322,
+    "pcr": 42066894,
+    "hospitalize": 472184,
+    "positive": 6132503,
+    "severe": 937,
+    "discharge": 5616953,
+    "death": 27189,
+    "symptom_confirming": 16141
+  },
+  {
+    "date": 20220323,
+    "pcr": 42213394,
+    "hospitalize": 445885,
+    "positive": 6153923,
+    "severe": 916,
+    "discharge": 5668241,
+    "death": 27259,
+    "symptom_confirming": 12502
+  },
+  {
+    "date": 20220324,
+    "pcr": 42383232,
+    "hospitalize": 421340,
+    "positive": 6190635,
+    "severe": 891,
+    "discharge": 5725454,
+    "death": 27369,
+    "symptom_confirming": 16436
+  },
+  {
+    "date": 20220325,
+    "pcr": 42531084,
+    "hospitalize": 425767,
+    "positive": 6239662,
+    "severe": 733,
+    "discharge": 5767974,
+    "death": 27498,
+    "symptom_confirming": 18387
+  },
+  {
+    "date": 20220326,
+    "pcr": 42539875,
+    "hospitalize": 425831,
+    "positive": 6239767,
+    "severe": 733,
+    "discharge": 5768015,
+    "death": 27498,
+    "symptom_confirming": 18387
+  },
+  {
+    "date": 20220327,
+    "pcr": 42704196,
+    "hospitalize": 414780,
+    "positive": 6288052,
+    "severe": 707,
+    "discharge": 5828765,
+    "death": 27614,
+    "symptom_confirming": 16857
+  },
+  {
+    "date": 20220328,
+    "pcr": 42876486,
+    "hospitalize": 411182,
+    "positive": 6378572,
+    "severe": 691,
+    "discharge": 5920927,
+    "death": 27780,
+    "symptom_confirming": 18647
+  },
+  {
+    "date": 20220329,
+    "pcr": 42994634,
+    "hospitalize": 403051,
+    "positive": 6411435,
+    "severe": 673,
+    "discharge": 5965693,
+    "death": 27844,
+    "symptom_confirming": 14811
+  },
+  {
+    "date": 20220330,
+    "pcr": 43122084,
+    "hospitalize": 401900,
+    "positive": 6452916,
+    "severe": 655,
+    "discharge": 6005676,
+    "death": 27926,
+    "symptom_confirming": 17378
+  },
+  {
+    "date": 20220331,
+    "pcr": 43278136,
+    "hospitalize": 411639,
+    "positive": 6505703,
+    "severe": 627,
+    "discharge": 6045834,
+    "death": 28023,
+    "symptom_confirming": 20171
+  },
+  {
+    "date": 20220401,
+    "pcr": 43425891,
+    "hospitalize": 423721,
+    "positive": 6553746,
+    "severe": 533,
+    "discharge": 6080745,
+    "death": 28110,
+    "symptom_confirming": 21134
+  },
+  {
+    "date": 20220402,
+    "pcr": 43619976,
+    "hospitalize": 440571,
+    "positive": 6607298,
+    "severe": 518,
+    "discharge": 6120076,
+    "death": 28213,
+    "symptom_confirming": 18402
+  },
+  {
+    "date": 20220403,
+    "pcr": 43730494,
+    "hospitalize": 445464,
+    "positive": 6654669,
+    "severe": 510,
+    "discharge": 6162434,
+    "death": 28261,
+    "symptom_confirming": 18474
+  },
+  {
+    "date": 20220404,
+    "pcr": 43779952,
+    "hospitalize": 452443,
+    "positive": 6702924,
+    "severe": 505,
+    "discharge": 6201144,
+    "death": 28299,
+    "symptom_confirming": 21002
+  },
+  {
+    "date": 20220405,
+    "pcr": 43919395,
+    "hospitalize": 442611,
+    "positive": 6736831,
+    "severe": 508,
+    "discharge": 6243585,
+    "death": 28340,
+    "symptom_confirming": 22259
+  },
+  {
+    "date": 20220406,
+    "pcr": 44099816,
+    "hospitalize": 448416,
+    "positive": 6779056,
+    "severe": 508,
+    "discharge": 6284012,
+    "death": 28400,
+    "symptom_confirming": 18192
+  },
+  {
+    "date": 20220407,
+    "pcr": 44235752,
+    "hospitalize": 456367,
+    "positive": 6833184,
+    "severe": 494,
+    "discharge": 6326643,
+    "death": 28469,
+    "symptom_confirming": 21669
+  },
+  {
+    "date": 20220408,
+    "pcr": 44388260,
+    "hospitalize": 470530,
+    "positive": 6888219,
+    "severe": 484,
+    "discharge": 6366773,
+    "death": 28541,
+    "symptom_confirming": 22339
+  },
+  {
+    "date": 20220409,
+    "pcr": 44576020,
+    "hospitalize": 473776,
+    "positive": 6940331,
+    "severe": 489,
+    "discharge": 6419726,
+    "death": 28603,
+    "symptom_confirming": 18190
+  },
+  {
+    "date": 20220410,
+    "pcr": 44683159,
+    "hospitalize": 478135,
+    "positive": 6992518,
+    "severe": 484,
+    "discharge": 6465224,
+    "death": 28659,
+    "symptom_confirming": 20464
+  },
+  {
+    "date": 20220411,
+    "pcr": 44750114,
+    "hospitalize": 484434,
+    "positive": 7040375,
+    "severe": 465,
+    "discharge": 6506092,
+    "death": 28697,
+    "symptom_confirming": 21116
+  },
+  {
+    "date": 20220412,
+    "pcr": 44844384,
+    "hospitalize": 485101,
+    "positive": 7073490,
+    "severe": 467,
+    "discharge": 6543091,
+    "death": 28734,
+    "symptom_confirming": 16528
+  },
+  {
+    "date": 20220413,
+    "pcr": 45007683,
+    "hospitalize": 487294,
+    "positive": 7124813,
+    "severe": 468,
+    "discharge": 6588453,
+    "death": 28778,
+    "symptom_confirming": 20252
+  },
+  {
+    "date": 20220414,
+    "pcr": 45180146,
+    "hospitalize": 489446,
+    "positive": 7181518,
+    "severe": 467,
+    "discharge": 6639421,
+    "death": 28838,
+    "symptom_confirming": 23777
+  },
+  {
+    "date": 20220415,
+    "pcr": 45531746,
+    "hospitalize": 498103,
+    "positive": 7288055,
+    "severe": 222,
+    "discharge": 6735378,
+    "death": 28958,
+    "symptom_confirming": 25580
+  },
+  {
+    "date": 20220416,
+    "pcr": 45541263,
+    "hospitalize": 498036,
+    "positive": 7288110,
+    "severe": 222,
+    "discharge": 6735500,
+    "death": 28958,
+    "symptom_confirming": 25580
+  },
+  {
+    "date": 20220417,
+    "pcr": 45654781,
+    "hospitalize": 494217,
+    "positive": 7335153,
+    "severe": 219,
+    "discharge": 6782825,
+    "death": 29005,
+    "symptom_confirming": 29070
+  },
+  {
+    "date": 20220418,
+    "pcr": 45713903,
+    "hospitalize": 487732,
+    "positive": 7375057,
+    "severe": 222,
+    "discharge": 6827056,
+    "death": 29036,
+    "symptom_confirming": 31197
+  },
+  {
+    "date": 20220419,
+    "pcr": 45889784,
+    "hospitalize": 474460,
+    "positive": 7403297,
+    "severe": 213,
+    "discharge": 6871706,
+    "death": 29062,
+    "symptom_confirming": 28033
+  },
+  {
+    "date": 20220420,
+    "pcr": 46055984,
+    "hospitalize": 461338,
+    "positive": 7440933,
+    "severe": 214,
+    "discharge": 6916974,
+    "death": 29115,
+    "symptom_confirming": 33470
+  },
+  {
+    "date": 20220421,
+    "pcr": 46262153,
+    "hospitalize": 454021,
+    "positive": 7488402,
+    "severe": 202,
+    "discharge": 6982405,
+    "death": 29164,
+    "symptom_confirming": 22776
+  },
+  {
+    "date": 20220422,
+    "pcr": 46406724,
+    "hospitalize": 456077,
+    "positive": 7535801,
+    "severe": 207,
+    "discharge": 7024723,
+    "death": 29214,
+    "symptom_confirming": 25751
+  },
+  {
+    "date": 20220423,
+    "pcr": 46596567,
+    "hospitalize": 451690,
+    "positive": 7578613,
+    "severe": 203,
+    "discharge": 7074620,
+    "death": 29270,
+    "symptom_confirming": 22997
+  },
+  {
+    "date": 20220424,
+    "pcr": 46703938,
+    "hospitalize": 435036,
+    "positive": 7622353,
+    "severe": 195,
+    "discharge": 7132301,
+    "death": 29297,
+    "symptom_confirming": 25683
+  },
+  {
+    "date": 20220425,
+    "pcr": 46768580,
+    "hospitalize": 428168,
+    "positive": 7660785,
+    "severe": 191,
+    "discharge": 7175637,
+    "death": 29321,
+    "symptom_confirming": 27623
+  },
+  {
+    "date": 20220426,
+    "pcr": 46899559,
+    "hospitalize": 414364,
+    "positive": 7689276,
+    "severe": 200,
+    "discharge": 7219714,
+    "death": 29357,
+    "symptom_confirming": 25805
+  },
+  {
+    "date": 20220427,
+    "pcr": 48236443,
+    "hospitalize": 406524,
+    "positive": 7726529,
+    "severe": 183,
+    "discharge": 7260141,
+    "death": 29415,
+    "symptom_confirming": 30413
+  },
+  {
+    "date": 20220428,
+    "pcr": 48462248,
+    "hospitalize": 404150,
+    "positive": 7772311,
+    "severe": 174,
+    "discharge": 7316086,
+    "death": 29480,
+    "symptom_confirming": 22559
+  },
+  {
+    "date": 20220429,
+    "pcr": 48603325,
+    "hospitalize": 408641,
+    "positive": 7814614,
+    "severe": 173,
+    "discharge": 7352899,
+    "death": 29519,
+    "symptom_confirming": 23519
+  },
+  {
+    "date": 20220430,
+    "pcr": 48693172,
+    "hospitalize": 401483,
+    "positive": 7851039,
+    "severe": 171,
+    "discharge": 7398761,
+    "death": 29561,
+    "symptom_confirming": 21198
+  },
+  {
+    "date": 20220501,
+    "pcr": 48768873,
+    "hospitalize": 391868,
+    "positive": 7877295,
+    "severe": 165,
+    "discharge": 7435001,
+    "death": 29580,
+    "symptom_confirming": 20810
+  },
+  {
+    "date": 20220502,
+    "pcr": 48825036,
+    "hospitalize": 375833,
+    "positive": 7902731,
+    "severe": 164,
+    "discharge": 7474392,
+    "death": 29614,
+    "symptom_confirming": 22856
+  },
+  {
+    "date": 20220503,
+    "pcr": 48956545,
+    "hospitalize": 358103,
+    "positive": 7925890,
+    "severe": 160,
+    "discharge": 7513797,
+    "death": 29644,
+    "symptom_confirming": 24310
+  },
+  {
+    "date": 20220504,
+    "pcr": 49019049,
+    "hospitalize": 348278,
+    "positive": 7952952,
+    "severe": 174,
+    "discharge": 7546489,
+    "death": 29696,
+    "symptom_confirming": 28453
+  },
+  {
+    "date": 20220505,
+    "pcr": 49120456,
+    "hospitalize": 336170,
+    "positive": 7979690,
+    "severe": 166,
+    "discharge": 7592705,
+    "death": 29721,
+    "symptom_confirming": 21058
+  },
+  {
+    "date": 20220506,
+    "pcr": 49168501,
+    "hospitalize": 324618,
+    "positive": 8001073,
+    "severe": 170,
+    "discharge": 7624745,
+    "death": 29739,
+    "symptom_confirming": 21935
+  },
+  {
+    "date": 20220507,
+    "pcr": 49394426,
+    "hospitalize": 306182,
+    "positive": 8024695,
+    "severe": 165,
+    "discharge": 7674245,
+    "death": 29774,
+    "symptom_confirming": 14458
+  },
+  {
+    "date": 20220508,
+    "pcr": 49493412,
+    "hospitalize": 297748,
+    "positive": 8059426,
+    "severe": 159,
+    "discharge": 7711980,
+    "death": 29798,
+    "symptom_confirming": 19864
+  },
+  {
+    "date": 20220509,
+    "pcr": 49561809,
+    "hospitalize": 303825,
+    "positive": 8100387,
+    "severe": 163,
+    "discharge": 7743101,
+    "death": 29826,
+    "symptom_confirming": 23599
+  },
+  {
+    "date": 20220510,
+    "pcr": 49716203,
+    "hospitalize": 302343,
+    "positive": 8134024,
+    "severe": 158,
+    "discharge": 7780474,
+    "death": 29856,
+    "symptom_confirming": 21315
+  },
+  {
+    "date": 20220511,
+    "pcr": 49860325,
+    "hospitalize": 308451,
+    "positive": 8173043,
+    "severe": 163,
+    "discharge": 7810340,
+    "death": 29907,
+    "symptom_confirming": 24309
+  },
+  {
+    "date": 20220512,
+    "pcr": 50046482,
+    "hospitalize": 305654,
+    "positive": 8218774,
+    "severe": 159,
+    "discharge": 7860989,
+    "death": 29948,
+    "symptom_confirming": 22147
+  },
+  {
+    "date": 20220513,
+    "pcr": 50190160,
+    "hospitalize": 319492,
+    "positive": 8261133,
+    "severe": 156,
+    "discharge": 7887107,
+    "death": 29987,
+    "symptom_confirming": 24511
+  },
+  {
+    "date": 20220514,
+    "pcr": 50346247,
+    "hospitalize": 328785,
+    "positive": 8300373,
+    "severe": 153,
+    "discharge": 7920945,
+    "death": 30018,
+    "symptom_confirming": 20589
+  },
+  {
+    "date": 20220515,
+    "pcr": 50459414,
+    "hospitalize": 339625,
+    "positive": 8339036,
+    "severe": 139,
+    "discharge": 7947325,
+    "death": 30052,
+    "symptom_confirming": 21998
+  },
+  {
+    "date": 20220516,
+    "pcr": 50536953,
+    "hospitalize": 345449,
+    "positive": 8373876,
+    "severe": 134,
+    "discharge": 7974974,
+    "death": 30074,
+    "symptom_confirming": 23343
+  },
+  {
+    "date": 20220517,
+    "pcr": 50671747,
+    "hospitalize": 337161,
+    "positive": 8400204,
+    "severe": 127,
+    "discharge": 8011604,
+    "death": 30102,
+    "symptom_confirming": 21301
+  },
+  {
+    "date": 20220518,
+    "pcr": 50823333,
+    "hospitalize": 331314,
+    "positive": 8433919,
+    "severe": 125,
+    "discharge": 8046822,
+    "death": 30135,
+    "symptom_confirming": 25612
+  },
+  {
+    "date": 20220519,
+    "pcr": 51011717,
+    "hospitalize": 331443,
+    "positive": 8475420,
+    "severe": 110,
+    "discharge": 8092897,
+    "death": 30188,
+    "symptom_confirming": 20856
+  },
+  {
+    "date": 20220520,
+    "pcr": 51162551,
+    "hospitalize": 336076,
+    "positive": 8514264,
+    "severe": 106,
+    "discharge": 8126443,
+    "death": 30224,
+    "symptom_confirming": 21485
+  },
+  {
+    "date": 20220521,
+    "pcr": 51326302,
+    "hospitalize": 334360,
+    "positive": 8553239,
+    "severe": 101,
+    "discharge": 8169713,
+    "death": 30268,
+    "symptom_confirming": 18862
+  },
+  {
+    "date": 20220522,
+    "pcr": 51415809,
+    "hospitalize": 331274,
+    "positive": 8588249,
+    "severe": 92,
+    "discharge": 8205287,
+    "death": 30305,
+    "symptom_confirming": 21347
+  },
+  {
+    "date": 20220523,
+    "pcr": 51476179,
+    "hospitalize": 328220,
+    "positive": 8619509,
+    "severe": 96,
+    "discharge": 8237791,
+    "death": 30320,
+    "symptom_confirming": 23142
+  },
+  {
+    "date": 20220524,
+    "pcr": 51649826,
+    "hospitalize": 318299,
+    "positive": 8642399,
+    "severe": 100,
+    "discharge": 8273601,
+    "death": 30350,
+    "symptom_confirming": 20113
+  },
+  {
+    "date": 20220525,
+    "pcr": 51771019,
+    "hospitalize": 309725,
+    "positive": 8671907,
+    "severe": 103,
+    "discharge": 8308250,
+    "death": 30382,
+    "symptom_confirming": 23514
+  },
+  {
+    "date": 20220526,
+    "pcr": 51933360,
+    "hospitalize": 307931,
+    "positive": 8706702,
+    "severe": 95,
+    "discharge": 8349272,
+    "death": 30431,
+    "symptom_confirming": 19032
+  },
+  {
+    "date": 20220527,
+    "pcr": 52087394,
+    "hospitalize": 304585,
+    "positive": 8738434,
+    "severe": 90,
+    "discharge": 8383676,
+    "death": 30471,
+    "symptom_confirming": 19666
+  },
+  {
+    "date": 20220528,
+    "pcr": 52259400,
+    "hospitalize": 293493,
+    "positive": 8766811,
+    "severe": 81,
+    "discharge": 8425947,
+    "death": 30510,
+    "symptom_confirming": 16825
+  },
+  {
+    "date": 20220529,
+    "pcr": 52360660,
+    "hospitalize": 283358,
+    "positive": 8791769,
+    "severe": 88,
+    "discharge": 8459448,
+    "death": 30549,
+    "symptom_confirming": 18378
+  },
+  {
+    "date": 20220530,
+    "pcr": 52402259,
+    "hospitalize": 272983,
+    "positive": 8812467,
+    "severe": 90,
+    "discharge": 8489660,
+    "death": 30571,
+    "symptom_confirming": 19217
+  },
+  {
+    "date": 20220531,
+    "pcr": 52528223,
+    "hospitalize": 254938,
+    "positive": 8831131,
+    "severe": 93,
+    "discharge": 8528532,
+    "death": 30595,
+    "symptom_confirming": 17030
+  },
+  {
+    "date": 20220601,
+    "pcr": 52661280,
+    "hospitalize": 240754,
+    "positive": 8851101,
+    "severe": 95,
+    "discharge": 8558961,
+    "death": 30631,
+    "symptom_confirming": 20719
+  },
+  {
+    "date": 20220602,
+    "pcr": 52814300,
+    "hospitalize": 229267,
+    "positive": 8873654,
+    "severe": 92,
+    "discharge": 8598022,
+    "death": 30666,
+    "symptom_confirming": 15663
+  },
+  {
+    "date": 20220603,
+    "pcr": 52929315,
+    "hospitalize": 222261,
+    "positive": 8894195,
+    "severe": 86,
+    "discharge": 8624696,
+    "death": 30690,
+    "symptom_confirming": 16512
+  },
+  {
+    "date": 20220604,
+    "pcr": 53162262,
+    "hospitalize": 211341,
+    "positive": 8913753,
+    "severe": 84,
+    "discharge": 8657773,
+    "death": 30725,
+    "symptom_confirming": 13878
+  },
+  {
+    "date": 20220605,
+    "pcr": 53240585,
+    "hospitalize": 200191,
+    "positive": 8930376,
+    "severe": 77,
+    "discharge": 8684148,
+    "death": 30748,
+    "symptom_confirming": 15253
+  },
+  {
+    "date": 20220606,
+    "pcr": 53276753,
+    "hospitalize": 191260,
+    "positive": 8946509,
+    "severe": 75,
+    "discharge": 8708598,
+    "death": 30765,
+    "symptom_confirming": 15850
+  },
+  {
+    "date": 20220607,
+    "pcr": 53373456,
+    "hospitalize": 179022,
+    "positive": 8957860,
+    "severe": 76,
+    "discharge": 8733831,
+    "death": 30786,
+    "symptom_confirming": 14185
+  },
+  {
+    "date": 20220608,
+    "pcr": 53462002,
+    "hospitalize": 171600,
+    "positive": 8973373,
+    "severe": 79,
+    "discharge": 8754903,
+    "death": 30810,
+    "symptom_confirming": 16024
+  },
+  {
+    "date": 20220609,
+    "pcr": 53633746,
+    "hospitalize": 166775,
+    "positive": 8991660,
+    "severe": 77,
+    "discharge": 8780403,
+    "death": 30831,
+    "symptom_confirming": 13615
+  },
+  {
+    "date": 20220610,
+    "pcr": 53754619,
+    "hospitalize": 165023,
+    "positive": 9008852,
+    "severe": 77,
+    "discharge": 8798745,
+    "death": 30857,
+    "symptom_confirming": 14191
+  },
+  {
+    "date": 20220611,
+    "pcr": 53876800,
+    "hospitalize": 157836,
+    "positive": 9024632,
+    "severe": 69,
+    "discharge": 8823085,
+    "death": 30879,
+    "symptom_confirming": 12796
+  },
+  {
+    "date": 20220612,
+    "pcr": 53941600,
+    "hospitalize": 152279,
+    "positive": 9039328,
+    "severe": 66,
+    "discharge": 8842150,
+    "death": 30892,
+    "symptom_confirming": 13971
+  },
+  {
+    "date": 20220613,
+    "pcr": 53975397,
+    "hospitalize": 148453,
+    "positive": 9052455,
+    "severe": 61,
+    "discharge": 8858649,
+    "death": 30904,
+    "symptom_confirming": 14413
+  },
+  {
+    "date": 20220614,
+    "pcr": 54919676,
+    "hospitalize": 140743,
+    "positive": 9062661,
+    "severe": 61,
+    "discharge": 8877732,
+    "death": 30923,
+    "symptom_confirming": 13227
+  },
+  {
+    "date": 20220615,
+    "pcr": 55025822,
+    "hospitalize": 136159,
+    "positive": 9076690,
+    "severe": 53,
+    "discharge": 8894450,
+    "death": 30948,
+    "symptom_confirming": 15097
+  },
+  {
+    "date": 20220616,
+    "pcr": 55169831,
+    "hospitalize": 135925,
+    "positive": 9093255,
+    "severe": 44,
+    "discharge": 8913348,
+    "death": 30976,
+    "symptom_confirming": 12970
+  },
+  {
+    "date": 20220617,
+    "pcr": 55261922,
+    "hospitalize": 136134,
+    "positive": 9109035,
+    "severe": 40,
+    "discharge": 8928238,
+    "death": 30993,
+    "symptom_confirming": 13634
+  },
+  {
+    "date": 20220618,
+    "pcr": 55381494,
+    "hospitalize": 133253,
+    "positive": 9123814,
+    "severe": 39,
+    "discharge": 8947012,
+    "death": 31016,
+    "symptom_confirming": 12497
+  },
+  {
+    "date": 20220619,
+    "pcr": 55443189,
+    "hospitalize": 130863,
+    "positive": 9137561,
+    "severe": 41,
+    "discharge": 8962042,
+    "death": 31036,
+    "symptom_confirming": 13584
+  },
+  {
+    "date": 20220620,
+    "pcr": 55475648,
+    "hospitalize": 130107,
+    "positive": 9150445,
+    "severe": 41,
+    "discharge": 8975081,
+    "death": 31045,
+    "symptom_confirming": 14176
+  },
+  {
+    "date": 20220621,
+    "pcr": 55588619,
+    "hospitalize": 125233,
+    "positive": 9160634,
+    "severe": 34,
+    "discharge": 8991109,
+    "death": 31058,
+    "symptom_confirming": 13198
+  },
+  {
+    "date": 20220622,
+    "pcr": 55700074,
+    "hospitalize": 124030,
+    "positive": 9174650,
+    "severe": 36,
+    "discharge": 9004591,
+    "death": 31070,
+    "symptom_confirming": 14923
+  },
+  {
+    "date": 20220623,
+    "pcr": 55839275,
+    "hospitalize": 126979,
+    "positive": 9191810,
+    "severe": 38,
+    "discharge": 9021032,
+    "death": 31090,
+    "symptom_confirming": 12673
+  },
+  {
+    "date": 20220624,
+    "pcr": 55936890,
+    "hospitalize": 130093,
+    "positive": 9208592,
+    "severe": 36,
+    "discharge": 9034261,
+    "death": 31104,
+    "symptom_confirming": 13098
+  },
+  {
+    "date": 20220625,
+    "pcr": 56077141,
+    "hospitalize": 130591,
+    "positive": 9224656,
+    "severe": 36,
+    "discharge": 9050301,
+    "death": 31120,
+    "symptom_confirming": 12608
+  },
+  {
+    "date": 20220626,
+    "pcr": 56149181,
+    "hospitalize": 131449,
+    "positive": 9240327,
+    "severe": 40,
+    "discharge": 9063833,
+    "death": 31129,
+    "symptom_confirming": 13880
+  },
+  {
+    "date": 20220627,
+    "pcr": 56180817,
+    "hospitalize": 132640,
+    "positive": 9254098,
+    "severe": 45,
+    "discharge": 9075974,
+    "death": 31139,
+    "symptom_confirming": 14309
+  },
+  {
+    "date": 20220628,
+    "pcr": 56284637,
+    "hospitalize": 130212,
+    "positive": 9266086,
+    "severe": 46,
+    "discharge": 9091076,
+    "death": 31152,
+    "symptom_confirming": 13610
+  },
+  {
+    "date": 20220629,
+    "pcr": 56386814,
+    "hospitalize": 132363,
+    "positive": 9283795,
+    "severe": 50,
+    "discharge": 9104277,
+    "death": 31259,
+    "symptom_confirming": 15860
+  },
+  {
+    "date": 20220630,
+    "pcr": 56533771,
+    "hospitalize": 140362,
+    "positive": 9306710,
+    "severe": 52,
+    "discharge": 9121611,
+    "death": 31279,
+    "symptom_confirming": 13422
+  },
+  {
+    "date": 20220701,
+    "pcr": 56647584,
+    "hospitalize": 150048,
+    "positive": 9330232,
+    "severe": 52,
+    "discharge": 9133956,
+    "death": 31294,
+    "symptom_confirming": 14898
+  },
+  {
+    "date": 20220702,
+    "pcr": 56768391,
+    "hospitalize": 157608,
+    "positive": 9353357,
+    "severe": 55,
+    "discharge": 9149613,
+    "death": 31310,
+    "symptom_confirming": 14790
+  },
+  {
+    "date": 20220703,
+    "pcr": 56828878,
+    "hospitalize": 164722,
+    "positive": 9376684,
+    "severe": 61,
+    "discharge": 9164006,
+    "death": 31321,
+    "symptom_confirming": 16599
+  },
+  {
+    "date": 20220704,
+    "pcr": 56863809,
+    "hospitalize": 172146,
+    "positive": 9398838,
+    "severe": 62,
+    "discharge": 9177415,
+    "death": 31329,
+    "symptom_confirming": 17912
+  },
+  {
+    "date": 20220705,
+    "pcr": 57004274,
+    "hospitalize": 177388,
+    "positive": 9419612,
+    "severe": 60,
+    "discharge": 9193750,
+    "death": 31345,
+    "symptom_confirming": 17093
+  },
+  {
+    "date": 20220706,
+    "pcr": 57075424,
+    "hospitalize": 190582,
+    "positive": 9452518,
+    "severe": 68,
+    "discharge": 9208635,
+    "death": 31361,
+    "symptom_confirming": 21904
+  },
+  {
+    "date": 20220707,
+    "pcr": 57224191,
+    "hospitalize": 220364,
+    "positive": 9497363,
+    "severe": 67,
+    "discharge": 9226888,
+    "death": 31376,
+    "symptom_confirming": 18699
+  },
+  {
+    "date": 20220708,
+    "pcr": 57338122,
+    "hospitalize": 249033,
+    "positive": 9545149,
+    "severe": 71,
+    "discharge": 9243117,
+    "death": 31390,
+    "symptom_confirming": 21573
+  },
+  {
+    "date": 20220709,
+    "pcr": 57503759,
+    "hospitalize": 274965,
+    "positive": 9594706,
+    "severe": 74,
+    "discharge": 9265034,
+    "death": 31416,
+    "symptom_confirming": 23255
+  },
+  {
+    "date": 20220710,
+    "pcr": 57599849,
+    "hospitalize": 301659,
+    "positive": 9646444,
+    "severe": 80,
+    "discharge": 9285981,
+    "death": 31429,
+    "symptom_confirming": 27339
+  },
+  {
+    "date": 20220711,
+    "pcr": 57654151,
+    "hospitalize": 329765,
+    "positive": 9697362,
+    "severe": 75,
+    "discharge": 9305321,
+    "death": 31439,
+    "symptom_confirming": 30801
+  },
+  {
+    "date": 20220712,
+    "pcr": 57801434,
+    "hospitalize": 351618,
+    "positive": 9743395,
+    "severe": 83,
+    "discharge": 9331367,
+    "death": 31458,
+    "symptom_confirming": 28916
+  },
+  {
+    "date": 20220713,
+    "pcr": 57946853,
+    "hospitalize": 384203,
+    "positive": 9811586,
+    "severe": 90,
+    "discharge": 9357217,
+    "death": 31478,
+    "symptom_confirming": 38652
+  },
+  {
+    "date": 20220714,
+    "pcr": 58172781,
+    "hospitalize": 454069,
+    "positive": 9904093,
+    "severe": 100,
+    "discharge": 9388330,
+    "death": 31507,
+    "symptom_confirming": 30151
+  },
+  {
+    "date": 20220715,
+    "pcr": 58531251,
+    "hospitalize": 512570,
+    "positive": 10001432,
+    "severe": 107,
+    "discharge": 9421381,
+    "death": 31541,
+    "symptom_confirming": 35904
+  },
+  {
+    "date": 20220716,
+    "pcr": 58842307,
+    "hospitalize": 571400,
+    "positive": 10100723,
+    "severe": 114,
+    "discharge": 9458711,
+    "death": 31572,
+    "symptom_confirming": 39004
+  },
+  {
+    "date": 20220717,
+    "pcr": 58985909,
+    "hospitalize": 629406,
+    "positive": 10205555,
+    "severe": 129,
+    "discharge": 9498280,
+    "death": 31593,
+    "symptom_confirming": 46240
+  },
+  {
+    "date": 20220718,
+    "pcr": 59064160,
+    "hospitalize": 681409,
+    "positive": 10309157,
+    "severe": 144,
+    "discharge": 9541911,
+    "death": 31607,
+    "symptom_confirming": 54194
+  },
+  {
+    "date": 20220719,
+    "pcr": 59124535,
+    "hospitalize": 712611,
+    "positive": 10388790,
+    "severe": 155,
+    "discharge": 9586951,
+    "death": 31623,
+    "symptom_confirming": 57569
+  },
+  {
+    "date": 20220720,
+    "pcr": 59349065,
+    "hospitalize": 725898,
+    "positive": 10470152,
+    "severe": 176,
+    "discharge": 9658323,
+    "death": 31656,
+    "symptom_confirming": 54239
+  },
+  {
+    "date": 20220721,
+    "pcr": 59759713,
+    "hospitalize": 797450,
+    "positive": 10605391,
+    "severe": 189,
+    "discharge": 9730992,
+    "death": 31710,
+    "symptom_confirming": 45203
+  },
+  {
+    "date": 20220722,
+    "pcr": 60068880,
+    "hospitalize": 909261,
+    "positive": 10786217,
+    "severe": 191,
+    "discharge": 9785433,
+    "death": 31748,
+    "symptom_confirming": 59739
+  },
+  {
+    "date": 20220723,
+    "pcr": 60388026,
+    "hospitalize": 1016154,
+    "positive": 10982514,
+    "severe": 203,
+    "discharge": 9862761,
+    "death": 31812,
+    "symptom_confirming": 71751
+  },
+  {
+    "date": 20220724,
+    "pcr": 60598529,
+    "hospitalize": 1105850,
+    "positive": 11174623,
+    "severe": 233,
+    "discharge": 9951756,
+    "death": 31865,
+    "symptom_confirming": 85116
+  },
+  {
+    "date": 20220725,
+    "pcr": 60740142,
+    "hospitalize": 1188993,
+    "positive": 11347296,
+    "severe": 249,
+    "discharge": 10029561,
+    "death": 31898,
+    "symptom_confirming": 96808
+  },
+  {
+    "date": 20220726,
+    "pcr": 61007489,
+    "hospitalize": 1246605,
+    "positive": 11501307,
+    "severe": 271,
+    "discharge": 10133205,
+    "death": 31953,
+    "symptom_confirming": 89508
+  },
+  {
+    "date": 20220727,
+    "pcr": 61315793,
+    "hospitalize": 1291006,
+    "positive": 11681533,
+    "severe": 311,
+    "discharge": 10245908,
+    "death": 32061,
+    "symptom_confirming": 112522
+  },
+  {
+    "date": 20220728,
+    "pcr": 61696443,
+    "hospitalize": 1409428,
+    "positive": 11888769,
+    "severe": 346,
+    "discharge": 10378318,
+    "death": 32183,
+    "symptom_confirming": 68804
+  },
+  {
+    "date": 20220729,
+    "pcr": 62043198,
+    "hospitalize": 1521576,
+    "positive": 12118824,
+    "severe": 376,
+    "discharge": 10478473,
+    "death": 32299,
+    "symptom_confirming": 86440
+  },
+  {
+    "date": 20220730,
+    "pcr": 62420858,
+    "hospitalize": 1629717,
+    "positive": 12340762,
+    "severe": 403,
+    "discharge": 10587158,
+    "death": 32429,
+    "symptom_confirming": 91422
+  },
+  {
+    "date": 20220731,
+    "pcr": 62650509,
+    "hospitalize": 1715013,
+    "positive": 12553722,
+    "severe": 427,
+    "discharge": 10698293,
+    "death": 32520,
+    "symptom_confirming": 107860
+  },
+  {
+    "date": 20220801,
+    "pcr": 62768834,
+    "hospitalize": 1720539,
+    "positive": 12750534,
+    "severe": 428,
+    "discharge": 10878222,
+    "death": 32598,
+    "symptom_confirming": 119139
+  },
+  {
+    "date": 20220802,
+    "pcr": 63059645,
+    "hospitalize": 1730336,
+    "positive": 12918212,
+    "severe": 464,
+    "discharge": 11047575,
+    "death": 32707,
+    "symptom_confirming": 107558
+  },
+  {
+    "date": 20220803,
+    "pcr": 63391087,
+    "hospitalize": 1734592,
+    "positive": 13114013,
+    "severe": 478,
+    "discharge": 11215444,
+    "death": 32832,
+    "symptom_confirming": 131109
+  },
+  {
+    "date": 20220804,
+    "pcr": 63821091,
+    "hospitalize": 1828642,
+    "positive": 13345610,
+    "severe": 516,
+    "discharge": 11395722,
+    "death": 32989,
+    "symptom_confirming": 88221
+  },
+  {
+    "date": 20220805,
+    "pcr": 64108329,
+    "hospitalize": 1876343,
+    "positive": 13599002,
+    "severe": 556,
+    "discharge": 11582791,
+    "death": 33172,
+    "symptom_confirming": 106660
+  },
+  {
+    "date": 20220806,
+    "pcr": 64466510,
+    "hospitalize": 1911421,
+    "positive": 13835811,
+    "severe": 567,
+    "discharge": 11787484,
+    "death": 33361,
+    "symptom_confirming": 103509
+  },
+  {
+    "date": 20220807,
+    "pcr": 64677867,
+    "hospitalize": 1926610,
+    "positive": 14050690,
+    "severe": 551,
+    "discharge": 11978898,
+    "death": 33522,
+    "symptom_confirming": 111624
+  },
+  {
+    "date": 20220808,
+    "pcr": 64793303,
+    "hospitalize": 1946263,
+    "positive": 14249253,
+    "severe": 555,
+    "discharge": 12143803,
+    "death": 33676,
+    "symptom_confirming": 125475
+  },
+  {
+    "date": 20220809,
+    "pcr": 65075290,
+    "hospitalize": 1927680,
+    "positive": 14422251,
+    "severe": 581,
+    "discharge": 12345843,
+    "death": 33838,
+    "symptom_confirming": 114854
+  },
+  {
+    "date": 20220810,
+    "pcr": 65399021,
+    "hospitalize": 1906410,
+    "positive": 14618983,
+    "severe": 597,
+    "discharge": 12542473,
+    "death": 34088,
+    "symptom_confirming": 135976
+  },
+  {
+    "date": 20220811,
+    "pcr": 65908864,
+    "hospitalize": 1939682,
+    "positive": 14862087,
+    "severe": 603,
+    "discharge": 12797601,
+    "death": 34336,
+    "symptom_confirming": 90432
+  },
+  {
+    "date": 20220812,
+    "pcr": 66104960,
+    "hospitalize": 1993302,
+    "positive": 15087016,
+    "severe": 637,
+    "discharge": 12950366,
+    "death": 34550,
+    "symptom_confirming": 108762
+  },
+  {
+    "date": 20220813,
+    "pcr": 66467717,
+    "hospitalize": 1965837,
+    "positive": 15279380,
+    "severe": 625,
+    "discharge": 13198904,
+    "death": 34776,
+    "symptom_confirming": 79827
+  },
+  {
+    "date": 20220814,
+    "pcr": 66623819,
+    "hospitalize": 1931871,
+    "positive": 15445991,
+    "severe": 613,
+    "discharge": 13381669,
+    "death": 35014,
+    "symptom_confirming": 97401
+  },
+  {
+    "date": 20220815,
+    "pcr": 66742484,
+    "hospitalize": 1931536,
+    "positive": 15615963,
+    "severe": 607,
+    "discharge": 13544341,
+    "death": 35169,
+    "symptom_confirming": 104881
+  },
+  {
+    "date": 20220816,
+    "pcr": 67009438,
+    "hospitalize": 1870066,
+    "positive": 15775744,
+    "severe": 614,
+    "discharge": 13773593,
+    "death": 35384,
+    "symptom_confirming": 96665
+  },
+  {
+    "date": 20220817,
+    "pcr": 67309583,
+    "hospitalize": 1802642,
+    "positive": 15954030,
+    "severe": 627,
+    "discharge": 14006798,
+    "death": 35668,
+    "symptom_confirming": 108886
+  },
+  {
+    "date": 20220818,
+    "pcr": 67791810,
+    "hospitalize": 1787810,
+    "positive": 16162513,
+    "severe": 610,
+    "discharge": 14252639,
+    "death": 35968,
+    "symptom_confirming": 86060
+  },
+  {
+    "date": 20220819,
+    "pcr": 68045567,
+    "hospitalize": 1843430,
+    "positive": 16423765,
+    "severe": 627,
+    "discharge": 14440587,
+    "death": 36247,
+    "symptom_confirming": 103465
+  },
+  {
+    "date": 20220820,
+    "pcr": 68433006,
+    "hospitalize": 1855966,
+    "positive": 16679575,
+    "severe": 616,
+    "discharge": 14682165,
+    "death": 36530,
+    "symptom_confirming": 104878
+  },
+  {
+    "date": 20220821,
+    "pcr": 68601047,
+    "hospitalize": 1902563,
+    "positive": 16922365,
+    "severe": 632,
+    "discharge": 14865450,
+    "death": 36793,
+    "symptom_confirming": 117523
+  },
+  {
+    "date": 20220822,
+    "pcr": 68720047,
+    "hospitalize": 1934152,
+    "positive": 17140240,
+    "severe": 640,
+    "discharge": 15043716,
+    "death": 37021,
+    "symptom_confirming": 125315
+  },
+  {
+    "date": 20220823,
+    "pcr": 69033958,
+    "hospitalize": 1929296,
+    "positive": 17325737,
+    "severe": 646,
+    "discharge": 15251546,
+    "death": 37290,
+    "symptom_confirming": 107569
+  },
+  {
+    "date": 20220824,
+    "pcr": 69288700,
+    "hospitalize": 1936733,
+    "positive": 17519960,
+    "severe": 636,
+    "discharge": 15413992,
+    "death": 37607,
+    "symptom_confirming": 131592
+  },
+  {
+    "date": 20220825,
+    "pcr": 69675108,
+    "hospitalize": 1943522,
+    "positive": 17757370,
+    "severe": 637,
+    "discharge": 15669626,
+    "death": 37900,
+    "symptom_confirming": 106286
+  },
+  {
+    "date": 20220826,
+    "pcr": 69948534,
+    "hospitalize": 1982309,
+    "positive": 17984509,
+    "severe": 626,
+    "discharge": 15858018,
+    "death": 38210,
+    "symptom_confirming": 105936
+  },
+  {
+    "date": 20220827,
+    "pcr": 70389327,
+    "hospitalize": 1986188,
+    "positive": 18181102,
+    "severe": 624,
+    "discharge": 16071547,
+    "death": 38535,
+    "symptom_confirming": 84796
+  },
+  {
+    "date": 20220828,
+    "pcr": 70538559,
+    "hospitalize": 1961779,
+    "positive": 18354002,
+    "severe": 627,
+    "discharge": 16255517,
+    "death": 38783,
+    "symptom_confirming": 97887
+  },
+  {
+    "date": 20220829,
+    "pcr": 70650352,
+    "hospitalize": 1922109,
+    "positive": 18507227,
+    "severe": 628,
+    "discharge": 16440523,
+    "death": 39018,
+    "symptom_confirming": 105541
+  },
+  {
+    "date": 20220830,
+    "pcr": 70943434,
+    "hospitalize": 1830230,
+    "positive": 18633134,
+    "severe": 618,
+    "discharge": 16672078,
+    "death": 39266,
+    "symptom_confirming": 91524
+  },
+  {
+    "date": 20220831,
+    "pcr": 71376551,
+    "hospitalize": 1753473,
+    "positive": 18772716,
+    "severe": 591,
+    "discharge": 16868194,
+    "death": 39577,
+    "symptom_confirming": 111436
+  },
+  {
+    "date": 20220901,
+    "pcr": 71725416,
+    "hospitalize": 1719467,
+    "positive": 18940056,
+    "severe": 555,
+    "discharge": 17106528,
+    "death": 39893,
+    "symptom_confirming": 74132
+  },
+  {
+    "date": 20220902,
+    "pcr": 72029749,
+    "hospitalize": 1683666,
+    "positive": 19093369,
+    "severe": 539,
+    "discharge": 17288568,
+    "death": 40211,
+    "symptom_confirming": 80888
+  },
+  {
+    "date": 20220903,
+    "pcr": 72312165,
+    "hospitalize": 1677394,
+    "positive": 19228794,
+    "severe": 506,
+    "discharge": 17444951,
+    "death": 40558,
+    "symptom_confirming": 65855
+  },
+  {
+    "date": 20220904,
+    "pcr": 72432934,
+    "hospitalize": 1607059,
+    "positive": 19345924,
+    "severe": 523,
+    "discharge": 17613088,
+    "death": 40842,
+    "symptom_confirming": 84899
+  },
+  {
+    "date": 20220905,
+    "pcr": 72538460,
+    "hospitalize": 1543589,
+    "positive": 19450934,
+    "severe": 519,
+    "discharge": 17768544,
+    "death": 41067,
+    "symptom_confirming": 97698
+  }
+]

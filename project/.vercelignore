@@ -1,0 +1,11 @@
+.github
+.flake8
+.gitignore
+.gitmodules
+tests
+data
+README.ja.md
+README.md
+LICENSE
+debug.py
+run_script.py
